@@ -1,0 +1,468 @@
+﻿Index 0: 1 | 1. Background
+Index 1: 1 | 1.1 Making  Of Ram
+Index 2: 1 | 1.2 Structure  Of Ram
+Index 3: 1 | 1.3 Features  Of Ram
+Index 4: 1 | 1.4 New  Initiatives
+Index 5: 1 | 2. Departmental  Regulations
+Index 6: 1 | 2.1 Constitution Of The Railway Audit Branch
+Index 7: 1 | 3. Organizational  Structure  Of Ministry  Of Railways
+Index 8: 1 | 3.1 Composition Of Railway Board
+Index 9: 1 | 3.2 List Of Indian Railway Zones, Their Headquarters And Divisions
+Index 10: 1 | 3.3 All India Railway Map With Jurisdiction & Headquarters Only
+Index 11: 1 | 3.4 Broad Distribution Of Work Among Board Members
+Index 12: 1 | 4. General  Duties  Of The  Railway  Audit  Branch
+Index 13: 1 | 4.1 Functions Of Cag
+Index 14: 1 | 4.2 Functions Of Railway Audit Wing û
+Index 15: 1 | 4.3 Duties Of Directors  General Of Audit/Principal Directors Of Audit
+Index 16: 1 | 5. Types  Of Audit
+Index 17: 1 | 5.1 Financial Audit
+Index 18: 1 | 5.2 Compliance Audit
+Index 19: 1 | 5.3 Performance Audit
+Index 20: 1 | 6.1 Specific Reports - Related To More Important And Serious Irregularities Noticed.
+Index 21: 1 | 6.2 Audit Notes
+Index 22: 1 | 7. Disposal  Of Audit/Inspection  Reports
+Index 23: 1 | 7.1 Special Letters And Notes Or Objections Or Factual Statement
+Index 24: 1 | 1. Brief  On General  Administration  And  Vigilance  Department  Of Railway
+Index 25: 2 | 2. Organisation  Hierarchy  Of General  Administration
+Index 26: 2 | 3. Roles  And  Responsibilities  Of The  Department
+Index 27: 2 | 3.1 General Administration:
+Index 28: 2 | 3.2 Vigilance
+Index 29: 2 | 4. List  Of Activities
+Index 30: 2 | 5. Important  Risk  Parameters
+Index 31: 2 | 6. It Applications  Used  In General  Administrat Ion  And  Vigilance  Department
+Index 32: 2 | 7. Audit  Focus  Areas -Check  List
+Index 33: 2 | 7.1 Arbitration Awards
+Index 34: 2 | 7.2 Manpower Management
+Index 35: 2 | 7.3 List Of Items To Be Seen During Inspection.
+Index 36: 3 | 1. Brief  About  The  Accounts  Department
+Index 37: 3 | 2. Organizational  Hierarchy  Of Accounts  Department  In Ir
+Index 38: 3 | 2.1 At Ministry Level:
+Index 39: 3 | 2.2 At Zonal Level:
+Index 40: 3 | 3. Structure  Of Railway  Accounts
+Index 41: 3 | 3.1 Basis Of  Accounting
+Index 42: 3 | 3.2 Principle Of Allocation
+Index 43: 3 | 3.3 The Fund Accounting
+Index 44: 3 | 4. Roles  And  Responsibilities  Of The  Acco Unts  Department
+Index 45: 3 | 5. Criteria  For  Identification  Of Apex,  Audit  And  Implementing  Units  At Ministry  Level   And  Field  Level
+Index 46: 3 | 5.1 At Ministry Level
+Index 47: 3 | 5.2 At Zonal Level
+Index 48: 3 | 5.3 At Field Level
+Index 49: 3 | 6. Activities  Done  By The  Accounts  Department
+Index 50: 3 | 7. Important  Risk  Parameters  With  Respect  To The  Activities  Of Accounts  Department
+Index 51: 3 | 8. Computerized  Application  Software  In The  Accounts  Department
+Index 52: 3 | 9. Comprehensive  Checklist  For  Check  Of Various  Activities  Being  Performed  By The   Accounts  Department  Including  General  Chec Klist
+Index 53: 3 | 9.1 Audit Of Establishment Accounts
+Index 54: 3 | 9.2 Audit Of Expenditure
+Index 55: 3 | 9.3 Stores Accounts
+Index 56: 3 | 9.4 Workshop Accounts
+Index 57: 3 | 9.5 Audit Of Traffic Accounts
+Index 58: 3 | 9.6 Appropriation Accounts
+Index 59: 3 | 9.7 Maintenance Of General Books And Compilation Of Accounts
+Index 60: 3 | 9.8 Compilation Of Important Accounts
+Index 61: 3 | 9.9 Audit Of Appropriation Accounts
+Index 62: 3 | 9.10 Results Of Audit Of Approp Riation Accounts
+Index 63: 3 | 1. Brief  About  The  Department
+Index 64: 3 | 2. Organization  Hierarchy  Of Personnel  Department
+Index 65: 3 | 3. Roles  And  Responsibility  Of The  Department
+Index 66: 3 | 3.1 At Railway Board Level
+Index 67: 3 | 3.2 At Zonal Level/Divisional/Field Level
+Index 68: 3 | 6. It Applications  Used  In Personnel  Department
+Index 69: 3 | 6.1 Account Ing Information Management System (Aims)
+Index 70: 3 | 6.2 Nivaran
+Index 71: 3 | 6.3 Railway Employee Self Service (Ress)
+Index 72: 3 | 6.4 Human Resource Management (Hrms)
+Index 73: 3 | 6.5 Unique Medical Identification (Umid)
+Index 74: 3 | 7. Audit  Focus  Area  û Check  List
+Index 75: 3 | 7.1 Man Power Planning
+Index 76: 3 | 7.2 Recruitment
+Index 77: 3 | 7.3 Training And Development
+Index 78: 3 | 7.4 Salary And Allowances
+Index 79: 3 | 7.5 Transfers And Postings
+Index 80: 3 | 7.6 Performance Appraisal
+Index 81: 3 | 7.7 Employee Services And Benefits
+Index 82: 3 | 7.8 Promotions And Demotions
+Index 83: 3 | 7.9 Disciplinary Matters
+Index 84: 3 | 7.10 Settling Industrial Disputes
+Index 85: 3 | 7.11 Incentives And Financial Aids
+Index 86: 3 | 7.12 Setting Up And Maintenance Of Welfare Activities
+Index 87: 3 | 7.13 Pension, Post Retirement Benefits And Grievance Redressal Of Pensioners
+Index 88: 3 | 7.14 Audit Of Law Charges
+Index 89: 3 | 2. Organisation  Hierarchy  Of Medic Al Department
+Index 90: 3 | 3. Roles  Of The  Department
+Index 91: 3 | 3.2 At Zonal Level
+Index 92: 3 | 3.3 At Division/ Field Level
+Index 93: 3 | 6. It Applications  Used  In Medical  Department
+Index 94: 3 | 6.1 Indian Railways  E-Procurement System (Ireps)
+Index 95: 3 | 6.2 Hospital Management Information System (Hmis)
+Index 96: 3 | 7.2 Sanctions
+Index 97: 3 | 7.3 Review Of Tenders For Sanitation
+Index 98: 3 | 7.4 Pay Order And Other Vouchers Not Falling Under Any Definite Category (Misc. Vouchers)
+Index 99: 3 | 7.5 Audit Of Purchase Of Medical Plants And Equipment
+Index 100: 3 | 7.6 Audit Of Purchase And Issue Of Medicines & Consumables
+Index 101: 3 | 7.7 Manp Ower Planning
+Index 102: 3 | 7.8 Appointment Of Contract Medical Practitioners (Cmp)/ Honorary Visiting Specialists (Hvs)
+Index 103: 3 | 7.9 Recognition  Of Hospitals And Laboratories
+Index 104: 3 | 7.11 Matrons Account Including Linen Account
+Index 105: 3 | 7.12 Diet Charges
+Index 106: 3 | 7.13 Pre-Employment And Periodical Medical Examination
+Index 107: 3 | 7.14 Medical Certification (Issue Of Sick And Fit Certificates)
+Index 108: 3 | 7.15 Emergency Medical Treatment Of Travelling Passengers
+Index 109: 3 | 7.16 Monitoring Of Accident Relief Operations
+Index 110: 3 | 7.17 Monitoring Of Health And Family Welfare Programmes
+Index 111: 3 | 7.18 Monitoring Of Sanitation And Hygiene Activities
+Index 112: 3 | 7.19 Holding Of Seminars And Conferences For Continuous Medical Education
+Index 113: 3 | 7.20 Conducting Medical Audit (By Nominated Committee Of Doctors)
+Index 114: 3 | 2. Organisational  Structure  Of Civil  Engineering  Department
+Index 115: 3 | 2.1 Open Line
+Index 116: 3 | 2.2 Construction Organisation
+Index 117: 3 | 3.1 At Railwa Y Board Level
+Index 118: 3 | 3.3 At Division/Field Level
+Index 119: 3 | 6. It Applications  Used  In Engineering  Department
+Index 120: 3 | 6.1 Indian Railways Projects Sanctions & Management (Irpsm)
+Index 121: 3 | 6.2 Bridge Management System (Bms)
+Index 122: 3 | 6.3 Integrated Payroll & Accounting System (Ipas)
+Index 123: 3 | 6.4 Track Management System (Tms)
+Index 124: 3 | 6.5 Indian R Ailways E -Procurement System (Ireps)
+Index 125: 3 | 7.1 Works Programme
+Index 126: 3 | 7.3 Preparation And Approval Of Drawing Estimates
+Index 127: 3 | 7.4 Works Executed On De Posit Terms
+Index 128: 3 | 7.5 Review Of Tenders
+Index 129: 3 | 7.6 Advances To Contractors
+Index 130: 3 | 7.7 Review Of On Account Bills, Final Bills And Completed Contracts
+Index 131: 3 | 7.8 Audit Of Measurement Books
+Index 132: 3 | 7.9 Material Mod Ification
+Index 133: 3 | 7.10 ContractorsÆ Ledger
+Index 134: 3 | 7.11 Completion Reports/Completion Estimates/Completion Statements
+Index 135: 3 | 7.12 Works Registers And Revenue Allocation Registers
+Index 136: 3 | 7.13 Arbitration Awards
+Index 137: 3 | 7.14 Pay Order And Other Vouchers Not Falling Under Any Definite Category (Miscellaneous  Vouchers)
+Index 138: 3 | 7.15 Audit Of Journal Vouchers
+Index 139: 3 | 7.16 Objectionable Items Register
+Index 140: 3 | 7.17 Assisted Siding
+Index 141: 3 | 7.18 Abandoned Assets
+Index 142: 3 | 7.19 Maintenance And Renewal Of Assets
+Index 143: 3 | 7.20 Maintenance Of Station And Service Buildings
+Index 144: 3 | 7.21 Maintenance Of Residential And Office Buildings:
+Index 145: 4 | 7.22 Capital And Revenue Account Of Residential Building
+Index 146: 4 | 7.24 Maintenance Of Passenger Amenities
+Index 147: 4 | 7.25 Maintenance, Renewal And Rehabilitation Of Railway Bridges
+Index 148: 4 | 7.26 Land Management
+Index 149: 4 | 7.27 Utilisation Of Track Machines
+Index 150: 4 | 7.28 Obtaining Crs Sanction
+Index 151: 4 | 7.29 Compilation Of Accounts And Funds Certification
+Index 152: 4 | 7.30 Utilisation Of Un -Anticipated Credits
+Index 153: 4 | 7.31 New Services Not Contemplated In The Budget
+Index 154: 4 | 7.32 Expendit Ure Late In The Financial Year
+Index 155: 4 | 7.33 Expenditure On Undertaking Outside The Normal Scope Of Railway Working
+Index 156: 4 | 7.34 Tests To J Udge Productivity Of Capital Expenditure (Post Project Appraisal)
+Index 157: 4 | 7.35 Imprest Stores Accounts
+Index 158: 4 | 7.36 Law Charges
+Index 159: 4 | 7.37 Manpower Management
+Index 160: 4 | 7.38 Audit Of World Bank Aided Projects
+Index 161: 4 | 7.39 Public Private Partnership Projects
+Index 162: 4 | 1. Preparation  And  Approval  Of Drawings  And  Estimates
+Index 163: 4 | 2. Review  Of Tenders
+Index 164: 4 | 3. Advances  To Contracts
+Index 165: 4 | 4. Review  Of On Account  Bills,  Final  Bills  And  Completed  Contracts
+Index 166: 4 | 5. Audit  Of Measurement  Book
+Index 167: 4 | 6. Material  Modification
+Index 168: 4 | 7. ContractorsÆ  Ledger
+Index 169: 4 | 8. Completion  Reports/  Completion  Estimates/  Completion  Statements
+Index 170: 4 | 9. Works  Registers  And  Revenue  Allocation  Registers.
+Index 171: 4 | 10. Arbitration  Awards
+Index 172: 4 | 12. Audit  Of Journal  Vouchers
+Index 173: 4 | 13. Objectionable   Items  Register
+Index 174: 4 | 14. Audit  Of Works  Programme
+Index 175: 4 | 15. Audit  Of Sanctions  Of Work
+Index 176: 4 | 16. Audit  Of World  Bank  Aided  Projects
+Index 177: 4 | 17. Audit  Of Public  Private  Partnership  Projects
+Index 178: 4 | 1. About  The  Department
+Index 179: 4 | 2. Organisation  Hierarchy  Of Commercial  Department
+Index 180: 4 | 2.1 At Railway Board Level
+Index 181: 4 | 2.2 At Zonal Level
+Index 182: 4 | 2.3 At Divisional Level
+Index 183: 5 | 2.4 At Station Level Includ Ing Goods Sheds And Sidings
+Index 184: 5 | 3. Roles  And  Responsibilities  Of The  Commercial  Department
+Index 185: 5 | 3.1 At Railway Board Level Under Tr Affic (Commercial) Directorate
+Index 186: 5 | 3.3 At Divisional/Field Level
+Index 187: 5 | 6. It Applications  Used  In Commercial  Departme Nt
+Index 188: 5 | 6.1 Freight Operations Information System (Fois)
+Index 189: 5 | 6.2 Unreserved Ticketing System (Uts)
+Index 190: 5 | 6.3 Passenger  Reservation System (Prs)
+Index 191: 5 | 6.4 Parcel Management System  (Pms)
+Index 192: 5 | 6.5 Information/Data Available In Data Ware House
+Index 193: 5 | 7.1 Goods Activities
+Index 194: 5 | 7.2 Coaching Activities
+Index 195: 5 | 7.3 Licensing/Leasing Of Railway Land
+Index 196: 5 | 7.4 Lost P Roperty Office (Lpo)
+Index 197: 5 | 7.5 Traffic Suspense Account
+Index 198: 5 | 7.6 Policy On Accident Claims And Other Claims
+Index 199: 5 | 7.7 Provision Of Passenger Amenities
+Index 200: 5 | 7.8 Improving Infrastructure Involving Customer Service
+Index 201: 5 | 7.9 Public Grievance:  Centralised Public Grievances Redress And Monitoring System (Cpgrams)
+Index 202: 5 | 7.11 Dissemination Of Railway Board Circulars And Orders
+Index 203: 5 | 7.12 Justification For Introduction Of New Trains
+Index 204: 5 | 7.13 Meeting With Railway Users Consultation Committees
+Index 205: 5 | 7.14 Catering Audit
+Index 206: 5 | 7.15 Container Corporation Of India (Concor)
+Index 207: 6 | 7.16 Furnishing Of Data For Printing Of Zonal Time Table
+Index 208: 6 | 1. Introduct Ion
+Index 209: 6 | 1.1 Increase In Traffic
+Index 210: 6 | 1.2 The Major Objectives Of Operating Department In Ir Are As Follows:
+Index 211: 6 | 2. Organization  Structure
+Index 212: 6 | 2.1 At Railway Board And Zonal Level
+Index 213: 6 | 2.2 Field Level  - Division  (Operational Level) -
+Index 214: 6 | 3. Roles  And  Responsibilities  Of Department
+Index 215: 6 | 3.1 Level: Ministry Of Railways (Railway Boa Rd)
+Index 216: 6 | 3.2 Level: Zonal Headquarters
+Index 217: 6 | 3.3 Level: Divisional/Field
+Index 218: 6 | 4. Activities  Carried  Out  By The  Department  At The  Ministry  As Well  As The  Field  Level
+Index 219: 6 | 5. Important  Risk  Parameters  With  Respect  To The  Activities
+Index 220: 6 | 6. Computerized  Application  Software
+Index 221: 6 | 6.2 Crew Management System (Cms)
+Index 222: 6 | 6.3 Control Office Application (Coa)
+Index 223: 6 | 6.4 Integrated Coaching Management System (Icms)
+Index 224: 6 | 6.5 E-Procurement System (Eps) Including Eauction And Reverse Auction
+Index 225: 6 | 6.6 Ntes
+Index 226: 6 | 6.7 Software Aided Train Scheduling And Network Governance (Satsang)
+Index 227: 6 | 7. Comprehensive  Audit  Checklist
+Index 228: 6 | 7.1 Railway Board Level
+Index 229: 6 | 7.2 Zonal Level
+Index 230: 6 | 7.3 Audit Of Unit Level -
+Index 231: 6 | 8. Audit  Checks  In Respect  Of It Applications  In Operating  Department
+Index 232: 6 | 8.1 Crew Management System
+Index 233: 6 | 8.2 Integrated Coaching Management System (Icms)
+Index 234: 6 | 8.3 Audit Checks Of Fois
+Index 235: 6 | 2. Organisation  Hierarchy  Of Electrical  Engineering  Department
+Index 236: 9 | 2.1 Railway Board
+Index 237: 10 | 2.2 Zonal Railways
+Index 238: 10 | 2.3 Divisional Level
+Index 239: 10 | 2.4 Railway Electrification (Re):
+Index 240: 10 | 2.5 Construction Organisation
+Index 241: 10 | 3. List  Of Activities
+Index 242: 10 | 4. Identificat Ion  Of Risk  Parameters:
+Index 243: 10 | 5. Main  Focus  Areas ûAudit  Check:
+Index 244: 10 | 5.1 Works Related Matters
+Index 245: 10 | 5.2 Other Audit Checks
+Index 246: 10 | 5.3 Compilation Of Accounts And Funds Certification:
+Index 247: 10 | 5.4 Utilisation Of Un -Anticipat Ed Credits:
+Index 248: 10 | 5.5 New Services Not Contemplated In The Budget
+Index 249: 10 | 5.6 Expenditure Late In The Financial Year
+Index 250: 10 | 5.7 Human Capital Formation And Utilisation Of Zonal Training Institutes
+Index 251: 10 | 5.8 Tests To Judge Productivity Of Capital Expenditure (Post Project  Appraisal)
+Index 252: 10 | 5.9 Manpower Management
+Index 253: 10 | 5.10 Audit Of World Bank/Adb  Aided Projects
+Index 254: 10 | 5.11 Public Private Partnership Projects:
+Index 255: 10 | 5.12 Information Technology Systems
+Index 256: 10 | 5.13 Check List For Pcee Office Such As Check Of :-
+Index 257: 10 | 5.14 Check List For Sr. Dee Office Such As Check Of: -
+Index 258: 10 | 5.15 Check List For Adee Office Such As Check Of: -
+Index 259: 10 | 1. Brief  About  Signal  & Telecommunication  Department
+Index 260: 11 | 2. Organisational  Hierarchy  In Indian  Railways
+Index 261: 11 | 2.1 Organisational Structure At Railway Board Level
+Index 262: 11 | 2.2 Zonal Level Organisation
+Index 263: 11 | 2.3 Divisional Level Organisation
+Index 264: 11 | 2.4 Construction Organisation:
+Index 265: 11 | 5. List  Of Activities  At Ministry  And  Field  Level
+Index 266: 11 | 5.1 Zonal Level
+Index 267: 11 | 5.2 At Divisional Level
+Index 268: 11 | 6. Important  Risk  Parameters  With  Respect  To Activities
+Index 269: 11 | 7. Computerised  Applicatio N Software  And  Its Utilisation  By The  Department
+Index 270: 11 | 7.1 Management Information System
+Index 271: 11 | 7.2 Use Of It (Immis/Ireps) In Materia Ls Management :
+Index 272: 11 | 7.3 It (Irpsm) In Project Management
+Index 273: 11 | 7.4 It In Training Management
+Index 274: 11 | 7.5 It In Disaster Management
+Index 275: 11 | 7.6 Control Office Application (Coa)
+Index 276: 11 | 7.7 Centralized Traffic  Control
+Index 277: 11 | 8. Comprehensive  Check  Lists  For  Check  Of Various  Activities
+Index 278: 11 | 8.1 Audit Of Works Programme
+Index 279: 11 | 8.2 Audit Of Sanctions Of Work:
+Index 280: 11 | 8.3 Audit Of S&T Works
+Index 281: 11 | 8.4 Audit Of Abando Ned Assets:
+Index 282: 11 | 8.5 Audit Of Codal Life Register
+Index 283: 11 | 8.6 Audit Of Imprest Stores Accounts
+Index 284: 11 | 8.7 Audit Of Law Charges
+Index 285: 11 | 8.8 Audit Of Manpower Management
+Index 286: 11 | 8.9 Audit Of World Bank Aided Proje Cts
+Index 287: 11 | 8.10 Audit Of Public Private Partnership Projects
+Index 288: 11 | 8.11 Audit Of Commissioner Of Railway Safety (Crs) Sanctions
+Index 289: 11 | 8.12 Signalling
+Index 290: 11 | 8.13 Telecommunication
+Index 291: 11 | 1.1 Functions Of Mechanical Department
+Index 292: 11 | 2. Organisational  Setup  Of Mechanical  Engineering  Department
+Index 293: 11 | 2.2 Zonal Headquarters  Level
+Index 294: 12 | 2.4 Workshops Level
+Index 295: 12 | 3.1 Railway Board Level
+Index 296: 12 | 3.2 Zonal Headquarters Level
+Index 297: 12 | 3.3 Divisional Level
+Index 298: 12 | 3.4 Workshop Level (Carriages, Wagons & Locos)
+Index 299: 12 | 6. It Applications  Used  In Mechanical  Department
+Index 300: 12 | 7. Audit  Focus  Areas  - Check  List
+Index 301: 12 | 7.1 Audit Of Sanctions
+Index 302: 12 | 7.2 Audit Of Estimates
+Index 303: 12 | 7.3 Completion Repo Rts
+Index 304: 12 | 7.4 Stores Bills And Contractors Bills
+Index 305: 12 | 7.5 Bonus And Piece Work Bills
+Index 306: 12 | 7.6 Allowed Time
+Index 307: 12 | 7.7 Muster Rolls Cum  Labour Pay Sheets
+Index 308: 12 | 7.8 Miscellaneous Advances And Deposits Miscell Aneous Registers
+Index 309: 12 | 7.9 Stores Management
+Index 310: 12 | 7.10 Workshop Accounts
+Index 311: 12 | 7.11 History Sheet Of Rolling Stock
+Index 312: 12 | 7.12 Statistics Of Periodical Overhaul And Cost Of Unit Repair.
+Index 313: 12 | 7.13 Proforma Capital And Revenue Accounts Of Saloons Reserved For The Exclusive Use Of Other  Departments
+Index 314: 12 | 7.14 Outsourcing
+Index 315: 12 | 7.15 Annual Maintenance Of M&P
+Index 316: 12 | 7.16 Maintenance Of Asset Register
+Index 317: 12 | 7.17 Codal Life And Condemnation Of Rolling Stock
+Index 318: 12 | 7.18 Maintenance Of Weigh Bridges & Weighing Scales
+Index 319: 12 | 7.19 Poh Of  Rolling Stock Hired To/Owned By Defence Department
+Index 320: 12 | 7.20 Loaning/Hiring For Rolling Stock Loaned/Hired To Outside Parties And Other Government  Departments
+Index 321: 12 | 7.21 Hiring Charges For Plant & Machinery Let Out To Contractors
+Index 322: 12 | 7.22 Sale Of Heritage Rolling Stock
+Index 323: 12 | 7.23 Laboratory Accounts
+Index 324: 12 | 7.24 Work Orders
+Index 325: 13 | 7.25 Environment And Safety
+Index 326: 14 | 1. Brief  About  The  Production  Units
+Index 327: 14 | 2. Organisational  Structure  At Railway  Board  Level
+Index 328: 14 | 3. Organisational  Structure  At Production  Unit  (Pu)  Level
+Index 329: 14 | 4. Audit  Procedure
+Index 330: 14 | 2. Organisation  Hierarchy  Of Stores  Department
+Index 331: 14 | 3.3 At Division/ Depot (Field) Level
+Index 332: 14 | 5. Important  Risk  Parameters:
+Index 333: 14 | 6. It Applications  Used  In Stores  Department
+Index 334: 14 | 6.1 Indian Railways E -Procurement System (Ireps)
+Index 335: 14 | 6.2 Integrated Material Management Information System (Immis)
+Index 336: 14 | 6.3 Online Bill Submission And Payment In Ipas
+Index 337: 14 | 7. Audit  Focus  Areas - Check  List
+Index 338: 14 | 7.1 Stores Budget
+Index 339: 14 | 7.3 Review Of Completed Contracts
+Index 340: 14 | 7.4 Security Deposit
+Index 341: 14 | 7.5 Bills
+Index 342: 14 | 7.6 Receipt Return
+Index 343: 14 | 7.7 Delivery Notes
+Index 344: 14 | 7.8 Ledgers/ Transaction Register
+Index 345: 14 | 7.9 Statements
+Index 346: 14 | 7.10 Suspense Registers
+Index 347: 14 | 7.11 Stores In Transit Register
+Index 348: 14 | 7.12 Stock Adjustment Account
+Index 349: 14 | 7.13 Stores Adjustmen T Sheets
+Index 350: 14 | 7.15 Auction Sale Account
+Index 351: 14 | 7.16 Yearly Statement Of Stores Transactions
+Index 352: 14 | 7.17 Yearly Statement Of Purchases
+Index 353: 14 | 7.18 Locomotive Energy Account
+Index 354: 14 | 7.19 Linking Of Loco Coal Despatches With Receipts
+Index 355: 14 | 7.20 Inspection Work Of R Eceipt & Despatch  Wards Of Stores Depots
+Index 356: 14 | 7.21 Accountal, Custody And Disposal Of Scrap
+Index 357: 15 | 2. Organisational  Hirarchy
+Index 358: 15 | 2.1 Railway Board Level
+Index 359: 15 | 2.2 Zonal Headquarters Level
+Index 360: 15 | 3. Brief  Description  Of Safety  Organisation:  -
+Index 361: 15 | 3.1 Railway Board
+Index 362: 15 | 3.2 Zonal Railways
+Index 363: 15 | 3.4 Commissioner Of Railway  Safety (Crs):
+Index 364: 15 | 4. Roles  And  Responsibility  Of The  Department
+Index 365: 15 | 4.1 At Railway Board Level (Wing Wise Activities)
+Index 366: 15 | 4.2 At Zonal Level
+Index 367: 15 | 4.3 Responsibility And Function -Designation Wise (Zonal Rly Hq)
+Index 368: 15 | 4.5 Records Maintained At Zonal Head Quarters Level:
+Index 369: 15 | 4.6 Records Maintained At Divisional Level :
+Index 370: 15 | 5.1 Codes And Manuals
+Index 371: 15 | 5.2 Important Risk Parameters:
+Index 372: 15 | 6. It Application  Used  In The  Safety  Department
+Index 373: 15 | 7. Checks  To Be Exercised  By The  Audit  At Differe Nt Levels:
+Index 374: 15 | 7.1 Railway Board Level:
+Index 375: 15 | 7.2 Zonal Railway Headquarters Level:
+Index 376: 15 | 7.3 Divisional Level:
+Index 377: 16 | 2. Organisation  Hierarchy  Of Security  Department
+Index 378: 16 | 3.3 At Division Level/Field Level
+Index 379: 16 | 6. It Applications  Used
+Index 380: 16 | 7.1 Registration Of Crimes
+Index 381: 16 | 7.2 Transfer Of Cases
+Index 382: 16 | 7.3 Expunction  Of Crime
+Index 383: 16 | 7.4 Registration And Disposal Of Railway Act Cases
+Index 384: 16 | 7.5 Cases Of Theft/Pilferage Of Booked Consignments
+Index 385: 16 | 7.6 Custody And Disposal Of Seized Or Recovered Property
+Index 386: 16 | 7.7 Prevention Of Large Scale Trespass
+Index 387: 16 | 7.8 Child Rescu E And Protection Cases
+Index 388: 16 | 7.10 Liaison With Civil Administration Of The State
+Index 389: 16 | 7.11 Contribution Towards The Cost Of Order Police
+Index 390: 16 | 7.12 Recruitment
+Index 391: 16 | 7.13 Deplo Yment Of Staff
+Index 392: 16 | 7.14 Training
+Index 393: 16 | 7.15 Deputation Staff For Bandobast Duties
+Index 394: 16 | 7.16 Pay And Allowances, Advances And Other Establishment Bills
+Index 395: 16 | 7.17 Adhoc Bonus
+Index 396: 16 | 7.18 Ration Money Allowa Nce
+Index 397: 16 | 7.19 Arms And Ammunition
+Index 398: 16 | 7.20 Contract Management
+Index 399: 16 | 7.21 Imprest (Fuel And Repairing Of Vehicles).
+Index 400: 16 | 7.22 Dog Squads
+Index 401: 17 | 7.23 Stores Transactions
+Index 402: 17 | 8. Registers  To Be Checked
+Index 403: 17 | 1. Introduc Tion
+Index 404: 17 | 2. Cris  Organization
+Index 405: 17 | 3. Activities  Performed  By Cris  (Headquarters  & Regional  Offices)
+Index 406: 17 | 4. Cris  It Applications  (Internal)
+Index 407: 17 | 5. Mandate  For  Audit  Of Cris
+Index 408: 17 | 6. Compliance  Audit
+Index 409: 19 | 6.1 Checks At Regional Offices
+Index 410: 20 | 7. Evaluation  Of Internal  Control  Mechanism
+Index 411: 20 | 8. Adequacy  Of Internal  Audit  System
+Index 412: 20 | 2. Organisation  Hierarchy  Of Rlda
+Index 413: 20 | 4. Activities
+Index 414: 20 | 6. It Applications  Used  In Rlda
+Index 415: 20 | 7. Audit  Of Rlda
+Index 416: 20 | 7.1 Financial Attest Audit
+Index 417: 21 | 7.2 Compliance Audit
+Index 418: 21 | 1. Introduction
+Index 419: 21 | 2. Organisational  Hierarchy
+Index 420: 21 | 3. Roles  And  Responsibilities  Of The  Rspb
+Index 421: 21 | 3.1 At Ministry/Board Level
+Index 422: 21 | 3.2 Zonal Railways/Production Units/Other Organizations Level
+Index 423: 21 | 6. List  Of Items  To Be Checked  During  Audit:
+Index 424: 21 | 2. Audit  Jurisdiction
+Index 425: 21 | 3. Brief  Of Activities  Of Companies
+Index 426: 21 | 4. Check  List  For  Compliance  Audit
+Index 427: 21 | 5. Financial  Attest  Audit  Of Companies
+Index 428: 21 | 5.1 Audit Of Financial Statements Of Government Companies
+Index 429: 21 | 5.2 Supplementary Audit Of Financial Statements
+Index 430: 21 | 2. Functions  Of Rdso
+Index 431: 21 | 3. Organizational  Set  Up
+Index 432: 21 | 4. System  Of Audit
+Index 433: 21 | 5. Local  Audit/Inspections
+Index 434: 21 | 6. Use  Of It Applications  In Rdso
+Index 435: 21 | 8. Functions  And  Roles  Of The  Directorates
+Index 436: 21 | 8.1 Carr Iage
+Index 437: 21 | 8.2 Engine Development & Urban Transport & High Speed (Uths)
+Index 438: 21 | 8.3 Motive Power
+Index 439: 21 | 8.4 Electrical
+Index 440: 21 | 8.5 Research
+Index 441: 21 | 8.6 Signal
+Index 442: 21 | 8.7 Traction Installation
+Index 443: 21 | 8.8 Track Design
+Index 444: 21 | 8.9 Testing
+Index 445: 22 | 8.10 Telecommunication
+Index 446: 22 | 8.11 Track Machines And Monitoring
+Index 447: 22 | 8.12 Traffic
+Index 448: 22 | 8.13 Wagon
+Index 449: 22 | 8.14 Bridges And Structures
+Index 450: 22 | 8.15 Geo-Technical Engineering
+Index 451: 22 | 8.16 Metallurgical And Chemical
+Index 452: 22 | 8.17 Psycho -Technical
+Index 453: 22 | 8.18 Works
+Index 454: 22 | 8.19 Administration -I & Ii
+Index 455: 22 | 8.20 Quality Assurance û Mechanical û Qa-I
+Index 456: 22 | 8.21 Quality Assurance -Ii (Civil)
+Index 457: 22 | 8.22 Quality Assurance -Iii  (S&T)
+Index 458: 22 | 8.23 Stores
+Index 459: 22 | 8.24 Finance And Accounts
+Index 460: 22 | 2.1 File Management System (Efile)
+Index 461: 22 | 2.2 Audit Requirements For E -Files/Records
+Index 462: 22 | 5.1 Standard Procedure
+Index 463: 22 | 5.2 Representa Tion
+Index 464: 22 | 2. Enterpr Ise-Wide System
+Index 465: 22 | 3. Empowering The Auditor
+Index 466: 22 | 4. Web -Based Solution
+Index 467: 22 | 5. Functionalities/Services  Available

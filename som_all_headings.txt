@@ -1,0 +1,652 @@
+Total chunks: 651
+Line   1 | Ch     I | 1. The Tamil Nadu Government.-
+Line   2 | Ch     I | 2. The Ministers.-
+Line   3 | Ch     I | 3. The Secretariat.-
+Line   4 | Ch     I | 4. The Chief Secretary.-
+Line   5 | Ch     I | 5. The Secretaries to Government.-
+Line   6 | Ch     I | 6. Joint Secretary and Deputy Secretary.-
+Line   7 | Ch     I | 7. Under Secretary.-
+Line   8 | Ch     I | 8. Control of Office Matters.-
+Line   9 | Ch     I | 9. Section Officer.-
+Line  10 | Ch     I | 10. Assistant Section Officer, Assistant, Personal Clerk and Typist.-
+Line  11 | Ch     I | 11. Central Despatch Branches.- (Deleted)
+Line  12 | Ch     I | 12. Central Record Branch.-
+Line  13 | Ch     I | 13. Secretariat Library.-
+Line  14 | Ch     I | 14. Law Department Library.-
+Line  15 | Ch     I | 15. Legislative Assembly Library.-
+Line  16 | Ch     I | 16. Secretariat Telephone Automatic Exchange and Circulation Van.-
+Line  17 | Ch     I | 17. Conservancy and Watch and Ward Staff.-
+Line  18 | Ch    II | 18.
+Line  19 | Ch   III | 19.
+Line  20 | Ch   III | 20.
+Line  21 | Ch   III | 21.
+Line  22 | Ch   III | 22.
+Line  23 | Ch   III | 23.
+Line  24 | Ch   III | 24. On return of the drafts from *O.-
+Line  25 | Ch   III | 25.
+Line  26 | Ch   III | 26.
+Line  27 | Ch   III | 27.
+Line  28 | Ch    IV | 28. Nature of tappal.-
+Line  29 | Ch    IV | 29. Receipt of tappal.-
+Line  30 | Ch    IV | 30. Registered and insured articles.-
+Line  31 | Ch    IV | 31.
+Line  32 | Ch    IV | 32. Tappals brought by messengers out of office hours.-
+Line  33 | Ch    IV | 33. Acknowledgement of U. O. files, Petitions and other Tappals.-
+Line  34 | Ch    IV | 34. Opening of tappal.-
+Line  35 | Ch    IV | 35. Numbering of currents.-
+Line  36 | Ch    IV | 36.(a) Tappals received by officers direct.-
+Line  37 | Ch    IV | 37. Submission of unofficial tappal from other Department.-
+Line  38 | Ch    IV | 38. Perusal of 'Tappal' by Under Secretary-Points to be noted.-
+Line  39 | Ch    IV | 39.
+Line  40 | Ch    IV | 40.
+Line  41 | Ch    IV | 41. Transfer of Papers intended for other departments.-
+Line  42 | Ch    IV | 42. Treatment of valuable enclosures.-
+Line  43 | Ch    IV | 43. Treatment of adhesive stamps affixed to communications.-
+Line  44 | Ch    IV | 44. Submission of tappals to Officers concerned.-
+Line  45 | Ch    IV | 45. Distribution of currents in section.-
+Line  46 | Ch    IV | 46. Transfer of mis-sent currents from one section to another.-
+Line  47 | Ch    IV | 47. Examination of currents relating to more than one subject.-
+Line  48 | Ch    IV | 48.
+Line  49 | Ch    IV | 49. Deleted.
+Line  50 | Ch    IV | 50. Tappal.-
+Line  51 | Ch    IV | 51. Deleted.
+Line  52 | Ch    IV | 52. Tappal - Public Department.-
+Line  53 | Ch     V | 53. Personal register.-
+Line  54 | Ch     V | 54. Currents to be entered in register immediately on receipt.-
+Line  55 | Ch     V | 55. All communications to be registered.-
+Line  56 | Ch     V | 56. Number of entries on a page.-
+Line  57 | Ch     V | 57. Method of registry of papers.-
+Line  58 | Ch     V | 58.
+Line  59 | Ch     V | 59. Entries in column 5 of register.-
+Line  60 | Ch     V | 60.
+Line  61 | Ch     V | 61.
+Line  62 | Ch     V | 62.
+Line  63 | Ch     V | 63. Entry of nature of references-Abbreviations (column 9).-
+Line  64 | Ch     V | 64. Entry of reminders.-
+Line  65 | Ch     V | 65.
+Line  66 | Ch     V | 66. Closing of currents in Personal Register (Column 15).-
+Line  67 | Ch     V | 67. Entry of 'Lodged ' disposals (Column 15).-
+Line  68 | Ch     V | 68. Entry of disposal stitched with previous papers.-
+Line  69 | Ch     V | 69. Entry of disposal stitched with subsequent papers.-
+Line  70 | Ch     V | 70. Treatment of papers wrongly addressed.-
+Line  71 | Ch     V | 71. Instruction regarding registry of office papers.-
+Line  72 | Ch    VI | 72. Forms of Correspondence.-
+Line  73 | Ch    VI | 73. Contents of communications.-
+Line  74 | Ch    VI | 74. Communications received in Secretariat-Correspondence Rules to be enforced.-
+Line  75 | Ch    VI | 75. Communications issued from Secretariat to certain authorities-Special rules.-
+Line  76 | Ch    VI | 76.
+Line  77 | Ch    VI | 2. Invitations to foreigners to visit India -
+Line  78 | Ch    VI | 3. Indian Delegations visiting Foreign countries -
+Line  79 | Ch    VI | 4. Public bodies and private persons.-
+Line  80 | Ch    VI | 5. Indian Students and Missions abroad.-
+Line  81 | Ch    VI | 77. Instructions in regard to direct correspondence between.-
+Line  82 | Ch   VII | 78. (a) Secretary.-
+Line  83 | Ch   VII | 79.
+Line  84 | Ch   VII | 80. Preliminary points for action.-
+Line  85 | Ch   VII | 81.
+Line  86 | Ch   VII | 81. Duty of Officers at all levels to take note of previous
+Line  87 | Ch   VII | 81.
+Line  88 | Ch   VII | 81.C. Confirmation of oral Instructions.-
+Line  89 | Ch   VII | 82. Order of preference in dealing with papers.-
+Line  90 | Ch   VII | 83. Translation of papers.-
+Line  91 | Ch   VII | 84.
+Line  92 | Ch   VII | 85. Papers concerning more than one section-Submission to Officers-Procedure.-
+Line  93 | Ch   VII | 86. Referencing-Collection of papers and books of reference.-
+Line  94 | Ch   VII | 87. Care of papers put up.-
+Line  95 | Ch   VII | 88. Arrangement of cases.-
+Line  96 | Ch   VII | 89. Arrangement of put-up papers.-
+Line  97 | Ch   VII | 90.A 90. Current File.-
+Line  98 | Ch   VII | 90.A "A brown sheet should be used as a wrapper in all the pending files
+Line  99 | Ch   VII | 91. Note file.-
+Line 100 | Ch   VII | 92.
+Line 101 | Ch   VII | 93. Flagging reference.-
+Line 102 | Ch   VII | 94. Referencing the note file.-
+Line 103 | Ch   VII | 95. Chaining of papers.-
+Line 104 | Ch   VII | 96. Linking of files.-
+Line 105 | Ch   VII | 97. Noting.-
+Line 106 | Ch   VII | 98. Object and contents of a note.-
+Line 107 | Ch   VII | 99. Method of noting.-
+Line 108 | Ch   VII | 100.
+Line 109 | Ch   VII | 101. Special kinds of notes.-
+Line 110 | Ch   VII | 102. Use of "Routine Notes".-
+Line 111 | Ch   VII | 103.
+Line 112 | Ch   VII | 104. General instructions for preparation of draft.-
+Line 113 | Ch   VII | 105. Form and arrangement (Abstract).-
+Line 114 | Ch   VII | 106. Drafts to be complete and brief.-
+Line 115 | Ch   VII | 107. Prefacing an order with reference to previous.-
+Line 116 | Ch   VII | 108.
+Line 117 | Ch   VII | 109.
+Line 118 | Ch   VII | 110.
+Line 119 | Ch   VII | 111. Marginal entries and tabular statement.-
+Line 120 | Ch   VII | 112. Submission of more than one draft in a case.-
+Line 121 | Ch   VII | 113. References to Advocate-General.-
+Line 122 | Ch   VII | 114. Communication of Advocate-General's opinion to an outside.-
+Line 123 | Ch   VII | 115. Un-Official reference to offices outside the Secretariat.-
+Line 124 | Ch   VII | 116. Drafting of endorsement for signature.-
+Line 125 | Ch   VII | 117. Deleted.
+Line 126 | Ch   VII | 118. Deleted.
+Line 127 | Ch   VII | *119. Post copy of telephonic message.-
+Line 128 | Ch   VII | 120. Inclusion of entry regarding "withheld memorials ".-
+Line 129 | Ch   VII | 121.
+Line 130 | Ch   VII | 122. Marking of nature of proceedings and of enclosures.-
+Line 131 | Ch   VII | 123. Despatch instructions to be checked before issue.-
+Line 132 | Ch   VII | 124. Amounts should be written in words.-
+Line 133 | Ch   VII | 125. Drafts from orders Time allowed for submission.-
+Line 134 | Ch   VII | 126. Drafts not approved by officers or bearing their remarks.-
+Line 135 | Ch   VII | 127. Superseded drafts.-
+Line 136 | Ch   VII | 128. Style in draft and note.-
+Line 137 | Ch   VII | 129.
+Line 138 | Ch   VII | 130. Numbering of disposals.-
+Line 139 | Ch   VII | 131.
+Line 140 | Ch   VII | 132. Dating of Disposals.-
+Line 141 | Ch   VII | 133.
+Line 142 | Ch   VII | 134.
+Line 143 | Ch   VII | 135. Points to be observed after despatch.-
+Line 144 | Ch   VII | 136. Stock files.-
+Line 145 | Ch  VIII | 137.
+Line 146 | Ch  VIII | 138. Circulation of advance copy.-
+Line 147 | Ch  VIII | 139. References on questions.-
+Line 148 | Ch  VIII | 140.
+Line 149 | Ch  VIII | 141.
+Line 150 | Ch  VIII | 142. Draft answers and notes for supplementaries.-
+Line 151 | Ch  VIII | 143. Co-ordination of answers.-
+Line 152 | Ch  VIII | 144. Time limit for despatch of answers.-
+Line 153 | Ch  VIII | 145.
+Line 154 | Ch  VIII | 146.
+Line 155 | Ch  VIII | 147. Supply of published papers referred to in an answer.-
+Line 156 | Ch  VIII | 148. Submission to Ministers of files dealing with starred questions.-
+Line 157 | Ch  VIII | 149. Further action on questions.-
+Line 158 | Ch  VIII | 150. Uncorrected proceedings of the Assembly.-
+Line 159 | Ch  VIII | 151. Statements by Minister to correct errors.-
+Line 160 | Ch  VIII | 152. Short notice questions.-
+Line 161 | Ch  VIII | 153. Prorogation of Assembly.-
+Line 162 | Ch  VIII | 154.
+Line 163 | Ch  VIII | 155. Papers laid on the Table.-
+Line 164 | Ch  VIII | 156.
+Line 165 | Ch  VIII | 157. General.-
+Line 166 | Ch  VIII | 158. Notes on resolutions.-
+Line 167 | Ch  VIII | 159.
+Line 168 | Ch  VIII | 160. Further action on resolutions.-
+Line 169 | Ch    IX | 161.
+Line 170 | Ch    IX | 162.
+Line 171 | Ch    IX | 163.
+Line 172 | Ch    IX | 164. Sending of cases for perusal.-
+Line 173 | Ch    IX | 165. Communication of copies of notes to other departments.-
+Line 174 | Ch    IX | 166. Put-up-papers in unofficial files sent to Accountant General.-
+Line 175 | Ch     X | 167. All papers are confidential to outsiders and public.-
+Line 176 | Ch     X | 168. Classification of documents on security basis.-
+Line 177 | Ch     X | 169.
+Line 178 | Ch     X | 170. Treatment of papers regarding appointments and postings.-
+Line 179 | Ch     X | 171.
+Line 180 | Ch     X | 172. Treatment of punishment and appeal cases.-
+Line 181 | Ch     X | 173. Treatment of papers relating to matters of ―News Value‖.-
+Line 182 | Ch     X | 174.
+Line 183 | Ch     X | 175. Mode of addressing confidential covers to certain authorities.-
+Line 184 | Ch     X | 176. Spare copies of printed confidential orders.-
+Line 185 | Ch     X | 177. Number of copies for record.-
+Line 186 | Ch     X | 178.
+Line 187 | Ch     X | 179. Maintenance of confidential records in departments rules.-
+Line 188 | Ch     X | 180. Disposal of spare copies.-
+Line 189 | Ch     X | 181. Confidential publications.-
+Line 190 | Ch     X | 182. Custody of seals.-
+Line 191 | Ch     X | 183. Disposal of waste papers.-
+Line 192 | Ch    XI | 184. Points to be observed by Officers ordering circulation.-
+Line 193 | Ch    XI | 185.
+Line 194 | Ch    XI | 186.
+Line 195 | Ch    XI | 187.
+Line 196 | Ch    XI | 188.
+Line 197 | Ch    XI | 189. Section Officers' duties in watching Special files in circulation.-
+Line 198 | Ch    XI | 190.
+Line 199 | Ch    XI | 191. Entry of cases in circulation register.-
+Line 200 | Ch    XI | 192. Circulation Boxes.-
+Line 201 | Ch    XI | 193. Circulation cards.-
+Line 202 | Ch    XI | 194. Circulation of more than one case in a box.-
+Line 203 | Ch    XI | 195. Circulation of monthly index.-
+Line 204 | Ch    XI | 196. Circulation of cases to the Governor.-
+Line 205 | Ch    XI | 197. Circulation of cases to Minister.-
+Line 206 | Ch    XI | 198.
+Line 207 | Ch    XI | 199. Circulation of cases by Secretariat Circulation Van.-
+Line 208 | Ch    XI | 200.
+Line 209 | Ch    XI | 201. Checking of circulation van register.-
+Line 210 | Ch    XI | 202. Circulation otherwise than by van.-
+Line 211 | Ch    XI | 203. Special cases not to be sent by van.-
+Line 212 | Ch    XI | 204.
+Line 213 | Ch    XI | 205. Checking of delays in circulation.-
+Line 214 | Ch    XI | 206. Treatment of cases returned from circulation.-
+Line 215 | Ch    XI | 207. Cases returned to section direct from circulation.-
+Line 216 | Ch    XI | 208.
+Line 217 | Ch    XI | 209.
+Line 218 | Ch    XI | 210. Miscellaneous instructions to Assistant in-charge of circulation.-
+Line 219 | Ch    XI | 211. Circulation to the Governor on tour.-
+Line 220 | Ch    XI | 212. Circulation to Ministers on tour.-
+Line 221 | Ch    XI | 213. Tour circulation (i) Non-confidential papers.-
+Line 222 | Ch    XI | 214. Maintenance of tour circulation register.-
+Line 223 | Ch    XI | 215. Distribution of files returned from 'tour circulation' to departments.-
+Line 224 | Ch    XI | 216.
+Line 225 | Ch    XI | 217. Circulation of memorandum for the Cabinet-Duties of Departments.-
+Line 226 | Ch    XI | 218. Supply of spare copies.-
+Line 227 | Ch    XI | 219. Keys of circulation boxes.-
+Line 228 | Ch   XII | 220. Object of index two fold.-
+Line 229 | Ch   XII | 221. Title and head defined.-
+Line 230 | Ch   XII | 222. Head must be obvious and distinctive.-
+Line 231 | Ch   XII | 223. Consistency essential Standard heads and sub-heads- Unauthorized additions forbidden.-
+Line 232 | Ch   XII | 224. Use of heads and sub-heads.-
+Line 233 | Ch   XII | 225.
+Line 234 | Ch   XII | 226. Smaller heads may be used alone.-
+Line 235 | Ch   XII | 227. Local classification.-
+Line 236 | Ch   XII | 228. Personal papers.-
+Line 237 | Ch   XII | 229. Papers relating to Village Administrative Officers.-
+Line 238 | Ch   XII | 230. Papers relating to suits.-
+Line 239 | Ch   XII | 231. Bracketed heads.-
+Line 240 | Ch   XII | 232. Arrangement of several sub-heads.-
+Line 241 | Ch   XII | 233. Title proper.-
+Line 242 | Ch   XII | 234. Wording and articulation.-
+Line 243 | Ch   XII | 235. Two or more titles when necessary Cross-reference.-
+Line 244 | Ch   XII | 236. Indexing of orders of other departments.-
+Line 245 | Ch   XII | 237. Consolidation of titles when printing.-
+Line 246 | Ch   XII | 238. Indexing of questions and resolutions in the Legislative Assembly.-
+Line 247 | Ch   XII | 239.
+Line 248 | Ch   XII | 240. Indexing of budget motions.-
+Line 249 | Ch   XII | 241. Indexing of letter, demi-official, etc., disposals.-
+Line 250 | Ch   XII | 242. Examples of titles.-
+Line 251 | Ch   XII | 243. Duty of Section Officers regarding index titles.-
+Line 252 | Ch   XII | 244. System of Indexing Slip index.-
+Line 253 | Ch   XII | 245. Separate index for each department.-
+Line 254 | Ch   XII | 246.
+Line 255 | Ch   XII | 247.
+Line 256 | Ch   XII | 248.
+Line 257 | Ch   XII | 249.
+Line 258 | Ch   XII | 250.
+Line 259 | Ch   XII | 251.
+Line 260 | Ch   XII | 252.
+Line 261 | Ch   XII | 253.
+Line 262 | Ch   XII | 254.
+Line 263 | Ch   XII | 255. Progress reports on compilation of indexes.-
+Line 264 | Ch   XII | 256.
+Line 265 | Ch  XIII | 257. Printing work done at Government Central Press.-
+Line 266 | Ch  XIII | 258. When printing to be preferred to roneographing / copying.-
+Line 267 | Ch  XIII | 259. What papers may be printed.-
+Line 268 | Ch  XIII | 260.
+Line 269 | Ch  XIII | 261.
+Line 270 | Ch  XIII | 262. Confidential printing.-
+Line 271 | Ch  XIII | 263. Urgent printing.-
+Line 272 | Ch  XIII | 264. Work on Sundays and holidays.-
+Line 273 | Ch  XIII | 265.
+Line 274 | Ch  XIII | 266. Papers for printing not to be sent in batches.-
+Line 275 | Ch  XIII | 267. Spelling to be uniform.-
+Line 276 | Ch  XIII | 268. Tabular form to be avoided where possible.-
+Line 277 | Ch  XIII | 269. Printing in half-margin not ordinarily to be resorted to.-
+Line 278 | Ch  XIII | 270.
+Line 279 | Ch  XIII | 271. Double printing of identical matter to be avoided.-
+Line 280 | Ch  XIII | 272. Double printing of tabular statement, rules etc., prohibited.-
+Line 281 | Ch  XIII | 273. Use of colour inks for superscriptions etc. restricted.-
+Line 282 | Ch  XIII | 274. Use of 'Press slip'.-
+Line 283 | Ch  XIII | 275. Printing of correspondence in proceedings.-
+Line 284 | Ch  XIII | 276.
+Line 285 | Ch  XIII | 277. Printing of a case in instalments.-
+Line 286 | Ch  XIII | 278. Editing matter for the Press.-
+Line 287 | Ch  XIII | 279. Editing of correspondence to be printed in Government Orders.-
+Line 288 | Ch  XIII | 280. Section Officers held responsible for careful editing.-
+Line 289 | Ch  XIII | 281. What papers may be sent to Press.-
+Line 290 | Ch  XIII | 282. Proofs.-
+Line 291 | Ch  XIII | 283. Proof correction.-
+Line 292 | Ch  XIII | 284. Return of proof.-
+Line 293 | Ch  XIII | 285.
+Line 294 | Ch  XIII | 286. Transmission of papers to the Press.-
+Line 295 | Ch  XIII | 287.
+Line 296 | Ch  XIII | 288. Despatch of orders on printed reports.-
+Line 297 | Ch  XIII | 289. Gazette Notifications.-
+Line 298 | Ch  XIII | 290.
+Line 299 | Ch  XIII | 291. Holding over of exceptionally long Notifications.-
+Line 300 | Ch  XIII | 292. Gazette Extraordinary.-
+Line 301 | Ch  XIII | 293. Binding.-
+Line 302 | Ch  XIII | 294. Forms, covers, etc.-
+Line 303 | Ch  XIII | 295. Check on arrears.-
+Line 304 | Ch   XIV | 296. Duty of Deputy Secretary and Under Secretary.-
+Line 305 | Ch   XIV | 297.
+Line 306 | Ch   XIV | 298. Duty of Section Officer.-
+Line 307 | Ch   XIV | 299. Duty of Assistant Section Officer.-
+Line 308 | Ch   XIV | 300. Periodical Reports and Returns and Maintenance of.-
+Line 309 | Ch   XIV | 301. Procedure in checking delays and arrears.-
+Line 310 | Ch   XIV | 302. External arrears.-
+Line 311 | Ch   XIV | 303. Delay in Printing.-
+Line 312 | Ch   XIV | 304. Internal arrears.-
+Line 313 | Ch   XIV | 305. Personal Register (Manual / EFPS).-
+Line 314 | Ch   XIV | 306. (i) Five days rule.-
+Line 315 | Ch   XIV | 307. Daily Detention List.-
+Line 316 | Ch   XIV | 308.
+Line 317 | Ch   XIV | 309. Half Yearly Business Statement.-
+Line 318 | Ch   XIV | 310. Special list showing pendency.-
+Line 319 | Ch   XIV | 311.
+Line 320 | Ch   XIV | 311 A. Special Register of Suits.-
+Line 321 | Ch   XIV | 312. Delay with officers and in Circulation.-
+Line 322 | Ch   XIV | 313. Delay in issue.-
+Line 323 | Ch   XIV | 314. Delay in proof correction.-
+Line 324 | Ch   XIV | 315. Review of Long Pending Files.-
+Line 325 | Ch    XV | 316. General.-
+Line 326 | Ch    XV | 317. General rules regarding copying.-
+Line 327 | Ch    XV | 318.
+Line 328 | Ch    XV | 319.
+Line 329 | Ch    XV | 320. Endorsement.-
+Line 330 | Ch    XV | 321. Press Communique and Press Note.-
+Line 331 | Ch    XV | 322. Proceedings.-
+Line 332 | Ch    XV | 323. Address entries in fair copies of Proceedings.-
+Line 333 | Ch    XV | 324.
+Line 334 | Ch    XV | 325. Letters.-
+Line 335 | Ch    XV | 326. Demi-officials.-
+Line 336 | Ch    XV | 327. Questions in the Legislative Assembly.-
+Line 337 | Ch    XV | 328. Marking of important and urgent communications.-
+Line 338 | Ch    XV | 329. Preparation of disposal dockets.-
+Line 339 | Ch    XV | 330.
+Line 340 | Ch    XV | 331. Special precautions for checking financial statements.-
+Line 341 | Ch    XV | 332. Signing of papers.-
+Line 342 | Ch    XV | 333. Form of authentication of orders and proceedings.-
+Line 343 | Ch    XV | 334.
+Line 344 | Ch    XV | 335.
+Line 345 | Ch    XV | 336. Signing of letters.-
+Line 346 | Ch    XV | 337.
+Line 347 | Ch    XV | 338. Signing of orders on appeals for mercy.-
+Line 348 | Ch    XV | 339. Signing of fair copies-Special cases.-
+Line 349 | Ch    XV | 343.
+Line 350 | Ch    XV | 344. Date of receipt to be entered on papers.-
+Line 351 | Ch    XV | *345. Transmission of papers to and their treatment.-
+Line 352 | Ch    XV | *346.
+Line 353 | Ch    XV | 347.
+Line 354 | Ch    XV | 348. One envelope for all communications for same officer.-
+Line 355 | Ch    XV | 349. Checking of postal receipts for registered articles.-
+Line 356 | Ch    XV | 350. Despatch of copies of Government Orders within the Secretariat.-
+Line 357 | Ch    XV | 351. Method of enclosing papers in envelopes.-
+Line 358 | Ch    XV | 352. When papers may be sent packed-Used wax or cloth.-
+Line 359 | Ch    XV | 353. Use of special envelopes in certain cases.-
+Line 360 | Ch    XV | 354. Use of "Economy label".-
+Line 361 | Ch    XV | 355. Contents not to be noted on "Economy label".-
+Line 362 | Ch    XV | 356. Mode of addressing non-confidential packets.-
+Line 363 | Ch    XV | 357. Mode of addressing envelopes containing demi-official letters.-
+Line 364 | Ch    XV | 358. Communications sent to headquarters of addressees.-
+Line 365 | Ch    XV | 359. Marking "Important", "Urgent", etc.-
+Line 366 | Ch    XV | 360. Special instructions relating to "Petitions for mercy".-
+Line 367 | Ch    XV | 361. Packets sent by post.-
+Line 368 | Ch    XV | 362. Local delivery.-
+Line 369 | Ch    XV | 363. Despatch of valuables Procedure.-
+Line 370 | Ch    XV | 364. Despatch of records to the Tribunal for disciplinary proceedings.-
+Line 371 | Ch    XV | 365. "Urgent" and "Special" despatch by special messengers.-
+Line 372 | Ch    XV | 366. Affixure of despatch stamp on office copy.-
+Line 373 | Ch    XV | 367. Signed copy of printed proceedings To whom sent.-
+Line 374 | Ch    XV | 368.
+Line 375 | Ch    XV | 369.
+Line 376 | Ch    XV | 370. Postage charges.-
+Line 377 | Ch    XV | 371.
+Line 378 | Ch    XV | 372. Which communications are sent "service paid".-
+Line 379 | Ch    XV | 373. Service Stamps not to be used for Foreign Countries.-
+Line 380 | Ch   XVI | 377. Central Record Branch Repository of current records.-
+Line 381 | Ch   XVI | 378. Control.-
+Line 382 | Ch   XVI | 379. Inspection.-
+Line 383 | Ch   XVI | 380. Functions of the Central Record Branch.-
+Line 384 | Ch   XVI | 381. Custody or records.-
+Line 385 | Ch   XVI | 382. Duties of the Record establishment Section Officer.-
+Line 386 | Ch   XVI | 383. Record Assistants.-
+Line 387 | Ch   XVI | 384. Record Clerks.-
+Line 388 | Ch   XVI | 385. Office Assistant.-
+Line 389 | Ch   XVI | 386. Working hours (i) Working days.-
+Line 390 | Ch   XVI | 387. Lights in record rooms.-
+Line 391 | Ch   XVI | 388. Closing of the Central Record Branch.-
+Line 392 | Ch   XVI | 389.
+Line 393 | Ch   XVI | 390. Particular of records maintained.-
+Line 394 | Ch   XVI | 391. Supply of records Rules.-
+Line 395 | Ch   XVI | 392. Access of research students to records.-
+Line 396 | Ch   XVI | 393. Requisition for record Noting of current No. or purpose.-
+Line 397 | Ch   XVI | 394. Return of put away papers.-
+Line 398 | Ch   XVI | 395. Deposit of fresh disposals.-
+Line 399 | Ch   XVI | 396.
+Line 400 | Ch   XVI | 397. Watching of return of records.-
+Line 401 | Ch   XVI | 398. Central Record Branch Reminders.-
+Line 402 | Ch   XVI | 399. Tracing of missing originals.-
+Line 403 | Ch   XVI | 400. Register of proceedings, volumes, index, etc., maintenance.-
+Line 404 | Ch   XVI | 401. Deposit of personal registers and Government Order numbering books.-
+Line 405 | Ch   XVI | 402. Destruction of records.-
+Line 406 | Ch   XVI | 403. Procedure Regarding Destruction of Records.-
+Line 407 | Ch   XVI | 404. Before the records are actually destroyed.-
+Line 408 | Ch   XVI | 405. Mode of destruction.-
+Line 409 | Ch   XVI | 406. Register of records destroyed to be maintained.-
+Line 410 | Ch   XVI | 407. Transfer of confidential records from departments of.-
+Line 411 | Ch   XVI | 408.
+Line 412 | Ch   XVI | 409. Records in Tamil Nadu Archives Instructions.-
+Line 413 | Ch   XVI | 410. Preparation of record boards.-
+Line 414 | Ch   XVI | 411. Precautions against white-ants and record pests.-
+Line 415 | Ch  XVII | 412. Introductory.-
+Line 416 | Ch  XVII | 413. The Secretariat sub-exchange, Fort St. George.-
+Line 417 | Ch  XVII | 414. Arrangements during Saturdays, Sundays and other holidays.-
+Line 418 | Ch  XVII | 415. How to get connection through the Sub-exchange External connections.-
+Line 419 | Ch  XVII | 416. Special instructions for the operator at the sub-exchange.-
+Line 420 | Ch  XVII | 417. Instructions to telephone Assistants at the several office connections.-
+Line 421 | Ch  XVII | 418. Written messages General instructions.-
+Line 422 | Ch  XVII | 419. Telephone messages to and from officers.-
+Line 423 | Ch  XVII | 420.
+Line 424 | Ch  XVII | 421. Care of telephones.-
+Line 425 | Ch  XVII | 422. Repairs to telephones.-
+Line 426 | Ch  XVII | 423. Changes in the Chennai Telephone Directory.-
+Line 427 | Ch  XVII | 424. Payment of Telephone Charges.-
+Line 428 | Ch  XVII | 425. Residential Telephones Recovery of charges for excess calls.-
+Line 429 | Ch  XVII | 426. Correspondence regarding telephones.-
+Line 430 | Ch  XVII | 427.
+Line 431 | Ch  XVII | 428. Secretariat Inter-communication System.-
+Line 432 | Ch XVIII | 429. Control over buildings.-
+Line 433 | Ch XVIII | 430. Supervision over the buildings.-
+Line 434 | Ch XVIII | 431. Repairs and improvements.-
+Line 435 | Ch XVIII | 432. Counter signature of estimates.-
+Line 436 | Ch XVIII | 433.
+Line 437 | Ch XVIII | 434. Furniture, etc.-
+Line 438 | Ch XVIII | 435. Officers' rooms.-
+Line 439 | Ch XVIII | 436. Precautions against fire.-
+Line 440 | Ch XVIII | 437.
+Line 441 | Ch XVIII | 438. Electric installations.-
+Line 442 | Ch XVIII | 439.
+Line 443 | Ch XVIII | 440. Use of electric lights, fans and lifts.-
+Line 444 | Ch XVIII | 441. Conservancy and watch and ward staff.-
+Line 445 | Ch XVIII | 442. Control.-
+Line 446 | Ch XVIII | 443. Watch and Ward staff.-
+Line 447 | Ch XVIII | 444. Conservancy staff.-
+Line 448 | Ch XVIII | 445. Hours of attendance.-
+Line 449 | Ch XVIII | 446. Uniform.-
+Line 450 | Ch XVIII | 447. Sentries.-
+Line 451 | Ch XVIII | 448. Closing of the office.-
+Line 452 | Ch XVIII | 449. Night watch.-
+Line 453 | Ch XVIII | 450. Legislative Assembly Chambers.-
+Line 454 | Ch XVIII | 451.
+Line 455 | Ch XVIII | 452. Tiffin rooms.-
+Line 456 | Ch XVIII | 453. Filter.-
+Line 457 | Ch XVIII | 454. Lavatories.-
+Line 458 | Ch XVIII | 455. Motor sheds.-
+Line 459 | Ch XVIII | 455A. Place of Worship.- The Public (Buildings) Department, should
+Line 460 | Ch XVIII | 456. Waste paper.-
+Line 461 | Ch   XIX | 457. Functions.-
+Line 462 | Ch   XIX | 458. Control.-
+Line 463 | Ch   XIX | 459. Staff.-
+Line 464 | Ch   XIX | 460. Supervision of staff.-
+Line 465 | Ch   XIX | 461. Daily itinerary.-
+Line 466 | Ch   XIX | 462.
+Line 467 | Ch   XIX | 463. Special calls at the Ministers' houses.-
+Line 468 | Ch   XIX | 464. No trips on Government holidays.-
+Line 469 | Ch   XIX | 465. Registers.-
+Line 470 | Ch    XX | 466. Conditions of Service - Secretariat - Establishment.-
+Line 471 | Ch    XX | 467.
+Line 472 | Ch    XX | 468. Tamil Nadu Secretariat-Establishment.-
+Line 473 | Ch    XX | 469. Allotments, Promotion, reversions and re-allotments under one unit Scheme.-
+Line 474 | Ch    XX | 470. Appointment of Record Clerks and Office Assistants.-
+Line 475 | Ch    XX | 471. Service Registers.-
+Line 476 | Ch    XX | 472.
+Line 477 | Ch    XX | 473. Maintenance of Duplicate Service Registers by Government Servants.-
+Line 478 | Ch    XX | 474.
+Line 479 | Ch    XX | 475. Punishments, Suspension, etc. Entries to be made.-
+Line 480 | Ch    XX | 476. Review of suspension cases suo-moto.-
+Line 481 | Ch    XX | 477. Personal files (1) Introduction.-
+Line 482 | Ch    XX | 2. Object.-
+Line 483 | Ch    XX | 3. Applicability.-
+Line 484 | Ch    XX | 4. Periodicity.-
+Line 485 | Ch    XX | 6. Method of writing personal files.-
+Line 486 | Ch    XX | 7. Method of reporting upon the integrity of the officer.-
+Line 487 | Ch    XX | 8. Open system.-
+Line 488 | Ch    XX | 9. Communication of adverse remarks.-
+Line 489 | Ch    XX | 10. Entries to be made and not to be made in the Personal Files.-
+Line 490 | Ch    XX | 11. Preservation of Personal Files.-
+Line 491 | Ch    XX | 12. Watching movement of personal files.-
+Line 492 | Ch    XX | 478. Regulation of Services and completion of probation.-
+Line 493 | Ch    XX | 479. Probation Register Maintenance of - Procedure.-
+Line 494 | Ch    XX | 480. Probation sheet.-
+Line 495 | Ch    XX | 481. Maintenance of Increment Register.-
+Line 496 | Ch    XX | 482. Temporary Establishment Register.-
+Line 497 | Ch    XX | 483. *Appointment to substantive capacity.-
+Line 498 | Ch    XX | 484. Advancement to Selection Grade/Special Grade Posts in.-
+Line 499 | Ch    XX | 485.
+Line 500 | Ch    XX | 486. Preparation of Pension Papers.-
+Line 501 | Ch    XX | 487.
+Line 502 | Ch    XX | 488. Family Pension-Mode of Payment.-
+Line 503 | Ch    XX | 489.
+Line 504 | Ch    XX | 490.
+Line 505 | Ch    XX | 491.
+Line 506 | Ch    XX | 492.
+Line 507 | Ch    XX | 493. Tamil Nadu Government Employees Special Provident Fund-.-
+Line 508 | Ch   XXI | 494. General.-
+Line 509 | Ch   XXI | 495. Preparation of Bills.-
+Line 510 | Ch   XXI | 496.
+Line 511 | Ch   XXI | 497.
+Line 512 | Ch   XXI | 498. Payments Accounting procedure - Maintenance of Undisbursed Pay Register.-
+Line 513 | Ch   XXI | 499. Cashing of cheques Maintenance of Joint Account - Procedure.-
+Line 514 | Ch   XXI | 500. Movement of cash Procedure.-
+Line 515 | Ch   XXI | 501. Disbursement of salary Procedure.-
+Line 516 | Ch   XXI | 502. Maintenance of Cash Book Procedure.-
+Line 517 | Ch   XXI | 503. Subsidiary Cash Book Maintenance of.-
+Line 518 | Ch   XXI | 504. Preparation of bills.-
+Line 519 | Ch   XXI | 505. Service Books and leave account.-
+Line 520 | Ch   XXI | 506. Preparation of number statement.-
+Line 521 | Ch   XXI | 507. (i) Control of Expenditure.-
+Line 522 | Ch   XXI | 508. Contingent expenditure.-
+Line 523 | Ch   XXI | 509. Permanent Advance.-
+Line 524 | Ch  XXII | 510. Office Hours.-
+Line 525 | Ch  XXII | 511. Earlier hours of attendance on certain occasions.-
+Line 526 | Ch  XXII | 512. Attendance of staff.-
+Line 527 | Ch  XXII | 513. Staying after office hours.-
+Line 528 | Ch  XXII | 514.
+Line 529 | Ch  XXII | 515. Record Clerks and Office Assistants Hours of Attendance.-
+Line 530 | Ch  XXII | 516.
+Line 531 | Ch  XXII | 517. Late attendance.-
+Line 532 | Ch  XXII | 518. Regularization of late attendance and leaving office early.-
+Line 533 | Ch  XXII | 519.
+Line 534 | Ch  XXII | 520. Attendance Register.-
+Line 535 | Ch  XXII | 521. Lunch interval.-
+Line 536 | Ch  XXII | 522.
+Line 537 | Ch  XXII | 523. Turn Duty on working days.-
+Line 538 | Ch  XXII | 524. Holidays.-
+Line 539 | Ch  XXII | 525. Holiday turns.-
+Line 540 | Ch  XXII | 526. Holidays, submission of papers to officers.-
+Line 541 | Ch  XXII | 527. Compensatory holidays.-
+Line 542 | Ch  XXII | 528. Leave.-
+Line 543 | Ch  XXII | 529. Procedure in dealing with leave applications.-
+Line 544 | Ch  XXII | 530. Medical leave.-
+Line 545 | Ch  XXII | 531. Communication of orders on leave applications.-
+Line 546 | Ch  XXII | 532. Casual leave and Restricted Holidays.-
+Line 547 | Ch  XXII | 533. Address during Casual Leave.-
+Line 548 | Ch  XXII | 534.
+Line 549 | Ch  XXII | 535.
+Line 550 | Ch  XXII | 536. Examination leave.-
+Line 551 | Ch  XXII | 537. Absence due to infectious disease.-
+Line 552 | Ch  XXII | 538. (i) Hours of Attendance.-
+Line 553 | Ch  XXII | 539. General Discipline (i) Punctuality and general behaviour.-
+Line 554 | Ch  XXII | 540. Tidiness and cleanliness of the office.-
+Line 555 | Ch  XXII | 541. Use of identification measures by Basic Servants.-
+Line 556 | Ch  XXII | 542. Miscellaneous instructions.-
+Line 557 | Ch  XXII | 543. Transfer or leave.-
+Line 558 | Ch  XXII | 544. Transfer of papers between Assistant Section Officers.-
+Line 559 | Ch  XXII | 545.
+Line 560 | Ch  XXII | 546. Service of summons in the office by bailiffs.-
+Line 561 | Ch  XXII | 547. Maintenance of reference books in section.-
+Line 562 | Ch  XXII | 548. Knowledge of Office Procedure.-
+Line 563 | Ch XXIII | 549. Control.-
+Line 564 | Ch XXIII | 550. Office Procedures Section.-
+Line 565 | Ch XXIII | 551. Office Correspondence.-
+Line 566 | Ch XXIII | 552. Office Papers.-
+Line 567 | Ch XXIII | 553. Periodical returns.-
+Line 568 | Ch XXIII | 554. Address of Officers and Staff.-
+Line 569 | Ch XXIII | 555. Return of Assets and Liabilities.-
+Line 570 | Ch XXIII | 556. Office Purchases.-
+Line 571 | Ch XXIII | *557.
+Line 572 | Ch XXIII | 558. Stationery and forms.-
+Line 573 | Ch XXIII | 559.
+Line 574 | Ch XXIII | 560. Custody of date stamps and self-registering stamps.-
+Line 575 | Ch XXIII | 561. Books in officer's rooms.-
+Line 576 | Ch XXIII | 562. Printing of establishment lists.-
+Line 577 | Ch XXIII | 563. Circulation of Gazettes (i) The "GAZETTE OF INDIA".-
+Line 578 | Ch XXIII | 564. Copies of Acts received from Press.-
+Line 579 | Ch XXIII | 565. Bicycles. (a) (i) Initial supply.-
+Line 580 | Ch XXIII | 566. Liveries.-
+Line 581 | Ch XXIII | 567. Typewriters/Computers and other copying machines.-
+Line 582 | Ch XXIII | 568. Inventory of office furniture and other stores.-
+Line 583 | Ch XXIII | 569. Sale of unserviceable articles.-
+Line 584 | Ch XXIII | 570.
+Line 585 | Ch XXIII | 571.
+Line 586 | Ch XXIII | 572. Supply of Stationery to Officers.-
+Line 587 | Ch XXIII | 573. Office Assistants.-
+Line 588 | Ch XXIII | 574.
+Line 589 | Ch XXIII | 575. Sanction of Loans and Advances.-
+Line 590 | Ch XXIII | 576. Reimbursement of Medical expenses.-
+Line 591 | Ch  XXIV | 577.
+Line 592 | Ch  XXIV | 578. Control.-
+Line 593 | Ch  XXIV | 579. Duties of the Librarian.-
+Line 594 | Ch  XXIV | 580. Library correspondence Register and filing.-
+Line 595 | Ch  XXIV | 581. Disposal.-
+Line 596 | Ch  XXIV | 582. Receipt of books and periodicals.-
+Line 597 | Ch  XXIV | 583. Transmission of publications not intended for Library.-
+Line 598 | Ch  XXIV | 584. Books to be maintained in the Library.-
+Line 599 | Ch  XXIV | 585. Stocking of books and publications and their distribution.-
+Line 600 | Ch  XXIV | 586. Circulation of latest additions of books lists.-
+Line 601 | Ch  XXIV | 587.
+Line 602 | Ch  XXIV | 588. Catalogue of new books.-
+Line 603 | Ch  XXIV | 589. Data Entries of books.-
+Line 604 | Ch  XXIV | 590. Issue of books from the Library General Rules.-
+Line 605 | Ch  XXIV | 591. Consultation of books in the Library.-
+Line 606 | Ch  XXIV | 592. Issue of books from Library (Browne charging system).-
+Line 607 | Ch  XXIV | 593. Restoration of books returned.-
+Line 608 | Ch  XXIV | 594. Issue of books to Ministers.-
+Line 609 | Ch  XXIV | 595.
+Line 610 | Ch  XXIV | 596.
+Line 611 | Ch  XXIV | 597.
+Line 612 | Ch  XXIV | 598. Library Committee for book selection.-
+Line 613 | Ch  XXIV | 599. Watching the receipt of other Government publication.-
+Line 614 | Ch  XXIV | 600. Purchase of books for Ministers.-
+Line 615 | Ch  XXIV | 601. Scrutiny of bills.-
+Line 616 | Ch  XXIV | 602. List of newspapers and periodicals.-
+Line 617 | Ch  XXIV | 603. Submission of list of periodicals to officers.-
+Line 618 | Ch  XXIV | 604. Circulation and return of periodicals.-
+Line 619 | Ch  XXIV | 605. Treatment of periodicals after perusal.-
+Line 620 | Ch  XXIV | 606. Return of newspapers.-
+Line 621 | Ch  XXIV | 607.
+Line 622 | Ch  XXIV | 608.
+Line 623 | Ch  XXIV | 609.
+Line 624 | Ch  XXIV | 610.
+Line 625 | Ch  XXIV | 611.
+Line 626 | Ch  XXIV | 612. Reference books for Ministers.-
+Line 627 | Ch  XXIV | 613.
+Line 628 | Ch  XXIV | 614.
+Line 629 | Ch  XXIV | 615.
+Line 630 | Ch  XXIV | 616. Tamil Nadu Government Gazette.-
+Line 631 | Ch  XXIV | 617.
+Line 632 | Ch  XXIV | 618.
+Line 633 | Ch  XXIV | 619.
+Line 634 | Ch  XXIV | 620. Destruction of registers.-
+Line 635 | Ch  XXIV | 621. Stock-taking of books.-
+Line 636 | Ch   XXV | 622. Press cuttings.-
+Line 637 | Ch   XXV | 623. Release of information to the press.-
+Line 638 | Ch   XXV | 624. Administration reports-publication-procedure.-
+Line 639 | Ch   XXV | 625. Publicity-procedure.-
+Line 640 | Ch   XXV | 626.
+Line 641 | Ch   XXV | 627. Release of Government Advertisements.-
+Line 642 | Ch   XXV | 628. Tours of Minister.-
+Line 643 | Ch   XXV | 629. Presents to Basic Servants.-
+Line 644 | Ch   XXV | 630. Use of file boards and circulation cards.-
+Line 645 | Ch   XXV | 631. Economy in use of stationery.-
+Line 646 | Ch   XXV | 632. Economy in Expenditure on Contingencies.-
+Line 647 | Ch   XXV | 633. Rules regarding grant of copies of official documents.-
+Line 648 | Ch   XXV | 634. Production of Documents in Civil Courts.-
+Line 649 | Ch   XXV | 634 A. Procedure for disposal of interim/final order or direction of
+Line 650 | Ch   XXV | 635.
+Line 651 | Ch   XXV | 636. Record of discussions.-

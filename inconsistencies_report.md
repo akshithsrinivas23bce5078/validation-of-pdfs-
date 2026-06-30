@@ -1,0 +1,185 @@
+# RAM 2022 JSONL Inconsistencies Report
+
+Total chunks checked: 521
+
+## 1. Short Chunks (< 50 chars) (0)
+Chunks with very little content that might indicate missing extraction.
+
+
+## 2. Incomplete / Abrupt Endings (167)
+Chunks whose text does not end with a standard punctuation mark (e.g., . ! ?).
+
+- **Ch 2** - 3. Roles  And  Responsibilities  Of The  Department (Index 7): `...aming of policy / rules and interpretation thereof`
+- **Ch 2** - 4. List  Of Activities (Index 10): `...n System (IRVINS). 7. AUDIT FOCUS AREAS-CHECK LIST`
+- **Ch 2** - 7.3 List Of Items To Be Seen During Inspection. (Index 16): `...under repair VIII) Diet charges recovery statement`
+- **Ch 3** - 5.1 At Ministry Level (Index 28): `...onal levels of Accounts Department are as follows:`
+- **Ch 3** - 5.2 At Zonal Level (Index 29): `...EDF(C), EDF (S), JDF(BC) EDF(RM) EDF-X-I, EDF-X-II`
+- **Ch 3** - 5.3 At Field Level (Index 30): `...FA Sr. AFA/AFA Sr. Sr. Sr. AFA/AFA AFA/AFA AFA/AFA`
+- **Ch 3** - 6. Activities  Done  By The  Accounts  Department (Index 31): `...HE ACCOUNTS DEPARTMENT INCLUDING GENERAL CHECKLIST`
+- **Ch 4** - 7.6 Performance Appraisal (Index 64): `... the case officials appointed during 01.01.2004 to`
+- **Ch 4** - 7.7 Employee Services And Benefits (Index 65): `...Government Contribution is paid to the PFRDA up to`
+- **Ch 4** - 7.9 Disciplinary Matters (Index 67): `...r the amount of loan was submitted by the employee`
+- **Ch 5** - 1. BRIEF ABOUT THE DEPARTMENT T (Index 73): `...HY OF MEDICAL DEPARTMENT The Medical Department at`
+- **Ch 5** - 7. AUDIT FOCUS AREAS-CHECK LIST (R (Index 84): `...e Railway Board are included under Approved Annual`
+- **Ch 6** - 1. BRIEF ABOUT THE DEPARTMENT T (Index 105): `...jects, the following should be seen (cf. Para 5.2,`
+- **Ch 6** - 3. ROLES AND RESPONSIBILITIES OF THE DEPARTMENT
+I) F (Index 109): `... Railway Board Estimates 2. Sanctions by the GM of`
+- **Ch 6** - 3.2 Zonal Railways or the CAO of Construction Organisation 175 Apex & Preparation and approval 1. Design (Index 111): `...jects, the following should be seen (cf. Para 5.2,`
+- **Ch 6** - 4. LIST OF ACTIVITIES L (Index 113): `...jects, the following should be seen (cf. Para 5.2,`
+- **Ch 6** - 5. Staff quarters and other assets relating to staff amenities (Index 114): `...jects, the following should be seen (cf. Para 5.2,`
+- **Ch 6** - 7. Leasing of land (Index 121): `...ertification 3. Final Modification (FM) RB, Apex &`
+- **Ch 6** - 7.2 Manpower management 1. Creation of posts Field units 2. Placing Indents for recruitment of personnel (Index 123): `...jects, the following should be seen (cf. Para 5.2,`
+- **Ch 6** - 7.3 Preparation And Approval Of Drawing Estimates (Index 124): `... components of expenditure in Indian Railways are:`
+- **Ch 6** - 7.5 Review Of Tenders (Index 126): `...s. The minor Heads classifications are as follows:`
+- **Ch 6** - 7.7 Review Of On Account Bills, Final Bills And Completed Contracts (Index 128): `...ys 2. MH Miscellaneous The expenditure towards pay`
+- **Ch 6** - 7.8 Audit Of Measurement Books (Index 129): `...on 8. SMH Operating Salary and offices expenses of`
+- **Ch 6** - 7.9 Material Mod Ification (Index 130): `...Sheds. 10. SMH Operating The Pay and allowances of`
+- **Ch 6** - 7.11 Completion Reports/Completion Estimates/Completion Statements (Index 132): `...s. 13. SMH Provident Fund, The expenditure towards`
+- **Ch 6** - 7.19 Maintenance And Renewal Of Assets (Index 140): `... to Government servants and Deposits Miscellaneous`
+- **Ch 6** - 7.22 Capital And Revenue Account Of Residential Building (Index 143): `...PO). 3. ROLES AND RESPONSIBILITY OF THE DEPARTMENT`
+- **Ch 6** - 7.25 Maintenance, Renewal And Rehabilitation Of Railway Bridges (Index 146): `... Re-deployment of medically de-categorized staff16`
+- **Ch 6** - 7.26 Land Management (Index 147): `...e field units and benefits Railway Passes and PTOs`
+- **Ch 6** - 7.27 Utilisation Of Track Machines (Index 148): `...te allowance Family pension Commutation of pension`
+- **Ch 6** - 7.30 Utilisation Of Un -Anticipated Credits (Index 151): `...F d) Pension e) Cash and Pay f) Suspense g) Budget`
+- **Ch 6** - 7.31 New Services Not Contemplated In The Budget (Index 152): `...al offices (Tier 3). The time period of maximum of`
+- **Ch 6** - 7.35 Imprest Stores Accounts (Index 156): `...dated 04.01.2019) 7. AUDIT FOCUS AREA - CHECK LIST`
+- **Ch 6** - 7.39 Public Private Partnership Projects (Index 160): `...tment of Group 'C' staff, Railway Board have setup`
+- **Ch 7** - 2. Review  Of Tenders (Index 162): `...No. 16, RB's letter No. E (NG) II/98/RC-1/64 dated`
+- **Ch 7** - 5. Audit  Of Measurement  Book (Index 165): `...Vide Letter No.E(P&A)I-2015/RT-43 dated 26.09.2018`
+- **Ch 7** - 6. Material  Modification (Index 166): `...ders of the Railway Board from time to time (Para-`
+- **Ch 7** - 7. Contractors'  Ledger (Index 167): `...s under National Apprenticeship Promotion Scheme20`
+- **Ch 7** - 9. Works  Registers  And  Revenue  Allocation  Registers. (Index 169): `...tside India, Dearness Allowance is not paid (Para-`
+- **Ch 7** - 10. Arbitration  Awards (Index 170): `...nt/Railway accommodation at the same station (Para`
+- **Ch 7** - 12. Audit  Of Journal  Vouchers (Index 172): `...n duty after availing such leave and resigns (Para`
+- **Ch 7** - 13. Objectionable   Items  Register (Index 173): `...f Kilometrage (ALK) (Para 907 IREM Vol-I and Para-`
+- **Ch 7** - 15. Audit  Of Sanctions  Of Work (Index 175): `...vant leaves the system before attaining the age of`
+- **Ch 7** - 17. Audit  Of Public  Private  Partnership  Projects (Index 177): `...(NG)I-2004/TR/16 dated 14.08.2007 and Para-310 and`
+- **Ch 8** - 2. Organisation  Hierarchy  Of Commercial  Department (Index 179): `... 14.05.2009 and RB's letter No. 2009/SCC/3/6 dated`
+- **Ch 8** - 2.4 At Station Level Includ Ing Goods Sheds And Sidings (Index 183): `...es IV) Funds provisions V) Control and Supervision`
+- **Ch 8** - 3. Roles  And  Responsibilities  Of The  Commercial  Department (Index 184): `...oratories XI) Monitoring of drinking water quality`
+- **Ch 8** - 3.1 At Railway Board Level Under Tr Affic (Commercial) Directorate (Index 185): `... Railway Estimates Board 2. Sanctions by the GM of`
+- **Ch 8** - 4. LIST OF ACTIVITIES L (Index 188): `...of arrangement of supply of stationery to stations`
+- **Ch 8** - 5. IMPORTANT RISK PARAMETERS T (Index 189): `...of arrangement of supply of stationery to stations`
+- **Ch 8** - 7. SUMMARY OF SPL CANCELLED (Index 196): `...of arrangement of supply of stationery to stations`
+- **Ch 8** - 7.7 Provision Of Passenger Amenities (Index 203): `...ck sheets are cleared as expeditiously as possible`
+- **Ch 8** - 7.9 Public Grievance:  Centralised Public Grievances Redress And Monitoring System (Cpgrams) (Index 205): `...cohol to detect drunkenness on duty is followed.23`
+- **Ch 8** - 7.14 Catering Audit (Index 210): `...ilway servant pass rules 169 List of Abbreviations`
+- **Ch 8** - 8. NON ISSUE TICKETS (Index 213): `...of arrangement of supply of stationery to stations`
+- **Ch 9** - 1.1 Increase In Traffic (Index 215): `...). 3. ROLES AND RESPONSIBILITIES OF THE DEPARTMENT`
+- **Ch 9** - 1.2 The Major Objectives Of Operating Department In Ir Are As Follows: (Index 216): `...s provisions V) Monitoring of progress of projects`
+- **Ch 9** - 2.2 Field Level  - Division  (Operational Level) - (Index 219): `...r Amenities Data/Details - of a particular station`
+- **Ch 9** - 3. Roles  And  Responsibilities  Of Department (Index 220): `...ridges data filled/Not filled, Structure Type Wise`
+- **Ch 9** - 3.2 Level: Zonal Headquarters (Index 222): `...confirmed/Unconfirmed in a particular jurisdiction`
+- **Ch 9** - 6.3 Control Office Application (Coa) (Index 229): `...alysis/Reports- Unusual Incident Analysis, Unusual`
+- **Ch 9** - 6.6 Ntes (Index 232): `...h) Available 4.10 Understanding internal controls,`
+- **Ch 9** - 6.7 Software Aided Train Scheduling And Network Governance (Satsang) (Index 233): `...or (Departmental, Agency), Certified USFD Machines`
+- **Ch 9** - 7. Comprehensive  Audit  Checklist (Index 234): `..................................................354`
+- **Ch 9** - 7.3 Audit Of Unit Level - (Index 237): `...fects in procedure which might have come to light;`
+- **Ch 9** - 8.1 Crew Management System (Index 239): `...half the works are executed by the Railways. (Para`
+- **Ch 9** - 8.2 Integrated Coaching Management System (Icms) (Index 240): `...at 12.50% of the total outlay are levied (cf. Para`
+- **Ch 10** - 1. BRIEF ABOUT THE DEPARTMENT E (Index 242): `...rew requirement and action for Recruitment of Crew`
+- **Ch 10** - 2.5 Construction Organisation (Index 248): `...VITIES List of Activities of Electrical Department`
+- **Ch 10** - 5.1 Works Related Matters (Index 252): `...ue Allocation Register (RAR) XI) Arbitration Award`
+- **Ch 10** - 5.2 Other Audit Checks (Index 253): `... for a sufficient period, it should normally be of`
+- **Ch 10** - 5.15 Check List For Adee Office Such As Check Of: - (Index 266): `...Policy regarding economy XXXI) Recruitment of Crew`
+- **Ch 11** - 1. Brief  About  Signal  & Telecommunication  Department (Index 267): `...rew requirement and action for Recruitment of Crew`
+- **Ch 11** - 2. Organisational  Hierarchy  In Indian  Railways (Index 268): `...386 2. ORGANISATIONAL HIERARCHY IN INDIAN RAILWAYS`
+- **Ch 11** - 2.2 Zonal Level Organisation (Index 270): `...SSTE/ASTE SSTE/ASTE PE DSTE/ASTE SSE/S/HQ SSE/T/HQ`
+- **Ch 11** - 2.3 Divisional Level Organisation (Index 271): `...SSE/S SSE/T Ch.OS SSE(Drawing) SE/S SE/T JE/S JE/T`
+- **Ch 11** - 3. ROLES AND RESPONSIBILITIES OF THE DEPARTMENT (Index 273): `...X) JPO/Guidelines/Instructions/Circulars issued by`
+- **Ch 11** - 3.1 Railway Board and Zonal Railway, etc. Apex Units: Those units which are related to policy formulatio (Index 274): `...ntation of policies and situated at Railway Board/`
+- **Ch 11** - 3.2 Zonal level may be considered as Apex Units. E.g. O/o PCSTE (In open line organisation at Zonal leve (Index 275): `...T staff. The following activities are performed at`
+- **Ch 11** - 5. List  Of Activities  At Ministry  And  Field  Level (Index 278): `... provisions VI) Monitoring of progress of projects`
+- **Ch 11** - 5.1 Zonal Level (Index 279): `...diction. 394 5. LIST OF ACTIVITIES AT MINISTRY AND`
+- **Ch 11** - 5.2 At Divisional Level (Index 280): `...trol over Revenue and Works budget for PH-33 & PH-`
+- **Ch 11** - 6. Important  Risk  Parameters  With  Respect  To Activities (Index 282): `...ce between the wayside operator and vehicle driver`
+- **Ch 11** - 7. Computerised  Applicatio N Software  And  Its Utilisation  By The  Department (Index 283): `... time -  Operation of operator, driver, maintainer`
+- **Ch 11** - 7.1 Management Information System (Index 284): `...department are as follows which may help in audit:`
+- **Ch 11** - 7.4 It In Training Management (Index 287): `...of library information from hostels and classrooms`
+- **Ch 11** - 7.7 Centralized Traffic  Control (Index 290): `...dit check lists may include the following detail -`
+- **Ch 11** - 8.2 Audit Of Sanctions Of Work: (Index 293): `...Cf. 307 & 308-A1) XI) Objectionable Items Register`
+- **Ch 11** - 8.10 Audit Of Public Private Partnership Projects (Index 301): `...Demand Abstract Name of Demand Minor Name No. Head`
+- **Ch 11** - 8.11 Audit Of Commissioner Of Railway Safety (Crs) Sanctions (Index 302): `...tendence and Telecommunication Services Management`
+- **Ch 12** - 1. BRIEF ABOUT THE DEPARTMENT M (Index 305): `... Member/ Mechanical Engineering is responsible for`
+- **Ch 12** - 2. Organisational  Setup  Of Mechanical  Engineering  Department (Index 307): `...nt being carried out and checklists are as under:-`
+- **Ch 12** - 3.4 Workshop Level (Carriages, Wagons & Locos) (Index 316): `...t. 3. ROLES AND RESPONSIBILITIES OF THE DEPARTMENT`
+- **Ch 12** - 6. It Applications  Used  In Mechanical  Department (Index 319): `...ty list as per Railway Board Office Order No 58 of`
+- **Ch 12** - 7. Audit  Focus  Areas  - Check  List (Index 320): `...department also. 7. AUDIT FOCUS AREAS - CHECK LIST`
+- **Ch 12** - 7.1 Audit Of Sanctions (Index 321): `...ncerned in ink and not over cyclostyled signatures`
+- **Ch 12** - 7.24 Work Orders (Index 344): `...ny. List of Abbreviation Sl. No. List Abbreviation`
+- **Ch 12** - 8 (Index 346): `...n Engineer  34  WMS  Workshop Manufacture Suspense`
+- **Ch 13** - 1. Brief  About  The  Production  Units (Index 347): `...s) 3. ROLES AND RESPONSIBILITIES OF THE DEPARTMENT`
+- **Ch 13** - 2. Organisational  Structure  At Railway  Board  Level (Index 348): `...cies of Textiles XII) Disposal of Scrap, e-auction`
+- **Ch 14** - 1. BRIEF ABOUT THE DEPARTMENT T (Index 351): `...there was any delay in receipt and issue of stores`
+- **Ch 14** - 3. ROLES AND RESPONSIBILITIES OF THE DEPARTMENT
+I) A (Index 353): `...purchase. As per delegation of power circulated by`
+- **Ch 14** - 3.1 Railway Board procurement of following Services through GeM has been made mandatory: - Procurement o (Index 354): `... seen in Audit. I) Whether the Finance Officers of`
+- **Ch 14** - 3.2 Zonal Railways, PUs and other units have taken an undertaking from the executive officers while vett (Index 355): `...there was any delay in receipt and issue of stores`
+- **Ch 14** - 4. LIST OF ACTIVITIES L (Index 357): `...there was any delay in receipt and issue of stores`
+- **Ch 14** - 6.1 Indian Railways E -Procurement System (Ireps) (Index 360): `... Monthly xii. Cash Realisation xiii. Sale balances`
+- **Ch 14** - 7.14 (Index 377): `...nstructions contained in Paras 3306, 3237-38-S for`
+- **Ch 14** - 7.17 Yearly Statement Of Purchases (Index 380): `...s the end of the year till the next financial year`
+- **Ch 14** - 7.21 Accountal, Custody And Disposal Of Scrap (Index 384): `...there was any delay in receipt and issue of stores`
+- **Ch 15** - 1. BRIEF ABOUT THE DEPARTMENT S (Index 385): `...a 345 to 350 of Indian Railway Rolling Stock Code,`
+- **Ch 15** - 2. Organisational  Hirarchy (Index 386): `... ED/Safety (Mechanical) 2. ORGANISATIONAL HIRARCHY`
+- **Ch 15** - 2.2 Zonal Headquarters Level (Index 388): `... Councellor/Eng Councellor/Elec Councellor/S&T g t`
+- **Ch 15** - 3. Brief  Description  Of Safety  Organisation:  - (Index 390): `...ers 3. BRIEF DESCRIPTION OF SAFETY ORGANISATION: -`
+- **Ch 15** - 3.2 Zonal Railways (Index 392): `...king under PCSO in safety related matters.  At the`
+- **Ch 15** - 5. Involvement of expenditure (Index 402): `...a 345 to 350 of Indian Railway Rolling Stock Code,`
+- **Ch 15** - 5.1 Codes And Manuals (Index 403): `... Railway Vide No. T.A.5/143/Pt. V dated 05.04.2019`
+- **Ch 15** - 5.2 Important Risk Parameters: (Index 404): `...Rules, 1998 IX) Indian Railway accident Protocol60`
+- **Ch 15** - 6. It Application  Used  In The  Safety  Department (Index 405): `...per norms, 3. Safety audit done within time frame,`
+- **Ch 15** - 7. Checks  To Be Exercised  By The  Audit  At Differe Nt Levels: (Index 406): `... TO BE EXERCISED BY THE AUDIT AT DIFFERENT LEVELS:`
+- **Ch 15** - 7.3 Divisional Level: (Index 409): `...a 345 to 350 of Indian Railway Rolling Stock Code,`
+- **Ch 16** - 1. BRIEF ABOUT THE DEPARTMENT S (Index 410): `...nd the record of dog ration is also to be checked;`
+- **Ch 16** - 2. Organisation  Hierarchy  Of Security  Department (Index 411): `...e. 3. ROLES AND RESPONSIBILITIES OF THE DEPARTMENT`
+- **Ch 16** - 3. ROLES AND RESPONSIBILITIES OF THE DEPARTMENT
+I) F (Index 412): `...d other elements have been taken correctly (as per`
+- **Ch 16** - 3.1 Railway Board orders) for calculating the contribution? II) Whether the arithmetical accuracy is cor (Index 413): `...he prescribed percentage of sanctioned strength of`
+- **Ch 16** - 3.2 Zonal Railways: V) Whether 10 per cent reserve ammunition has also been provided; VI) Whether physic (Index 414): `...nd the record of dog ration is also to be checked;`
+- **Ch 16** - 4. LIST OF ACTIVITIES (A (Index 416): `...nd the record of dog ration is also to be checked;`
+- **Ch 16** - 5. Cases of theft/pilferage of booked consignments (Index 417): `...nd the record of dog ration is also to be checked;`
+- **Ch 16** - 7. Prevention of large scale trespass (Index 419): `...nd the record of dog ration is also to be checked;`
+- **Ch 16** - 7.1 Registration Of Crimes (Index 420): `...ores transactions. 7. AUDIT FOCUS AREAS-CHECK LIST`
+- **Ch 16** - 7.2 Transfer Of Cases (Index 421): `...ause- wise and commodity-wise for easy monitoring;`
+- **Ch 16** - 7.3 Expunction  Of Crime (Index 422): `...informed where such case may have been registered;`
+- **Ch 16** - 7.5 Cases Of Theft/Pilferage Of Booked Consignments (Index 424): `...ate or undervalue the stolen/missing consignments;`
+- **Ch 16** - 7.7 Prevention Of Large Scale Trespass (Index 426): `... have been made to prevent any untoward incidents;`
+- **Ch 16** - 7.11 Contribution Towards The Cost Of Order Police (Index 430): `...are considered necessary for prevention of crimes;`
+- **Ch 16** - 7.17 Adhoc Bonus (Index 436): `...thmetical Accuracy of the bill need to be checked;`
+- **Ch 16** - 7.18 Ration Money Allowa Nce (Index 437): `...s income for the purpose of levy/deduction of tax;`
+- **Ch 16** - 7.19 Arms And Ammunition (Index 438): `...l of used empty fire cartridges is being followed;`
+- **Ch 16** - 7.20 Contract Management (Index 439): `...penditure is booked to correct head of allocation;`
+- **Ch 16** - 7.22 Dog Squads (Index 441): `...nd the record of dog ration is also to be checked;`
+- **Ch 16** - 7.23 Stores Transactions (Index 442): `...ermines policy for the guidance of 61CRIS Bye-laws`
+- **Ch 17** - 3. Activities  Performed  By Cris  (Headquarters  & Regional  Offices) (Index 446): `...ture of a particular type is so regulated that the`
+- **Ch 17** - 5. Mandate  For  Audit  Of Cris (Index 448): `...ng accountability obligations, complying with laws`
+- **Ch 17** - 6. Compliance  Audit (Index 449): `...ecretary 3. ROLES AND RESPONSIBILITIES OF THE RSPB`
+- **Ch 17** - 7. Evaluation  Of Internal  Control  Mechanism (Index 451): `...iction as detailed below:- Sl. Name of the Company`
+- **Ch 18** - 4. Activities (Index 456): `...he non-profit Company registered under the section`
+- **Ch 18** - 6. It Applications  Used  In Rlda (Index 458): `...d "Ircon Haridwar Bypass Limited" on 13th January,`
+- **Ch 18** - 7. Audit  Of Rlda (Index 459): `...llage near Manewal (Ludhiana) to junction with NH-`
+- **Ch 18** - 7.1 Financial Attest Audit (Index 460): `...d "Ircon Renewable Power Limited" on 13th January,`
+- **Ch 18** - 7.2 Compliance Audit (Index 461): `...review. 8. FUNCTIONS AND ROLES OF THE DIRECTORATES`
+- **Ch 19** - 3. Roles  And  Responsibilities  Of The  Rspb (Index 464): `...) Providing technical consultancy to Railway Board`
+- **Ch 19** - 6. List  Of Items  To Be Checked  During  Audit: (Index 469): `...sioning Check Lists for vital signalling equipment`
+- **Ch 20** - 1. INTRODUCTION T (Index 470): `...d "Ircon Renewable Power Limited" on 13th January,`
+- **Ch 20** - 4. Check  List  For  Compliance  Audit (Index 473): `... and Fatigue testing lab. 665 Railway Audit Manaul`
+- **Ch 21** - 3. Organizational  Set  Up (Index 479): `...or design, construction and maintenance of bridges`
+- **Ch 21** - 4. System  Of Audit (Index 480): `...seeing the function of GE organization of Railways`
+- **Ch 21** - 6. Use  Of It Applications  In Rdso (Index 482): `... implementation of programmes for stress reduction`
+- **Ch 21** - 8.3 Motive Power (Index 487): `... periodic quality audits. 671 Railway Audit Manaul`
+- **Ch 21** - 8.6 Signal (Index 490): `...lfare Section (11) Pass Section (12) Misc. Section`
+- **Ch 21** - 8.8 Track Design (Index 492): `...ction under Railway Act V) Action under RP(UP) Act`
+- **Ch 21** - 8.11 Track Machines And Monitoring (Index 495): `...ties covered under each of them is given below87:-`
+- **Ch 21** - 8.12 Traffic (Index 496): `...ailway Administration till the time it is disposed`
+- **Ch 21** - 8.13 Wagon (Index 497): `...m and functions facilitated by them are as under:-`
+- **Ch 21** - 8.19 Administration -I & Ii (Index 503): `...LE OF CONTENTS    xxvii  For internal use of IA&AD`
+- **Ch 22** - 1. INTRODUCTION I (Index 509): `.... 32- 446, 447, 448, 451, 452, 453, 458, 459, 460,`
+- **Ch 22** - 2.2 Audit Requirements For E -Files/Records (Index 512): `...s to be executed in Zonal/Divisional Audit offices`
+- **Ch 22** - 4. Web -Based Solution (Index 514): `... The updated chapters of draft RAM were once again`
+- **Ch 22** - 5. Functionalities/Services  Available (Index 515): `.... 32- 446, 447, 448, 451, 452, 453, 458, 459, 460,`
+
+## 3. Abnormal/Special Unicode Characters (0)
+Chunks containing non-standard ASCII/Unicode characters (e.g., OCR artifacts, bullets).
+

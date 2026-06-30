@@ -1,0 +1,954 @@
+1.
+LIST OF ACRONYMS
+AS
+Accounting Standard
+CA
+Chartered Accountant
+CMU
+Change Management Unit
+CV
+Curriculum Vitae
+CWIP
+Capital Work in Progress
+DFID
+Department for International Development, UK
+DLB
+Directorate of Local Bodies
+F.Y.
+Financial Year
+FIFO
+First-in-First-out
+GAAP
+Generally Accepted Accounting Policies
+GIS
+Geographical Information System
+GO
+Government Order 
+GoWB
+Government of West Bengal
+HUDCO
+Housing and Urban Development Corporation Limited
+ICAI
+Institute of Chartered Accountants of India
+ISC
+Interim Support Consultants
+KMA
+Kolkata Metropolitan Area
+KMDA
+Kolkata Metropolitan Development Authority
+KMC
+Kolkata Municipal Corporation
+KUSP
+Kolkata Urban Services for the Poor
+LIC
+Life Insurance Corporation of India
+MAD
+Municipal Affairs Department
+MB
+Measurement Book
+MED
+Municipal Engineering Directorate 
+MoU
+Memorandum of Understanding
+MPLADS
+Member of Parliament Local Area Development Scheme
+No.
+Number
+PF
+Provident Fund
+PWD
+Public Works Department
+RD
+Recurring Deposit
+RTO
+Regional Transport Office
+SLM
+Straight Line Method
+ToR
+Terms of Reference
+ULB
+Urban Local Bodies
+UK
+United Kingdom
+2.
+BACKGROUND
+2.1.
+In terms of the recommendations of the CAG's Task Force on Accounting 
+Reforms to be introduced in urban local bodies which were accepted at the 
+national level, the Government of West Bengal has decided to introduce 
+accrual based Double Entry System in all urban local bodies.
+2.2.
+In the first instance it has been decided that this would be introduced in the 40 
+ULBs of Kolkata Metropolitan Area (except Kolkata Municipal 
+Corporation), with support from the DFID assisted Kolkata Urban Services 
+for the Poor programme. Gradually the accrual based double entry 
+accounting system shall be introduced in all ULBs of West Bengal.
+2.3
+First step for switching over to the Double Entry System of Accounting is to 
+st
+prepare Opening Balance Sheet as on 1  April, 2004.   
+3.
+OBJECTIVE 
+3.1.
+The objective of this document is to provide guidelines to prepare opening 
+st
+balance sheet as on 1  April 2004 (hereinafter referred to as "balance sheet"). 
+These guidelines will be followed by all the executing agencies in 
+preparation of balance sheet for the ULBs concerned. 
+3.2.
+The document covers guidelines for recognition of assets and liabilities for 
+the purpose of opening balance sheet. This would help in achieving 
+uniformity in the preparation of balance sheet by the executing agencies. 
+3.3.
+The opening balance sheet as on April 1, 2005 will be prepared by adding the 
+effect of transactions entered during F.Y. 04-05 (according to double entry 
+principles) to the current balance sheet being prepared. 
+3.4.
+The guidelines are inclusive in nature and have been issued only for the 
+material items. All effort has been made in making the guidelines as 
+comprehensive as possible. In cases of minor issues, the executing agency 
+will have the authority to take a decision after intimating the same to the 
+CMU. In cases where there are major or material issues, a pre-approval from 
+CMU and GoWB (if necessary) will be required. 
+4.
+THREE STEPS TO BALANCE SHEET
+5.
+ACCEPTANCE OF BALANCE SHEET
+5.1.
+Preparation of opening balance sheet will be regularly monitored by CMU or 
+any other authority as  may be decided by the Government. The balance 
+sheet will be first approved and accepted by CMU or any such authority. Any 
+comments of CMU or any such authority will have to be suitably 
+incorporated. 
+5.2.
+The approved balance sheet will then be placed before the Board of 
+Councillors of the ULB and will be approved and adopted by them. 
+5.3.
+The opening balance sheet shall also be submitted to the Accountant General 
+(Local Bodies Audit), West Bengal, for their information.
+6.
+COMMON GUIDELINES
+6.1.
+All assets which are under the ownership and permissive possession of the 
+ULB will be accounted for. Similarly all liabilities to be paid will also be 
+brought in the books. In case of Hospitals and schools, if the asset is under a 
+separate legal entity, then it would not form a part of the ULB's balance sheet
+6.2.
+The separate legal entity includes hospitals, dispensaries, schools, maternity 
+centres, nursing home formed as a society, trust, co-operative society, or a 
+company formed under section 25 of the Companies Act, 1956.
+6.3.
+The mere maintenance of a register should not be taken as sufficient for the 
+purpose of arriving at the balance. The Executing agency will have to check 
+the authenticity of all the entries. All entries shall be cross-checked with 
+source documents before its compilation in the balance sheet.
+6.4.
+Assets constructed/ purchased by some other agency/ Government and 
+handed over to the ULB shall be accounted  for on the basis of the ownership 
+of the asset. If the ownership remains with the other agency, then it will not 
+be recognised as an asset in the books of the ULB. If there has been a transfer 
+VERIFICATION
+COMPILATION
+UPDATING
+· Updating of records 
+and registers
+· Preparation of 
+r e c o r d s  a n d  
+registers
+· Complete list of 
+assets and liabilities
+· Physical verifi- 
+cation
+· Cross-checking
+· Checking with 
+originals
+· Valuation/ costing
+· F i l l i n g  i n  t h e  
+formats
+· Compilation of 
+f i g u r e s  f r o m  
+various records and 
+registers
+· Certificate
+· Approval by Board 
+of councillors
+of ownership without any consideration, then the asset shall be valued at Re. 
+1/- and recognised in the opening balance sheet. The balance sheet shall 
+contain  disclosure in the form of Notes with respect to following:- 
+i.
+Assets, which are in ULB's possession and derive economic benefits, 
+but the ownership of which does not vest in it e.g. market constructed by 
+Urban Development Department and handed over to the ULB with a 
+right to collect rent, title deed not being executed.  
+ii.
+The assets which are handed over to the ULB, but the title deed has not 
+been handed over e.g. assets purchased/constructed by KMDA and 
+handed over to the ULB for use and maintenance.
+iii.
+Receivables from taxes, etc. not collected due to litigation.
+iv.
+In case Demand and Collection Register is not updated or prepared, the 
+ULB will have to prepare it and assess the amount of arrears.
+6.5.
+Revenue shall be recognised only when it is measurable and there is  
+reasonable certainty of collection. If the levy of any income or user charge is 
+in dispute and any legal case is pending against it, it shall not be taken as the 
+income of the ULBs.
+6.6.
+The details of such Court cases and the amount if measurable shall be 
+disclosed in the Notes to Accounts. 
+6.7.
+Revaluation of assets is not intended in this exercise. The Executing agency 
+shall not go in for a revaluation mode and valuation shall be done on the basis 
+of actual price paid/ payable.
+6.8.
+Principle of conservatism shall be followed while preparing the opening 
+balance sheet. 
+6.9.
+All the figures shall be in Rupees Thousands with decimals upto two places.
+6.10. In the case of building/construction of an asset by an external Govt. 
+controlled agency out of Govt. grants with the pre-condition that the asset 
+thus built/ constructed would be immediately handed over to the ULB, the 
+whole of the capital cost of the asset as well as the grant should be shown in 
+the books of accounts of the said ULB on transfer of the asset.
+7.
+IDENTIFICATION OF ASSET
+7.1.
+The first task to be undertaken  is identification of assets. Assets are spread 
+over the entire ULB and an effort will be required by the ULB in identifying 
+all assets both over and under the ground. Based on this identification, the 
+Executing agency will undertake their task of physical verification.
+7.2.
+Identification will be done by the Engineering and Accounts Departments 
+based on their records, physical verification, books of accounts and GIS. The 
+ULB can also take the assistance of the Councillors and other departments in 
+its effort for identification of assets.  Identification of assets will include 
+listing of all material assets of the ULB including land, buildings, roads, 
+water and sewerage assets, etc. It will also include listing and defining the 
+condition and location of assets.  
+7.3.
+The process of identification of assets shall include the updation of records 
+and registers prescribed under the West Bengal Municipal (Finance and 
+Accounting) Rules, 1999 and formats as prescribed in the guidelines. 
+8.
+PHYSICAL VERIFICATION
+8.1.
+Physical verification needs to be done only of material items. Items which are 
+material e.g. 20% of items having 80% of value and high in value 
+(replacement cost above Rs. 50,000/-) will be physically verified. The 
+Executing agency shall use a representative sample and conduct physical 
+verification. Use of GIS maps will be done for physical verification to the 
+extent available. 
+8.2.
+In cases where a normal check and physical verification is possible, the 
+Executing agency shall take proactive steps in ensuring that a physical 
+verification is conducted.
+8.3.
+The Executing agency should keep a record of all assets physically verified.
+9.
+VALUATION OF ASSETS
+9.1.
+Valuation of fixed assets will be done as per the following order of 
+preference. The rates of depreciation have been dealt with in another section:
+9.2.
+If both the cost and date of purchase/ construction is available/ascertainable  
+- Original cost less depreciation
+9.3.
+If cost is not available /ascertainable but the date of construction/ purchase is 
+available:
+9.3.1.
+If the asset has outlived its estimated useful life, then it will be 
+valued at Re. 1/-. Estimation of useful life will be done by the 
+internal engineers of the ULB where annexure-6 to this guidelines 
+is not exhaustive.
+9.3.2.
+Buildings
+9.3.2.1. If the building has not outlived its useful life, then valuation will be 
+done based on per sq. feet rate or plinth area rate of that year. The 
+MED/ competent Government Authority will issue an order 
+specifying the plinth area rate or per sq feet rate to standardise the 
+valuation. The internal engineers will conduct the exercise of 
+estimation of value and provide it to the Executing agency. The 
+value so obtained would be depreciated to arrive at depreciated 
+value as on April 1, 2004.
+9.3.2.2. In case Standard Plinth area or per sq foot rate is not available, 
+current replacement cost based on the recent plinth area rate or per 
+sq. foot rate as prescribed above This will be deflated till the year of 
+construction based on wholesale price index (index rates are 
+provided in Annexure 5) and then depreciated. 
+9.3.3.
+Other assets
+9.3.3.1. Current replacement cost will be used. This will be deflated till the 
+year of construction/ purchase based on wholesale price index 
+(index rates are provided in Annexure 5) and then depreciated. 
+Current rates from other manufacturers can be taken e.g. in case of 
+vehicles.
+9.4.
+In case neither the cost nor the date of purchase/ construction is available, 
+valuation will be at Re 1/- , the same being considered as the residual value.
+9.5.
+In case of land where the original documents are not available, valuation can 
+be ascertained from relevant records of the Land Revenue Department or 
+transaction value of a similar plot in the similar area around the estimated 
+year of transaction .
+10.
+FORMATS
+10.1. Format for preparation of balance sheet and its schedule has been provided. 
+The Executing agency will prepare the balance sheet in the same format and 
+shall not make any changes in it without the permission of CMU or the 
+appropriate authority. The significant accounting policies are also annexed 
+to the formats.
+st
+10.2. A format for the "Certificate accompanying opening balance sheet as on 1  
+April 2004" is attached. The Executing agency authenticating and certiifying 
+the Balance Sheet will give this certificate along with the opening balance 
+sheet.
+10.3. Format of issue log for changes to this guidelines is also attached. 
+10.4. The figure in formats for opening balance sheet, shall be in Rs. thousands 
+with decimals up to two places.
+10.5. The West Bengal Municipal (Finance and Accounting) Rules, 1999 does not 
+prescribe the formats for the following class of assets. Separate formats are 
+being prescribed here, which shall be used in drawing up the opening balance 
+sheet  
+i.
+Vehicles 
+ii. Buildings 
+iii. Furniture and fixtures
+iv. Office and other equipments
+v.
+Statues and valuable works of art and antiquities
+vi. Heritage buildings
+vii. Infrastructure assets
+10.6. The items to be filled in the formats will be taken from the existing registers 
+maintained, e.g. list of vehicles can be obtained from Register of Stock and 
+Stores. It has to be noted that assets taken out from the existing records and 
+filled in these new ones, should not be included for valuation twice. The 
+following formats are attached as Annexure 7 to the guidelines. 
+11.
+FIXED ASSETS
+11.1. Fixed assets in the case of ULBs can broadly be classified into the following 
+categories:   
+Land and Buildings 
+·
+Land 
+·
+Buildings 
+Statues and heritage assets 
+·
+Statues and valuable works of art and antiquities
+·
+Heritage Buildings
+Infrastructure assets 
+·
+Roads and Pavements 
+·
+Bridges, culverts and flyovers
+·
+Subways and causeways
+·
+Sewerage and Drainage 
+·
+Waterways 
+·
+Water supply and reservoirs
+·
+Deep tube wells
+·
+Parks and playgrounds
+·
+Street light posts and Public Lighting
+Equipments 
+·
+Plant and Machinery 
+·
+Vehicles 
+·
+Office and other equipments
+·
+Furniture and fixtures 
+Livestock
+Intangibles 
+·
+Software license fees  
+11.2. Valuation of fixed assets
+11.2.1.
+Fixed assets will be recorded at cost. Cost is the amount of cash or 
+cash equivalent paid or fair value of other consideration given to 
+acquire an asset at the time of its acquisition or construction. All 
+normal expenditure for making an item of asset ready for its 
+intended use is capitalised. It also includes ancillary and necessary 
+charges to place the asset in its intended location and condition for 
+use e.g. freight and transportation charges, site preparation 
+expenditure, professional fees and legal claim directly attributable 
+to asset acquisition. Razing and removal cost (less salvage value) of 
+structures located on land purchased as a building site are added to 
+the cost. 
+11.2.2.
+For assets having useful life of more than 20 years, the residual 
+value shall be considered as Re 1/- for the purpose of preparation of 
+st
+Opening Balance Sheet as on 1  April, 2004, in case the original 
+cost cannot be ascertained.
+11.3. Repairs, renovation and replacements, should be capitalised only if such 
+expenditure increases the capacity or operating efficiency, or extends the 
+useful economic life of the asset. In case of buildings, improvements causing 
+major changes in the existing structure will be capitalised.
+11.4. Parks and Playgrounds shall be capitalized under two categories, viz
+(i)
+Land pertaining to Parks and Playgrounds including the cost of 
+development of land shall be booked under 'Land'.
+(ii)
+Other amenities of the Parks and Playgrounds should be capitalised 
+under the sub-head "Parks and Playgrounds" under the head 
+"Infrastructure Assets".  
+However, any building/ structures/ plant and machinery etc. constructed/ 
+installed in the Parks and Playgrounds and used for other purposes should not 
+be booked under the sub-head 'Parks and Playgrounds'. The same should be 
+booked under the appropriate heads/ sub-heads of assets.
+11.5. Land 
+·
+At present the details with regard to land are being maintained by ULBs 
+in Form 90, "Register of Lands", of the West Bengal Municipal 
+(Finance and Accounting) Rules, 1999, hereinafter referred to as 
+"Rules". The form captures sufficient information with regard to the 
+situation, area, purpose and the way under which the asset is held i.e. 
+whether acquired, taken on lease or taken on rent
+·
+All the land under the ownership or permissive possession of the ULB 
+will form a part of the Opening Balance Sheet.
+·
+Leasehold lands acquired by the ULB are taken as a part of assets at a 
+total value payable as lease charges over the entire lease period and 
+amortised equally over the lease period. 
+·
+The information kept by the ULBs in the register of lands needs to be 
+verified and cross checked from the books of accounts and agreement to 
+authenticate and substantiate the information kept in the land register. 
+The information needs to be cross-verified specially with regard to the 
+date of purchase, cost of purchase and mode of purchase. 
+·
+The land register has not been maintained and updated by most of the 
+ULBs. The Executing agency shall conduct physical verification of all 
+lands. The ULB will provide all technical assistance for conducting the 
+physical verification. The GIS and records with the engineering 
+department will give the details of all lands within the jurisdiction of the 
+ULB.  
+·
+The following recognition criteria shall be applied to arrive at the value 
+of the lands
+·
+Land acquired through purchase 
+·
+The land will be recorded at the purchase price paid/payable and 
+other incidental costs such as registration charges incurred to bring 
+the asset to its present location and condition.
+·
+Lands acquired through compulsory acquisition 
+·
+The land will be recorded at the total compensation paid/ payable 
+for the acquisition of the land. If the amount of compensation was  
+in dispute, then the amount that will be recorded would be based on 
+documentary proof. The extra amount, if determinable that may be 
+payable will be shown as contingent liabilities and will be added to 
+the cost of land when it is finally paid to the previous owner. 
+·
+Land acquired against non-payment of taxes
+·
+The cost to be booked will be the unpaid amount of taxes after it has 
+been finalised.
+·
+Land acquired free of cost or donated land
+·
+If the land has been acquired by ULB free of cost from 
+government/individuals or has been donated to the ULB, then such 
+lands would be recorded at nominal value of Re. 1/-. However any 
+developmental work done should be capitalised at cost.
+·
+Vested government lands 
+·
+Where the ownership of the lands has not been transferred in favour 
+of the ULB, but the land is in the permissive possession of the ULB,  
+such lands should be included in the Register of Land with Re. 1/- as 
+its value. However, there should be a clear mention in the Register 
+that in case the Government takes back the land at any point of time 
+in future, reversal of entry shall be made in the Register of Lands. 
+Cost of developing such lands, is any, should be booked under the 
+sub-head 'Land'.
+·
+Land improvement 
+·
+Original cost of any improvement to land such as land development 
+and land filling will be capitalised as part of the cost of the land.
+·
+Land acquired through government grants 
+·
+If the ULB has purchased land from the government grants, then the 
+cost of the land will be shown at gross value i.e. cost paid/ payable 
+or as determined according to the above guidelines. The grant 
+received will be shown separately as a liability. 
+11.6. Buildings 
+·
+In the case of ULBs the buildings shall include office buildings, school 
+buildings, public conveniences, hospitals, dispensaries, maternity and 
+child welfare centres, shopping complex, town hall buildings, 
+community centres, staff quarters, rest house, milk dairy, workshop 
+buildings, fire stations, stores building, covered taxi stands, covered 
+parking areas, bus stands amongst others.
+·
+Presently the cost of buildings and other assets, if they are being 
+constructed, are booked in Form 58, Register of Works. If the Buildings 
+have been purchased/ transferred, then the ULBs maintain the details in 
+the Assets Register.
+·
+Buildings purchased
+o
+The purchase cost of the building shall include the purchase price 
+cost and incidental costs such as registration charges and other costs 
+incurred to bring the asset to its present location and condition.
+·
+Building constructed 
+o
+If the building has been constructed, then the cost of the building 
+will be taken as the cost of construction. This can be obtained from 
+Register of Works.
+·
+Grants received in respect of buildings
+o
+If any grant has been received by the ULB for construction or 
+purchase of the building, then the cost of the building will be taken 
+as gross amount and the grant will be shown separately as a Source 
+of Fund in the opening balance sheet. The cost of building and the 
+amount of grant would be reduced proportionately each year by the 
+amount of depreciation.  
+11.7. Statues and Heritage Assets
+11.7.1.
+Statues and valuable works of art and antiquities will be valued at 
+the original cost and no depreciation shall be charged thereon. In 
+case, however, the original cost is not available or the items have 
+been gifted to the ULB by some other person/ authorities, the value 
+should be taken at Re 1/.
+11.7.2.
+Heritage buildings declared through Gazette Notification should be 
+booked under this head and should be valued at book value/cost of 
+the material date. No depreciation should be charged on such 
+buildings. In case, however the book value /cost of the material date 
+is not available or the items have been gifted to the ULB by some 
+other person/ authorities, the value should be taken at Re 1/-. 
+Material date in this case would be the date of Gazette Notification.
+11.8. Infrastructure assets 
+11.8.1.
+Infrastructure assets: Infrastructure assets are long-lived capital 
+assets that normally are stationary in nature and can be preserved 
+for a significantly greater number of years than most capital assets. 
+Examples of infrastructure assets include roads, bridges, tunnels, 
+drainage system, water and sewerage systems, dams, Deep tube 
+wells, Parks and Playgrounds, Street Light Posts etc. 
+·
+Infrastructure assets are classified as follows:
+·
+Roads and pavements
+·
+Bridges, culverts and flyovers
+·
+Subways and causeways
+·
+Sewerage and drainage
+·
+Waterways
+·
+Water supply and reservoirs
+·
+Deep tube-wells
+·
+Parks and Playgrounds
+·
+Street light posts and Public Lighting
+·
+Details for infrastructural assets is available in the register showing the list of 
+all public streets, parks or transport terminals under section 81 of The West 
+Bengal Municipal Act, 1993.
+·
+Cost of land shall not be taken here. It will be included in the valuation of 
+lands.
+·
+Cost of construction of infrastructure assets will be available in the "Register 
+of works". 
+11.9. Plant and Machinery
+·
+The cost of plant and machinery will include, besides purchase price, 
+costs such as site preparation costs and installation costs.
+·
+Presently the information with regard to plant and machinery is 
+captured in the following records :- 
+o
+Register of tools and plants, maintained in accordance with Form 
+no 91 of the Rules, captures information with regard to tools and 
+plants, conservancy or watering carts, road rollers, earth moving 
+vehicles, ladder, scale weights, water treatment plants, sewerage 
+treatment plants, etc.
+o
+Information with regard to the other equipments is being recorded 
+in the Stock and Spares Register maintained in accordance with 
+Form no. 59 of the Rules. 
+o
+The ULBs also maintain separate registers for movable assets.
+·
+Plant and machinery will include water and sewerage treatment plants.
+·
+The above registers record information with regard to cost, location and 
+date of purchase of the various assets. The information contained in the 
+register shall be verified with the documents available.
+11.10.Vehicles
+·
+Vehicles include carts, hand rickshaws, animal drawn carts, three 
+wheelers, four wheelers, and conservancy vehicles. Vehicles will be 
+valued at cost less depreciation. 
+11.11. Office and other equipment
+·
+This will include all office and other equipments e.g. computers, 
+photocopies, telephone, fax, fans, electrical equipments, air 
+conditioners, etc.
+11.12.Furniture and fixtures
+·
+This will include tables, chairs, fittings, etc.
+11.13.Livestock
+·
+Livestock will be valued at cost.
+11.14.Intangible assets e.g. Software license fees
+·
+Intangible assets in ULBs will generally be in the nature of expenditure 
+on software. The Executing agency will assess the expenditure made in 
+development or purchase of the intangible asset in the last 5 years and 
+capitalise it as fixed asset. In case the intangible asset has been provided 
+free of cost by another Government department, it will not be shown in 
+the balance sheet. Expenditure below Rs. 1,00,000/- will not be 
+considered as an intangible asset for the purpose of this balance sheet. 
+12.
+DEPRECIATION
+12.1. Depreciation will be provided on all assets except land, on a Straight Line 
+Method
+12.2. The rate of depreciation will be determined in the following order of 
+preference:
+12.2.1.
+100% depreciation will be proportionately written off over the 
+useful life of the depreciable assets. However, the last year's 
+proportionate amount of depreciation should be reduced by Re.1/- 
+which shall remain in the books of accounts as the 'residual value 'of 
+the asset. 
+Useful life of the asset will be estimated as follows:
+·
+Useful life for waterworks and sewage works has been provided in 
+clause 208 of the W.B Municipal (Finance and Accounting) Rules,1999
+§
+For other assets it will be as per the Annexure 6 to the present 
+st
+Guidelines for preparation of Opening Balance Sheet as on 1  April, 
+12.2.2.
+Rates as mentioned in Schedule XIV of the Companies Act, 1956
+12.3. Depreciation on intangible assets will be charged at 20% per annum. 
+12.4. Depreciation shall be provided at full rates for assets, which are purchased/ 
+constructed before October 1 of an Accounting Year. Depreciation shall be 
+provided at half the rates for assets, which are purchased/ constructed on or 
+after October 1 of an Accounting Year.
+12.5. Purchase or construction of assets that have been done out of grants have 
+been shown at gross value and the corresponding grant as a liability. An 
+amount proportionate to the depreciation of the fixed asset should be 
+deducted from the grant as well.
+13.
+CAPITAL WORKS IN PROGRESS
+13.1. The information with regard to capital work in progress can be obtained from 
+the Register of Works maintained in accordance with Form nos. 57 and 58 of 
+the Rules.     
+13.2. As per the procedures followed by the ULBs, once the details about the 
+works are entered in the MB, the engineer prepares a bill and sends it to the 
+accounts department, after necessary approvals, for payment. CWIP will be 
+booked based on the gross amount of bill sent to the accounts department till 
+st
+31  March 2004. An effort will have to be made by the Executing agency to 
+st
+ensure that all bills approved till 31  March are taken into account. This may 
+be ensured by checking prior dated bills till May 04.
+13.3. Borrowing cost for CWIP will also be capitalized.
+13.4. The assets, which have been commissioned and put to use, shall be taken out 
+from the Register of Capital work in progress and booked under the 
+respective heads of fixed assets.
+13.5. The certificate that the asset has been put to use, shall be obtained from the 
+Engineering department of the ULB.
+13.6. The executing agency shall ensure that no maintenance expenses have been 
+included in the Capital work in-progress.
+14.
+LONG TERM INVESTMENTS
+14.1. Long term investments are the investments which are held by the ULBs for 
+more than one year. 
+14.2. At present, the ULB maintains the details of its investments in Form 88, 
+Memorandum of Investments. 
+14.3. The Executing agency will do a 100% physical verification of the original 
+certificates and documents.
+14.4. Cost of investments will include acquisition charges such as fees, brokerage 
+and duties.
+14.5. Long term investments will be valued at cost.
+15.
+CURRENT ASSETS
+15.1. Current assets in the case of ULBs consist of the following
+·
+Cash in hand
+·
+Cash at bank 
+·
+Stores and spares  
+·
+Prepaid expenses
+·
+Arrears of property tax
+·
+Arrears of all other taxes, licenses and fees
+·
+Interest on investments
+·
+Interest on bank deposits
+·
+Interest on loans and advances
+·
+Recoverable deposits
+·
+Receivables against Deposit works
+15.2. Cash in hand 
+·
+Generally there is no balance of cash as all are deposited into the bank. 
+st
+But if there is any balance as on 31  March 2004, the same would be 
+reflected from the Cash Book.
+15.3. Cash at bank 
+·
+Cash at bank consists of balance (a) with all banks and (b) at treasury. 
+These two will be shown separately in the balance sheet.
+·
+The balance as per cashbook will appear in the balance sheet.  
+·
+The difference between the cashbook and the bank statements will be 
+reconciled by ULBs.
+·
+A disclosure shall be made in the Notes on Accounts with regard to the 
+following: 
+The duration for which the bank reconciliation statements are pending; 
+Items in bank reconciliation which are either pending for a long period 
+of time i.e. exceeding six months or with high value i.e. above 
+Rs. 50,000/- (Rupees Fifty Thousand Only).
+15.4. Stores and spares  
+·
+Details with regard to stores and spares are maintained in Register of 
+Stores and Spares which is in accordance with Form no. 59 of the Rules.
+·
+The Executing agency will prepare an updated list of items alongwith 
+their quantity, value and date of purchase. In some cases, the Executing 
+agency will need to segregate items, which are although a part of stores, 
+but should not have been a part thereof e.g. vehicles. These will be 
+classified in the appropriate account.
+·
+A list containing items, which have expired or are not in a condition to 
+be used will be taken out from the list. The confirmation of the 
+condemned or expired items is to be taken in the form of a certificate 
+from the management.
+·
+Items which are in good condition will be then divided into two 
+categories i.e. A and B 
+o
+Category A Items which have 80% of value and are 20% in number.
+o
+Category B Items which have 20% of value and are 80% in number.
+The analysis will be done based on unit cost of the item. 
+·
+Items in category A will be physically verified to the extent of 100%. 
+·
+Stores and spares will be valued at cost. In determination of cost, FIFO 
+method of costing will be used.
+·
+The cost of inventories should comprise all cost of purchase and cost of 
+conversion incurred to bring the asset to its present location and 
+condition. 
+15.5. Prepaid expenses
+·
+Under the present set of Rules, no records have been prescribed for the 
+prepaid expenses. Some ULBs make informal records such as hand 
+registers and lists for the prepaid expenses. 
+st
+·
+Expenses that have been paid in advance and relates to a period after 31  
+March 2004 should be recognised as  prepaid expenses. 
+15.6. Arrears of property tax  
+·
+Assessment department determines the total amount of property tax 
+expected to be collected during the year. It then hands over the 
+responsibility of collection to the Tax Collection department. The total 
+amount of property tax in arrears is ascertainable from Form no. 12 
+"Demand and Collection Register", Form no. 13 "Abstract of Demand 
+and Collection Register" and Form no. 14 "Consolidated Abstract" of 
+the Rules.
+·
+Ageing will be done for the arrears of property tax and will be shown in 
+the Balance Sheet as Notes to Accounts. Ageing in the following slabs 
+will be done i.e. below 3 years, 3-5 years, 5-10 years, 10-15 years and 
+above 15 years 
+·
+Arrears of sick and closed industries will be provided for 100% as 
+Provision
+15.7. Arrears of all other taxes, licenses and fees 
+·
+This will include all other receivable other than property tax. This 
+includes rent from municipal shops and markets, water charges and tax, 
+advertisement tax, other fees, licenses, etc.  Water tax and rent from 
+municipal properties will be accounted for on accrual basis. All other 
+forms of income will be accounted on cash basis.
+·
+The water tax in the ULBs is imposed on a slab basis of property tax. 
+The total amount of water tax in arrears can be ascertained from the 
+Form no 12, 13 and 14 which are maintained separately for every tax 
+source of revenue.
+·
+The amount of the "arrears of rent" is ascertainable from the Form 37 
+"Demand and Collection Register of Rents", which is maintained 
+according to the Rules. 
+·
+Provision will be made similar to that followed for property tax in case 
+of water charge and rental income.
+15.8. Interest on investments
+·
+Interest on investments will be accounted for on accrual basis. 
+15.9. Interest on bank deposits
+·
+Interest on bank accounts and deposits will be accounted for on accrual 
+basis.
+15.10.Interest on loans and advances
+·
+Interest on loans and advances will be accounted for on accrual basis.
+15.11.Recoverable deposits
+·
+The ULB may have kept deposits with third parties or with the 
+Government or with any other person. Based on documentary evidence 
+and if it is classified as a deposit, it will be shown as recoverable 
+deposits and booked as current asset.
+15.12.Receivables against Deposit works
+·
+If the amount expensed by ULB, is more than the amount received 
+against the deposit works, it will be shown under this head. The actual 
+value as per the books of account shall be taken.
+16.
+LOANS AND ADVANCES
+16.1. Loans and advances can be in the nature of:
+·
+Advances to staff
+·
+Advance to contractors and suppliers
+·
+Material cost recoverable from contractors
+16.2. Common guidelines
+·
+100% physical verification of documents will be done to ascertain the 
+amount and name of party.
+·
+The closing balance of advance is ascertainable from the "Advance 
+Ledger", which is maintained in accordance with Form no 67 of the 
+Rules. The advance ledger is maintained separately for employees, 
+contractors and suppliers.
+16.3. Advances to staff
+·
+All unadjusted advances to staff e.g. house building advance, puja/ 
+festival advance, will be accounted for on actual basis.
+·
+No provision shall be made to the unadjusted advances to staff. An 
+annexure would be attached to the balance sheet showing the individual 
+person-wise break-up of various advances given under different heads.
+16.4. Advance to contractors and suppliers
+·
+Advance given to contractors and suppliers for goods and services will 
+be accounted on actual basis.
+16.5. Material cost recoverable from contractors
+·
+Sometimes the ULB may have provided materials to contractors for 
+construction purposes. This would have been provided from the stores. 
+The value of materials issued, if recoverable from the contractor, will 
+be shown as cost recoverable.
+17.
+CURRENT INVESTMENTS
+17.1. Current investments are investments that are readily realisable and not 
+intended to be held for more than one year.
+17.2. Presently the ULB maintains data related to investments in Form No. 88, 
+Memorandum of Investments.
+17.3. The Executing agency will do a 100% physical verification of the original 
+certificates.
+17.4. Valuation will be done at cost.
+18.
+SHORT TERM BORROWINGS
+18.1. Short term borrowings are those which are due for not more than one year as 
+at the date of balance sheet.
+18.2. The amount of outstanding loans can be ascertained from the "Loan 
+Register", maintained in accordance with the Form no. 72 of the Rules. Form 
+no. 72 "Loan Register" does not differentiate between long-term borrowings 
+and short-term borrowings. The short term borrowings shall be taken out 
+from this register and would be recorded separately in the same format as 
+prescribed under Form no 72.
+18.3. Short term borrowing will be bifurcated as secured and unsecured, if any.
+18.4. The Executing agency will ascertain the actual amount outstanding through 
+confirmation of balance with the creditor and also by verifying through 
+original documents
+18.5. In case an amount had been received as loan, but has not still been waived off 
+by the Government, the same will still figure in the balance sheet as a 
+liability.
+18.6. Interest accrued and due on these loans will be included here. Calculation of 
+interest payable should be due on accrual basis
+19.
+CURRENT LIABILITIES
+19.1. Current liabilities will constitute the following:
+·
+Bank overdraft
+·
+Security deposit/ Retention money/ Earnest money from contractors 
+and suppliers
+·
+Deposit works
+·
+Other deposits
+·
+Advance collection of taxes and non-taxes
+·
+Income tax deducted payable
+·
+Sales tax deducted payable
+·
+Interest accrued but not due on loans
+·
+Unpaid salary and other employee related benefits
+·
+Unpaid electricity bills
+·
+Unpaid bills of suppliers and contractors
+·
+Payable to Government agencies
+·
+Recoveries from staff-payable
+19.2. Bank overdraft
+·
+Bank overdraft will be verified with either the bank statement or a bank 
+balance certificate.
+19.3. Security deposit/ Retention money/ Earnest money from contractors and 
+suppliers
+·
+Security deposit/ Retention money/ Earnest money is ascertainable 
+from the "Deposit Ledger", which is maintained in accordance with the 
+Form no 69 of the Rules.
+·
+This amount will be ascertained/ cross-checked from the original 
+documents. 
+·
+Deposits received but not encashed will not be accounted for.
+19.4. Deposit Works
+·
+Deposit works shall include the amount received from persons 
+specifically for the construction of works. The deposit works are 
+generally received from Zilla Parishads, MPLADS, MLA funds 
+(BEUP), for specific works. The unutilised or the balance amount of 
+these grants will be shown under this head. 
+·
+If the amount is received for the construction of a specific asset for 
+ULB, then the CWIP/ Asset would be shown in the books of account of 
+ULB.

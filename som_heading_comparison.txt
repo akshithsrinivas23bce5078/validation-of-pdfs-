@@ -1,0 +1,511 @@
+=== HEADING COMPARISON REPORT ===
+PDF headings found: 612
+JSONL headings found: 634
+
+=== MISMATCHES (120) ===
+
+Para 10 (Line 10) [MINOR]:
+  PDF:   10. Assistant Section Officer, Assistant, Personal Clerk and
+  JSONL: 10. Assistant Section Officer, Assistant, Personal Clerk and Typist.-
+
+Para 11 (Line 11) [MINOR]:
+  PDF:   *11. Central Despatch Branches.—
+  JSONL: 11. Central Despatch Branches.- (Deleted)
+
+Para 16 (Line 16) [MINOR]:
+  PDF:   16. Secretariat Telephone Automatic Exchange and Circulation
+  JSONL: 16. Secretariat Telephone Automatic Exchange and Circulation Van.-
+
+Para 48 (Line 48) [MINOR]:
+  PDF:   48. Numbering of arising references and papers received by
+  JSONL: 48. Numbering of arising references and papers received by section without current number.-
+
+Para 52 (Line 52) [MINOR]:
+  PDF:   52. Tappal —
+  JSONL: 52. Tappal - Public Department.-
+
+Para 60 (Line 60) [MINOR]:
+  PDF:   60. Entry in column 5 of current sent by one officer through one or
+  JSONL: 60. Entry in column 5 of current sent by one officer through one or more other officers.-
+
+Para 63 (Line 63) [MINOR]:
+  PDF:   63. Entry of nature of references—
+  JSONL: 63. Entry of nature of references-Abbreviations (column 9).-
+
+Para 76 (Line 76) [MINOR]:
+  PDF:   76.
+  JSONL: 76. CHANNEL OF COMMUNICATION BETWEEN STATE GOVERNMENTS AND (A) FOREIGN DIPLOMATIC MISSIONS IN INDIA (B) INDIAN MISSIONS 
+
+Para 81 (Line 85) [MINOR]:
+  PDF:   81. Duty of Officers at all levels to take note of previous
+  JSONL: 81.
+
+Para 85 (Line 93) [MINOR]:
+  PDF:   85. Papers concerning more than one section—
+  JSONL: 85. Papers concerning more than one section-Submission to Officers-Procedure.-
+
+Para 86 (Line 94) [MINOR]:
+  PDF:   86. Referencing—
+  JSONL: 86. Referencing-Collection of papers and books of reference.-
+
+Para 92 (Line 101) [MINOR]:
+  PDF:   92. Need to record year in addition to date and month in Notes,
+  JSONL: 92. Need to record year in addition to date and month in Notes, Drafts, etc.-
+
+Para 109 (Line 118) [MINOR]:
+  PDF:   109. Reading of previous correspondence at the head of an
+  JSONL: 109. Reading of previous correspondence at the head of an Order.-
+
+Para 110 (Line 119) [MINOR]:
+  PDF:   110. Method of Communication of General rulings and Orders on
+  JSONL: 110. Method of Communication of General rulings and Orders on particular cases in the same draft.-
+
+Para 120 (Line 129) [MINOR]:
+  PDF:   120. Inclusion of entry regarding "withheld memorials".—
+  JSONL: 120. Inclusion of entry regarding "withheld memorials ".-
+
+Para 125 (Line 134) [MINOR]:
+  PDF:   125. Drafts from orders —
+  JSONL: 125. Drafts from orders Time allowed for submission.-
+
+Para 129 (Line 138) [MAJOR]:
+  PDF:   129. (i) Points to be attended to after disposal (final or
+  JSONL: 129. Points to be attended to after disposal (final or intermediate) is passed.-
+
+Para 141 (Line 150) [MINOR]:
+  PDF:   141. When an allegation or complaint which casts a reflection on the
+  JSONL: 141.
+
+Para 148 (Line 157) [MINOR]:
+  PDF:   148. Submission to Ministers of files dealing with starred
+  JSONL: 148. Submission to Ministers of files dealing with starred questions.-
+
+Para 154 (Line 163) [MINOR]:
+  PDF:   154. Assurances, promises and undertakings given by Ministers in
+  JSONL: 154. Assurances, promises and undertakings given by Ministers in the Legislative Assembly.-
+
+Para 159 (Line 168) [MINOR]:
+  PDF:   159. Submission to Ministers of files relating to resolutions and
+  JSONL: 159. Submission to Ministers of files relating to resolutions and Budget motions.-
+
+Para 161 (Line 170) [MINOR]:
+  PDF:   161. Provisions of Business Rules and Secretariat Instructions to
+  JSONL: 161. Provisions of Business Rules and Secretariat Instructions to be followed.-
+
+Para 163 (Line 172) [MINOR]:
+  PDF:   163.
+  JSONL: 163. Second reference to be marked to Secretary or *Special Secretary or Additional Secretary or Joint Secretary or Depu
+
+Para 171 (Line 180) [MINOR]:
+  PDF:   171. Treatment of agenda for meetings of Council of Ministers and
+  JSONL: 171. Treatment of agenda for meetings of Council of Ministers and of notes and decisions on subjects discussed.-
+
+Para 174 (Line 183) [MINOR]:
+  PDF:   174. Treatment of confidential, Secret and Top Secret papers in
+  JSONL: 174. Treatment of confidential, Secret and Top Secret papers in their several stages.-
+
+Para 175 (Line 184) [MINOR]:
+  PDF:   175.
+  JSONL: 175. Mode of addressing confidential covers to certain authorities.-
+
+Para 189 (Line 198) [MINOR]:
+  PDF:   189.
+  JSONL: 189. Section Officers' duties in watching Special files in circulation.-
+
+Para 192 (Line 201) [MINOR]:
+  PDF:   192.
+  JSONL: 192. Circulation Boxes.-
+
+Para 199 (Line 208) [MINOR]:
+  PDF:   199.
+  JSONL: 199. Circulation of cases by Secretariat Circulation Van.-
+
+Para 200 (Line 209) [MINOR]:
+  PDF:   200.
+  JSONL: 200. Return of cases to Secretariat by circulation van Maintenance of a register.-
+
+Para 208 (Line 217) [MINOR]:
+  PDF:   208. Interruption of circulation to supply information called for by
+  JSONL: 208. Interruption of circulation to supply information called for by a Minister.-
+
+Para 209 (Line 218) [MINOR]:
+  PDF:   209. When, in a case marked for circulation to more than one Minister or
+  JSONL: 209.
+
+Para 210 (Line 219) [MINOR]:
+  PDF:   210.
+  JSONL: 210. Miscellaneous instructions to Assistant in-charge of circulation.-
+
+Para 213 (Line 222) [MINOR]:
+  PDF:   213. Tour circulation.—
+  JSONL: 213. Tour circulation (i) Non-confidential papers.-
+
+Para 215 (Line 224) [MINOR]:
+  PDF:   215. Distribution of files returned from 'tour circulation' to
+  JSONL: 215. Distribution of files returned from 'tour circulation' to departments.-
+
+Para 216 (Line 225) [MINOR]:
+  PDF:   216. Circulation of notice and agenda for meetings of Council of
+  JSONL: 216. Circulation of notice and agenda for meetings of Council of Ministers.-
+
+Para 217 (Line 226) [MINOR]:
+  PDF:   217. Circulation of memorandum for the Cabinet-Duties of
+  JSONL: 217. Circulation of memorandum for the Cabinet-Duties of Departments.-
+
+Para 223 (Line 232) [MINOR]:
+  PDF:   223. Consistency essential—
+  JSONL: 223. Consistency essential Standard heads and sub-heads- Unauthorized additions forbidden.-
+
+Para 235 (Line 244) [MINOR]:
+  PDF:   235. Two or more titles when necessary—
+  JSONL: 235. Two or more titles when necessary Cross-reference.-
+
+Para 238 (Line 247) [MINOR]:
+  PDF:   238. Indexing of questions and resolutions in the Legislative
+  JSONL: 238. Indexing of questions and resolutions in the Legislative Assembly.-
+
+Para 244 (Line 253) [MINOR]:
+  PDF:   244. System of Indexing —
+  JSONL: 244. System of Indexing Slip index.-
+
+Para 246 (Line 255) [MINOR]:
+  PDF:   246. An index consists of six parts. Proceedings and letters in the
+  JSONL: 246.
+
+Para 251 (Line 260) [MINOR]:
+  PDF:   251. (i) As soon as copies of the monthly indexes are received from the
+  JSONL: 251.
+
+Para 252 (Line 261) [MINOR]:
+  PDF:   252. The Annual Index is prepared by utilizing the slips used for the
+  JSONL: 252.
+
+Para 254 (Line 263) [MINOR]:
+  PDF:   254. A distribution list of the Annual indexes will be maintained by the
+  JSONL: 254.
+
+Para 260 (Line 269) [MINOR]:
+  PDF:   260. Government Orders of important nature should be printed by the
+  JSONL: 260.
+
+Para 264 (Line 273) [MINOR]:
+  PDF:   264.
+  JSONL: 264. Work on Sundays and holidays.-
+
+Para 276 (Line 285) [MINOR]:
+  PDF:   276. Number of copies of proceedings to be printed for issue,
+  JSONL: 276. Number of copies of proceedings to be printed for issue, record etc.-
+
+Para 279 (Line 288) [MINOR]:
+  PDF:   279. Editing of correspondence to be printed in Government
+  JSONL: 279. Editing of correspondence to be printed in Government Orders.-
+
+Para 285 (Line 294) [MINOR]:
+  PDF:   285. Method of printing of proceedings of Government letters and
+  JSONL: 285. Method of printing of proceedings of Government letters and other similar papers.-
+
+Para 297 (Line 306) [MINOR]:
+  PDF:   297. In cases where there has been no response from the Head of
+  JSONL: 297.
+
+Para 300 (Line 309) [MINOR]:
+  PDF:   300.
+  JSONL: 300. Periodical Reports and Returns and Maintenance of consolidated periodical register.-
+
+Para 318 (Line 328) [MINOR]:
+  PDF:   318. It is the duty of the Section Officer or in his/her absence the
+  JSONL: 318.
+
+Para 323 (Line 333) [MINOR]:
+  PDF:   323.
+  JSONL: 323. Address entries in fair copies of Proceedings.-
+
+Para 324 (Line 334) [MINOR]:
+  PDF:   324. Spare copies of Government Orders roneographed / copied in
+  JSONL: 324. Spare copies of Government Orders roneographed / copied in copiers.-
+
+Para 334 (Line 344) [MINOR]:
+  PDF:   334. Copies of such orders and proceedings may be authenticated by a
+  JSONL: 334.
+
+Para 335 (Line 345) [MINOR]:
+  PDF:   335. Signing of covering letters and authentication of copies of
+  JSONL: 335. Signing of covering letters and authentication of copies of proceedings.-
+
+Para 339 (Line 349) [MINOR]:
+  PDF:   339.
+  JSONL: 339. Signing of fair copies-Special cases.-
+
+Para 345 (Line 352) [MINOR]:
+  PDF:   *345.
+  JSONL: *345. Transmission of papers to and their treatment.-
+
+Para 347 (Line 354) [MINOR]:
+  PDF:   347. Despatchers are responsible for the issue of all signed papers and
+  JSONL: 347.
+
+Para 350 (Line 357) [MINOR]:
+  PDF:   350. Despatch of copies of Government Orders within the
+  JSONL: 350. Despatch of copies of Government Orders within the Secretariat.-
+
+Para 352 (Line 359) [MINOR]:
+  PDF:   352. When papers may be sent packed—
+  JSONL: 352. When papers may be sent packed-Used wax or cloth.-
+
+Para 357 (Line 364) [MINOR]:
+  PDF:   357. Mode of addressing envelopes containing demi-official
+  JSONL: 357. Mode of addressing envelopes containing demi-official letters.-
+
+Para 363 (Line 370) [MINOR]:
+  PDF:   363. Despatch of valuables—
+  JSONL: 363. Despatch of valuables Procedure.-
+
+Para 364 (Line 371) [MINOR]:
+  PDF:   364. Despatch of records to the Tribunal for disciplinary
+  JSONL: 364. Despatch of records to the Tribunal for disciplinary proceedings.-
+
+Para 367 (Line 374) [MINOR]:
+  PDF:   367. Signed copy of printed proceedings.—
+  JSONL: 367. Signed copy of printed proceedings To whom sent.-
+
+Para 368 (Line 375) [MINOR]:
+  PDF:   368. Despatch of Government Orders placed at the disposal of the
+  JSONL: 368. Despatch of Government Orders placed at the disposal of the Press.-
+
+Para 369 (Line 376) [MINOR]:
+  PDF:   369. Despatch to High Commissioner for India, London, etc., of
+  JSONL: 369. Despatch to High Commissioner for India, London, etc., of Tamil Nadu Government Gazette.-
+
+Para 370 (Line 377) [MINOR]:
+  PDF:   370.
+  JSONL: 370. Postage charges.-
+
+Para 372 (Line 379) [MINOR]:
+  PDF:   372.
+  JSONL: 372. Which communications are sent "service paid".-
+
+Para 377 (Line 381) [MINOR]:
+  PDF:   377. Central Record Branch.—
+  JSONL: 377. Central Record Branch Repository of current records.-
+
+Para 382 (Line 386) [MINOR]:
+  PDF:   382. Duties of the Record establishment —
+  JSONL: 382. Duties of the Record establishment Section Officer.-
+
+Para 386 (Line 390) [MINOR]:
+  PDF:   386. Working hours.—
+  JSONL: 386. Working hours (i) Working days.-
+
+Para 389 (Line 393) [MINOR]:
+  PDF:   389. Opening of the Central Record Branch after it is closed for the
+  JSONL: 389. Opening of the Central Record Branch after it is closed for the day.-
+
+Para 391 (Line 395) [MINOR]:
+  PDF:   391. Supply of records —
+  JSONL: 391. Supply of records Rules.-
+
+Para 393 (Line 397) [MINOR]:
+  PDF:   393. Requisition for record—
+  JSONL: 393. Requisition for record Noting of current No. or purpose.-
+
+Para 401 (Line 405) [MINOR]:
+  PDF:   401. Deposit of personal registers and Government Order
+  JSONL: 401. Deposit of personal registers and Government Order numbering books.-
+
+Para 407 (Line 411) [MINOR]:
+  PDF:   407. Transfer of confidential records from departments of
+  JSONL: 407. Transfer of confidential records from departments of Secretariat to Tamil Nadu Archives.-
+
+Para 409 (Line 413) [MINOR]:
+  PDF:   409. Records in Tamil Nadu Archives —
+  JSONL: 409. Records in Tamil Nadu Archives Instructions.-
+
+Para 414 (Line 418) [MINOR]:
+  PDF:   414.
+  JSONL: 414. Arrangements during Saturdays, Sundays and other holidays.-
+
+Para 415 (Line 419) [MINOR]:
+  PDF:   415. How to get connection through the Sub-exchange.—
+  JSONL: 415. How to get connection through the Sub-exchange External connections.-
+
+Para 417 (Line 421) [MINOR]:
+  PDF:   417. Instructions to telephone Assistants at the several office
+  JSONL: 417. Instructions to telephone Assistants at the several office connections.-
+
+Para 418 (Line 422) [MINOR]:
+  PDF:   418. Written messages.—
+  JSONL: 418. Written messages General instructions.-
+
+Para 425 (Line 429) [MINOR]:
+  PDF:   425. Residential Telephones.—
+  JSONL: 425. Residential Telephones Recovery of charges for excess calls.-
+
+Para 433 (Line 437) [MINOR]:
+  PDF:   433. Estimates amounting to Rs.15,000/- and below for repairs and
+  JSONL: 433.
+
+Para 466 (Line 471) [MINOR]:
+  PDF:   466. Conditions of Service – Secretariat – Establishment.—
+  JSONL: 466. Conditions of Service - Secretariat - Establishment.-
+
+Para 469 (Line 474) [MINOR]:
+  PDF:   469. Allotments, Promotion, reversions and re-allotments under
+  JSONL: 469. Allotments, Promotion, reversions and re-allotments under one unit Scheme.-
+
+Para 473 (Line 478) [MINOR]:
+  PDF:   473. Maintenance of Duplicate Service Registers by Government
+  JSONL: 473. Maintenance of Duplicate Service Registers by Government Servants.-
+
+Para 474 (Line 479) [MINOR]:
+  PDF:   474. Certificate of Physical fitness, Nominations and Statements to
+  JSONL: 474. Certificate of Physical fitness, Nominations and Statements to be filed with Service Books (a)(i) Production of cer
+
+Para 477 (Line 482) [MINOR]:
+  PDF:   477. Personal files.—
+  JSONL: 477. Personal files (1) Introduction.-
+
+Para 479 (Line 494) [MINOR]:
+  PDF:   479. Probation Register —
+  JSONL: 479. Probation Register Maintenance of - Procedure.-
+
+Para 482 (Line 497) [MINOR]:
+  PDF:   482.
+  JSONL: 482. Temporary Establishment Register.-
+
+Para 484 (Line 499) [MINOR]:
+  PDF:   484. Advancement to Selection Grade/Special Grade Posts in
+  JSONL: 484. Advancement to Selection Grade/Special Grade Posts in various services under Heads of Departments/Departments of Se
+
+Para 485 (Line 500) [MINOR]:
+  PDF:   485. Various Classifications of Pensionary benefits available to the
+  JSONL: 485. Various Classifications of Pensionary benefits available to the Government servants They are:.-
+
+Para 488 (Line 503) [MINOR]:
+  PDF:   488.
+  JSONL: 488. Family Pension-Mode of Payment.-
+
+Para 489 (Line 504) [MINOR]:
+  PDF:   489. Mode of payment of Family Pension to the family of a
+  JSONL: 489. Mode of payment of Family Pension to the family of a Government servant, who dies while in service Procedure and sp
+
+Para 492 (Line 507) [MINOR]:
+  PDF:   492. Sanction and Disbursement of Family Benefit Fund amount to
+  JSONL: 492. Sanction and Disbursement of Family Benefit Fund amount to the family of a deceased Government Servant Procedure.-
+
+Para 496 (Line 511) [MINOR]:
+  PDF:   496. Presentation of pay bills, etc., at Pay and Accounts Office,
+  JSONL: 496.
+
+Para 497 (Line 512) [MINOR]:
+  PDF:   497. Clearance of Bills from the Pay and Accounts Office,
+  JSONL: 497. Clearance of Bills from the Pay and Accounts Office, Secretariat Procedure.-
+
+Para 498 (Line 513) [MINOR]:
+  PDF:   498. Payments —
+  JSONL: 498. Payments Accounting procedure - Maintenance of Undisbursed Pay Register.-
+
+Para 499 (Line 514) [MINOR]:
+  PDF:   499. Cashing of cheques —
+  JSONL: 499. Cashing of cheques Maintenance of Joint Account - Procedure.-
+
+Para 500 (Line 515) [MINOR]:
+  PDF:   500. Movement of cash —
+  JSONL: 500. Movement of cash Procedure.-
+
+Para 501 (Line 516) [MINOR]:
+  PDF:   501. Disbursement of salary —
+  JSONL: 501. Disbursement of salary Procedure.-
+
+Para 502 (Line 517) [MINOR]:
+  PDF:   502. Maintenance of Cash Book —
+  JSONL: 502. Maintenance of Cash Book Procedure.-
+
+Para 503 (Line 518) [MINOR]:
+  PDF:   503. Subsidiary Cash Book —
+  JSONL: 503. Subsidiary Cash Book - Maintenance of.-
+
+Para 515 (Line 530) [MINOR]:
+  PDF:   515. Record Clerks and Office Assistants —
+  JSONL: 515. Record Clerks and Office Assistants Hours of Attendance.-
+
+Para 522 (Line 537) [MINOR]:
+  PDF:   522. Lunch not to be carried into office rooms by servants or
+  JSONL: 522. Lunch not to be carried into office rooms by servants or restaurant employees.-
+
+Para 525 (Line 540) [MINOR]:
+  PDF:   525.
+  JSONL: 525. Holiday turns.-
+
+Para 534 (Line 549) [MINOR]:
+  PDF:   534. Maintenance of Casual leave account of staff members and
+  JSONL: 534. Maintenance of Casual leave account of staff members and sanctioning of Procedure.-
+
+Para 539 (Line 554) [MINOR]:
+  PDF:   539. General Discipline.—
+  JSONL: 539. General Discipline (i) Punctuality and general behaviour.-
+
+Para 557 (Line 572) [MINOR]:
+  PDF:   *557. Use of `Permanent Blue' or `Blue Black' ink while writing in
+  JSONL: 557. Use of `Permanent Blue' or `Blue Black' ink while writing in Government records Ban on use of other colour inks in 
+
+Para 563 (Line 578) [MINOR]:
+  PDF:   563. Circulation of Gazettes.—
+  JSONL: 563. Circulation of Gazettes (i) The "GAZETTE OF INDIA".-
+
+Para 565 (Line 580) [MINOR]:
+  PDF:   565. Bicycles.—
+  JSONL: 565. Bicycles. (a) (i) Initial supply.-
+
+Para 570 (Line 585) [MINOR]:
+  PDF:   570. Record Clerks are expected to do the office duties given to them by
+  JSONL: 570.
+
+Para 580 (Line 595) [MINOR]:
+  PDF:   580. Library correspondence —
+  JSONL: 580. Library correspondence Register and filing.-
+
+Para 582 (Line 597) [MINOR]:
+  PDF:   582.
+  JSONL: 582. Receipt of books and periodicals.-
+
+Para 590 (Line 605) [MINOR]:
+  PDF:   590. Issue of books from the Library —
+  JSONL: 590. Issue of books from the Library General Rules.-
+
+Para 592 (Line 607) [MINOR]:
+  PDF:   592. Issue of books from Library.—
+  JSONL: 592. Issue of books from Library (Browne charging system).-
+
+Para 598 (Line 613) [MINOR]:
+  PDF:   598.
+  JSONL: 598. Library Committee for book selection.-
+
+Para 90.A (Line 99) [MINOR]:
+  PDF:   90.A "A brown sheet should be used as a wrapper in all the pending files
+  JSONL: 90.A.
+
+=== IN PDF BUT MISSING IN JSONL (0) ===
+
+=== IN JSONL BUT NOT IN PDF (22) ===
+  Para 18 (Line 18): 18.
+  Para 19 (Line 19): 19.
+  Para 20 (Line 20): 20.
+  Para 21 (Line 21): 21.
+  Para 22 (Line 22): 22.
+  Para 23 (Line 23): 23.
+  Para 24 (Line 24): 24. On return of the drafts from *O.-
+  Para 25 (Line 25): 25.
+  Para 26 (Line 26): 26.
+  Para 27 (Line 27): 27.
+  Para 31 (Line 31): 31.
+  Para 49 (Line 49): 49. Deleted.
+  Para 51 (Line 51): 51. Deleted.
+  Para 70 (Line 70): 70. Treatment of papers wrongly addressed.-
+  Para 74 (Line 74): 74. Communications received in Secretariat-Correspondence Rules to be enforced.-
+  Para 75 (Line 75): 75. Communications issued from Secretariat to certain authorities-Special rules.-
+  Para 77 (Line 81): 77. Instructions in regard to direct correspondence between.-
+  Para 107 (Line 116): 107. Prefacing an order with reference to previous.-
+  Para 108 (Line 117): 108.
+  Para 116 (Line 125): 116. Drafting of endorsement for signature.-
+  Para 117 (Line 126): 117. Deleted.
+  Para 118 (Line 127): 118. Deleted.

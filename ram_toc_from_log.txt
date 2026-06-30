@@ -1,0 +1,348 @@
+0 RAILWAY AUDIT MANUAL
+1.1 MAKING
+1.2 STRUCTURE
+1.3 FEATURES
+1.4 NEW
+2.1 Constitution of the Railway Audit Branch
+2.1.1 History of Railway Audit
+2.1.2 Organizational set up
+2.1.3 Authority of the Comptroller and Auditor General of India
+2.1.4 Administrative control and jurisdiction of Directors General of Audit/ Principal Directors of Audit
+3.1 Composition of Railway Board
+3.2 List of Indian Railway Zones, their Headquarters and Divisions
+3.3 All India Railway Map with Jurisdiction & Headquarters only
+3.4 Broad Distribution of Work among Board Members
+4.2 Functions of Railway Audit Wing �
+4.3 Duties of Directors General of Audit/Principal Directors of Audit
+5.1 Financial Audit
+5.2 Compliance Audit
+5.3 Performance Audit
+6.1 Specific Reports - related to more important and serious irregularities noticed.
+6.2 Audit Notes
+6.3 Inspection Reports - on irregularities related to Executives and Stations in Part-I and II. .. 14
+7.1 Special letters and Notes or Objections or Factual Statement
+3.1 General Administration:
+3.1.1 At Railway Board level
+3.1.2 At Zonal Level
+3.1.3 At Division/ Field level
+3.2 Vigilance
+3.2.1 At Railway Board level
+3.2.2 At Zonal Level
+7.1 Arbitration Awards
+7.2 Manpower Management
+7.3 List of Items To Be Seen During Inspection.
+7.3.1 General Administration
+7.3.2 Divisional Railway Manager�s Office
+7.3.3 Vigilance Department
+2.1 At Ministry Level:
+2.2 At Zonal Level:
+2.3 At Field Level:
+3.1 Basis of
+3.2 Principle of Allocation
+3.3 The Fund Accounting
+3.3.1 Capital
+3.3.2 Depreciation Reserve Fund
+3.3.3 Railway Development Fund
+3.3.4 Railway Pension Fund
+3.3.5 Rashtriya Rail Sanraksha Kosh (RRSK)
+3.3.6 Extra Budgetary Resources (IF)
+3.3.7 Capital-N(Nirbhaya)
+5.1 At Ministry Level
+5.2 At Zonal Level
+5.3 At Field Level
+9.1       Audit of Establishment Accounts
+9.1.1 Cadre check register and Scale check register (Cadre module in IPAS)
+9.1.2 Bio-data
+9.1.3 Pay bills
+9.1.4 Pay fixation, drawal of increment and postponement of increment
+9.1.5 Pay/Stipend to Trainees
+9.1.6 Dearness allowance
+9.1.7 House rent allowance
+9.1.8 Transport allowance
+9.1.9 Travelling allowance
+9.1.10 National Holiday Allowance
+9.1.11 Night duty allowance
+9.1.12 Risk Allowance
+9.1.13 Breakdown allowance
+9.1.14 Running allowance
+9.1.15 Special Allowance for Gate keepers
+9.1.16 Personal Pay for passing Hindi Examinations
+9.1.17 Conveyance Allowance to Doctors
+9.1.18 Non Practising Allowance to Doctors
+9.1.19 Annual Allowance to Doctors
+9.1.20 Ration Money Allowance
+9.1.21 Uniform Allowance
+9.1.22 Over time Allowance
+9.1.23 Extra Work Allowance (EWA)
+9.1.24 Incentive Bonus
+9.1.25 Productivity Linked Bonus
+9.1.26 Composite Transfer Grant
+9.1.27 Last Pay Certificate
+9.1.28 Rent Charges
+9.1.29 Electricity energy charges and water charges
+9.1.30 Recovery of Provident Fund and withdrawal from PF account
+9.1.31 National Pension Scheme
+9.1.32 Recovery of Loans and advances
+9.1.33 Recovery of REGIS
+9.1.34 Profession Tax
+9.1.35 Income Tax
+9.1.36 Pension
+9.1.37 Family Pension
+9.1.38 Death cum Retirement Gratuity
+9.1.39 Commutation
+9.1.40 Workmen Compensation claims
+9.1.41 Group Insurance payments
+9.1.42 Maintenance of Leave Accounts
+9.2 Audit of Expenditure
+9.2.1 Audit of Estimates
+9.2.2 Audit of Revenue Allocation Registers
+9.2.3 Audit of Works Registers
+9.2.4 Audit of Objectionable Items Register
+9.2.5 Audit
+9.2.6 Audit of Vouchers of payment
+9.2.7 Audit of Contractors� bills
+9.2.8 Audit of Contractors� Ledger
+9.2.9 Audit of Measurement Books
+9.2.10 Audit of Completion Reports/Completion Estimates
+9.3 Stores Accounts
+9.3.1 General
+9.3.2 Stores Journals
+9.3.3 Stores Accounts Current
+9.3.4 Suspense Registers
+9.3.5 Account Current
+9.4 Workshop Accounts
+9.4.1 General
+9.4.2 Audit of computerized incentive bills
+9.4.3 On Cost
+9.4.4 Compiled Accounts
+9.4.5 Outturn Statement
+9.4.6 Workshop Account Current
+9.5 Audit of Traffic Accounts
+9.5.1 Audit of Coaching Earnings
+9.5.2 Audit of Goods Earnings
+9.5.3 Apportionment of earnings
+9.5.4 Out agencies
+9.5.5 Remission of wharfage and demurrage charges
+9.5.6 Compensation for goods lost
+9.5.7 Traffic Book and Accounts Office Balance Sheet
+9.5.8 Refund lists and overcharges sheets
+9.5.9 Rate Circulars and tariff changes
+9.6 Appropriation Accounts
+9.6.1 Capital & Revenue Expenditure
+9.6.2 Capital Grant
+9.6.3 Revenue Grant
+9.6.4 Subsidiary Statements and Accounts
+9.6.5 Other Accounts & Subsidiary Statements
+9.6.6 Appropriation Accounts of Civil Grants
+9.6.7 Debt Head Report
+9.6.8 Block Accounts
+9.7 Maintenance of General Books and Compilation of Accounts
+9.7.1 General Books
+9.8 Compilation of Important Accounts
+9.9 Audit of Appropriation Accounts
+9.10 Results of Audit of Appropriation Accounts
+3.1 At Railway Board level
+3.2 At Zonal level/Divisional/Field level
+6.1 Accounting Information Management System (AIMS)
+6.2 NIVARAN
+6.3 Railway Employee Self Service (RESS)
+6.4 Human Resource Management (HRMS)
+6.5 Unique Medical Identification (UMID)
+7.1 Man Power Planning
+7.1.1 Cadre Management
+7.2 Recruitment
+7.2.1 Railway Recruitment Board (RRB)
+7.2.2 Compassionate Appointments
+7.2.3 Appointment against Sports Quota
+7.2.4 Substitutes
+7.2.5 Re-engagement of retired Railway servants
+7.3 Training and Development
+7.4 Salary and Allowances
+7.4.1 Check of Allowances
+7.4.2 Check of recoveries
+7.5 Transfers and Postings
+7.6 Performance Appraisal
+7.7 Employee services and benefits
+7.8 Promotions and Demotions
+7.9 Disciplinary matters
+7.10 Settling Industrial Disputes
+7.11 Incentives and Financial aids
+7.12 Setting up and maintenance of Welfare Activities
+7.13 Pension, Post retirement benefits and Grievance Redressal of Pensioners
+7.14 Audit of Law Charges
+3.1 At Railway Board level
+3.2 At Zonal Level
+3.3 At Division/ Field level
+6.1 Indian Railways E-Procurement System (IREPS)
+6.2 Hospital Management Information System (HMIS)
+7.1 Works/M&P Programme for Medical Department
+7.2 Sanctions
+7.3 Review of Tenders for Sanitation
+7.4 Pay Order and Other Vouchers Not Falling Under Any Definite Category (Misc. Vouchers)
+7.5 Audit of Purchase of Medical Plants and Equipment
+7.6 Audit of Purchase and Issue of Medicines & Consumables
+7.7 Manpower Planning
+7.8 Appointment of Contract Medical Practitioners (CMP)/ Honorary Visiting Specialists (HVS)
+7.9 Recognition of Hospitals and Laboratories
+7.10 Treatment in Outdoor Patients Department (OPD)/Indoor    Patients Department (IPD) 161
+7.11 Matrons Account Including Linen Account
+7.12 Diet Charges
+7.13 Pre-Employment And Periodical Medical Examination
+7.14 Medical Certification (Issue of Sick and Fit Certificates)
+7.15 Emergency Medical Treatment of Travelling Passengers
+7.16 Monitoring of Accident Relief Operations
+7.17 Monitoring of Health and Family Welfare Programmes
+7.18 Monitoring of Sanitation and Hygiene Activities
+7.19 Holding of Seminars and Conferences for Continuous Medical Education
+7.20 Conducting Medical Audit (by nominated Committee of Doctors)
+2.1 Open Line
+2.2 Construction Organisation
+3.1 At Railway Board level
+3.2 At Zonal Level
+3.3 At Division/Field level
+6.1 Indian Railways Projects Sanctions & Management (IRPSM)
+6.2 Bridge Management System (BMS)
+6.3 Integrated Payroll & Accounting System (IPAS)
+6.4 Track management system (TMS)
+6.5 Indian Railways E-Procurement System (IREPS)
+7.1 Works Programme
+7.2 Sanctions
+7.3 Preparation and Approval of Drawing Estimates
+7.4 Works Executed on Deposit Terms
+7.5 Review of Tenders
+7.6 Advances to Contractors
+7.7 Review of On Account Bills, Final Bills and Completed Contracts
+7.8 Audit of Measurement Books
+7.9 Material Modification
+7.10 Contractors� Ledger
+7.11 Completion Reports/Completion Estimates/Completion Statements
+7.12 Works Registers and Revenue Allocation Registers
+7.13 Arbitration Awards
+7.14 Pay Order and Other Vouchers Not Falling Under Any Definite Category (Miscellaneous
+7.15 Audit of Journal Vouchers
+7.16 Objectionable Items Register
+7.17 Assisted Siding
+7.18 Abandoned Assets
+7.19 Maintenance and Renewal of Assets
+7.20 Maintenance of Station and Service Buildings
+7.21 Maintenance of Residential and Office Buildings:
+7.22 Capital and Revenue Account of Residential Building
+7.23 Maintenance of Other Staff Amenities Such as Schools, Hospitals, Institutes Etc.
+7.24 Maintenance of Passenger Amenities
+7.25 Maintenance, Renewal and Rehabilitation of Railway Bridges
+7.26 Land Management
+7.27 Utilisation of Track Machines
+7.28 Obtaining CRS Sanction
+7.29 Compilation of Accounts and Funds Certification
+7.30 Utilisation of Un-anticipated Credits
+7.31 New Services not contemplated in the Budget
+7.32 Expenditure Late In the Financial Year
+7.33 Expenditure on Undertaking Outside the Normal Scope of Railway Working
+7.34 Tests to Judge Productivity of Capital Expenditure (Post Project Appraisal)
+7.35 Imprest Stores Accounts
+7.36 Law Charges
+7.37 Manpower Management
+7.38 Audit of World Bank Aided Projects
+7.39 Public Private Partnership Projects
+2.1 At Railway Board Level
+2.2 At Zonal Level
+2.3 At Divisional Level
+2.4 At Station Level Including Goods Sheds and Sidings
+3.1 At Railway Board level under Traffic (Commercial) Directorate
+3.2 At Zonal Level
+3.3 At Divisional/Field Level
+6.1 Freight Operations Information System (FOIS)
+6.1.1 RMS (Rake Management System)
+6.1.2 TMS (Terminal Management System)
+6.2 Unreserved Ticketing System (UTS)
+6.3 Passenger Reservation System (PRS)
+6.4 Parcel Management System (PMS)
+6.5 Information/Data Available in Data Ware House
+7 AUDIT
+7.1 Goods Activities
+7.1.1 Sanctions
+7.1.2 Booking of Goods Traffic
+7.1.3 Railway Receipts (RRS-Goods Invoices)
+7.1.4 Levy and Waiver of Demurrage and Wharfage Charges
+7.1.5 Siding Charges
+7.1.6 New Schemes
+7.1.7 Travelling Inspector of Accounts (TIA) Reports
+7.1.8 Claims
+7.1.9 Collection of Station Earnings And Accountal
+7.1.10 Station Balance Sheet
+7.1.11 Miscellaneous Pay Orders Including Refunds
+7.1.12 Not Received Cell (NR Cell)
+7.1.13 Apportionment of Earnings (Goods and Coaching)
+7.2 Coaching Activities
+7.2.1 Sanctions
+7.2.2 Unreserved Ticketing System (UTS) And Passenger Reservation System (PRS)
+7.2.3 Parcel Management System
+7.2.4 Provision of ATVM, CO-TVM, YTSK, JTBS, HALT, IPPRS, ETC.
+7.2.5 Special Trains/Coaches
+7.2.6 Warrants And Police Vouchers
+7.2.7 Postal Haulage Bills
+7.2.8 Travelling Inspector of Accounts (TIA) Reports
+7.2.9 Claims
+7.2.10 Collection of Station Earnings And Accountal
+7.2.11 Station Balance Sheet
+7.2.12 Miscellaneous Pay Orders Including Refunds
+7.3 Licensing/Leasing of Railway Land
+7.4 Lost Property Office (LPO)
+7.5 Traffic Suspense Account
+7.6 Policy On Accident Claims And Other Claims
+7.7 Provision of Passenger Amenities
+7.7.1 Improvement/Up Gradation of Passenger Amenities
+7.8 Improving Infrastructure Involving Customer Service
+7.9 Public Grievance: Centralised Public Grievances Redress and Monitoring System (CPGRAMS)
+7.10 Right To Information (RTI) Cell
+7.11 Dissemination of Railway Board Circulars And Orders
+7.12 Justification For Introduction Of New Trains
+7.13 Meeting With Railway Users Consultation Committees
+7.14 Catering Audit
+7.15 Container Corporation of India (CONCOR)
+7.16 Furnishing of Data for Printing of Zonal Time Table
+8 CHECK
+287 Goods
+288 Coaching � other than parcel and luggage
+1.1 Increase in Traffic
+1.2 The major objectives of Operating department in IR are as follows:
+2.1 At Railway Board and Zonal level
+2.2 Field Level - Division (Operational level) -
+3.1 Level: Ministry of Railways (Railway Board)
+3.2 Level: Zonal Headquarters
+3.3 Level: Divisional/Field
+6.1 Freight Operations Information System (FOIS)
+6.1.1 Rake Management System (RMS)
+6.1.2 Terminal Management System (TMS)
+6.2 Crew Management System (CMS)
+6.3 Control Office Application (COA)
+6.4 Integrated Coaching Management System (ICMS)
+6.4.1 Punctuality Module (PAM)
+6.4.2 Coaching Operations Information System (COIS):
+6.4.3 COIS Data Entry Module:
+6.4.4 Coaching Maintenance Module
+6.4.5 Time-tabling Module
+6.4.6 ICMS-MIS-Reports
+6.5 E-Procurement System (EPS) including eAuction and Reverse Auction
+6.6 NTES
+6.7 Software Aided Train Scheduling and Network Governance (SATSaNG)
+6.7.1 Fixed Infrastructure Resources Module (FIRM)
+6.7.2 Rolling Assets Module (RoAM)
+6.7.3 Scheduling Module for Allocation of Resources to Trains (SMART)
+6.7.4 Publish Report and Exchange Supporting System (PRESS)
+6.7.5 Freight Type Unscheduled Trains & Utilization of Resources Estimation (FUTURE)
+6.7.6 Simulation Module and Run Time Estimation Reports (SMaRTER)
+6.7.7 Demand Evaluation Module to Assist in New Design of Services (DEMANDS)
+7.1 Railway Board Level
+7.2 Zonal Level
+7.2.1 PCOM (Principal Chief Operations Manager)
+7.2.2 Control Organization under Principal Chief Operations Manager of Zonal Railway.
+7.2.3 CFTM (Chief Freight Transportation Manager)
+7.2.4 CPTM (Chief Passenger Transportation Manager)
+7.2.5 CTPM (Chief Transport Planning Manager)
+7.2.6 DY. COM (Goods)
+7.2.7 DY. COM (Coaching)
+7.2.8 DY. COM (FOIS)
+7.2.9 ATM (GOODS)-I (under Dy.COM/Rules regarding Safety matters)
+7.2.10 ATM (Goods)-II
+7.2.11 ATM (Planning)

@@ -1,0 +1,364 @@
+10
+such lands should be included in the Register of Land with Re. 1/- as 
+its value. However, there should be a clear mention in the Register 
+that in case the Government takes back the land at any point of time 
+in future, reversal of entry shall be made in the Register of Lands. 
+Cost of developing such lands, is any, should be booked under the 
+sub-head 'Land'.
+·
+Land improvement 
+·
+Original cost of any improvement to land such as land development 
+and land filling will be capitalised as part of the cost of the land.
+·
+Land acquired through government grants 
+·
+If the ULB has purchased land from the government grants, then the 
+cost of the land will be shown at gross value i.e. cost paid/ payable 
+or as determined according to the above guidelines. The grant 
+received will be shown separately as a liability. 
+11.6. Buildings 
+·
+In the case of ULBs the buildings shall include office buildings, school 
+buildings, public conveniences, hospitals, dispensaries, maternity and 
+child welfare centres, shopping complex, town hall buildings, 
+community centres, staff quarters, rest house, milk dairy, workshop 
+buildings, fire stations, stores building, covered taxi stands, covered 
+parking areas, bus stands amongst others.
+·
+Presently the cost of buildings and other assets, if they are being 
+constructed, are booked in Form 58, Register of Works. If the Buildings 
+have been purchased/ transferred, then the ULBs maintain the details in 
+the Assets Register.
+·
+Buildings purchased
+o
+The purchase cost of the building shall include the purchase price 
+cost and incidental costs such as registration charges and other costs 
+incurred to bring the asset to its present location and condition.
+·
+Building constructed 
+o
+If the building has been constructed, then the cost of the building 
+will be taken as the cost of construction. This can be obtained from 
+Register of Works.
+·
+Grants received in respect of buildings
+o
+If any grant has been received by the ULB for construction or 
+purchase of the building, then the cost of the building will be taken 
+as gross amount and the grant will be shown separately as a Source 
+of Fund in the opening balance sheet. The cost of building and the 
+ Guidelines for Opening Balance Sheet 
+
+11
+amount of grant would be reduced proportionately each year by the 
+amount of depreciation.  
+11.7. Statues and Heritage Assets
+11.7.1.
+Statues and valuable works of art and antiquities will be valued at 
+the original cost and no depreciation shall be charged thereon. In 
+case, however, the original cost is not available or the items have 
+been gifted to the ULB by some other person/ authorities, the value 
+should be taken at Re 1/.
+11.7.2.
+Heritage buildings declared through Gazette Notification should be 
+booked under this head and should be valued at book value/cost of 
+the material date. No depreciation should be charged on such 
+buildings. In case, however the book value /cost of the material date 
+is not available or the items have been gifted to the ULB by some 
+other person/ authorities, the value should be taken at Re 1/-. 
+Material date in this case would be the date of Gazette Notification.
+11.8. Infrastructure assets 
+11.8.1.
+Infrastructure assets: Infrastructure assets are long-lived capital 
+assets that normally are stationary in nature and can be preserved 
+for a significantly greater number of years than most capital assets. 
+Examples of infrastructure assets include roads, bridges, tunnels, 
+drainage system, water and sewerage systems, dams, Deep tube 
+wells, Parks and Playgrounds, Street Light Posts etc. 
+·
+Infrastructure assets are classified as follows:
+·
+Roads and pavements
+·
+Bridges, culverts and flyovers
+·
+Subways and causeways
+·
+Sewerage and drainage
+·
+Waterways
+·
+Water supply and reservoirs
+·
+Deep tube-wells
+·
+Parks and Playgrounds
+·
+Street light posts and Public Lighting
+·
+Details for infrastructural assets is available in the register showing the list of 
+all public streets, parks or transport terminals under section 81 of The West 
+Bengal Municipal Act, 1993.
+·
+Cost of land shall not be taken here. It will be included in the valuation of 
+lands.
+ Guidelines for Opening Balance Sheet 
+
+12
+·
+Cost of construction of infrastructure assets will be available in the "Register 
+of works". 
+11.9. Plant and Machinery
+·
+The cost of plant and machinery will include, besides purchase price, 
+costs such as site preparation costs and installation costs.
+·
+Presently the information with regard to plant and machinery is 
+captured in the following records :- 
+o
+Register of tools and plants, maintained in accordance with Form 
+no 91 of the Rules, captures information with regard to tools and 
+plants, conservancy or watering carts, road rollers, earth moving 
+vehicles, ladder, scale weights, water treatment plants, sewerage 
+treatment plants, etc.
+o
+Information with regard to the other equipments is being recorded 
+in the Stock and Spares Register maintained in accordance with 
+Form no. 59 of the Rules. 
+o
+The ULBs also maintain separate registers for movable assets.
+·
+Plant and machinery will include water and sewerage treatment plants.
+·
+The above registers record information with regard to cost, location and 
+date of purchase of the various assets. The information contained in the 
+register shall be verified with the documents available.
+11.10.Vehicles
+·
+Vehicles include carts, hand rickshaws, animal drawn carts, three 
+wheelers, four wheelers, and conservancy vehicles. Vehicles will be 
+valued at cost less depreciation. 
+11.11. Office and other equipment
+·
+This will include all office and other equipments e.g. computers, 
+photocopies, telephone, fax, fans, electrical equipments, air 
+conditioners, etc.
+11.12.Furniture and fixtures
+·
+This will include tables, chairs, fittings, etc.
+11.13.Livestock
+·
+Livestock will be valued at cost.
+11.14.Intangible assets e.g. Software license fees
+·
+Intangible assets in ULBs will generally be in the nature of expenditure 
+on software. The Executing agency will assess the expenditure made in 
+development or purchase of the intangible asset in the last 5 years and 
+ Guidelines for Opening Balance Sheet 
+
+13
+capitalise it as fixed asset. In case the intangible asset has been provided 
+free of cost by another Government department, it will not be shown in 
+the balance sheet. Expenditure below Rs. 1,00,000/- will not be 
+considered as an intangible asset for the purpose of this balance sheet. 
+12.
+DEPRECIATION
+12.1. Depreciation will be provided on all assets except land, on a Straight Line 
+Method
+12.2. The rate of depreciation will be determined in the following order of 
+preference:
+12.2.1.
+100% depreciation will be proportionately written off over the 
+useful life of the depreciable assets. However, the last year's 
+proportionate amount of depreciation should be reduced by Re.1/- 
+which shall remain in the books of accounts as the 'residual value 'of 
+the asset. 
+Useful life of the asset will be estimated as follows:
+·
+Useful life for waterworks and sewage works has been provided in 
+clause 208 of the W.B Municipal (Finance and Accounting) Rules,1999
+§
+For other assets it will be as per the Annexure 6 to the present 
+st
+Guidelines for preparation of Opening Balance Sheet as on 1  April, 
+2004
+12.2.2.
+Rates as mentioned in Schedule XIV of the Companies Act, 1956
+12.3. Depreciation on intangible assets will be charged at 20% per annum. 
+12.4. Depreciation shall be provided at full rates for assets, which are purchased/ 
+constructed before October 1 of an Accounting Year. Depreciation shall be 
+provided at half the rates for assets, which are purchased/ constructed on or 
+after October 1 of an Accounting Year.
+12.5. Purchase or construction of assets that have been done out of grants have 
+been shown at gross value and the corresponding grant as a liability. An 
+amount proportionate to the depreciation of the fixed asset should be 
+deducted from the grant as well.
+13.
+CAPITAL WORKS IN PROGRESS
+13.1. The information with regard to capital work in progress can be obtained from 
+the Register of Works maintained in accordance with Form nos. 57 and 58 of 
+the Rules.     
+13.2. As per the procedures followed by the ULBs, once the details about the 
+works are entered in the MB, the engineer prepares a bill and sends it to the 
+accounts department, after necessary approvals, for payment. CWIP will be 
+booked based on the gross amount of bill sent to the accounts department till 
+ Guidelines for Opening Balance Sheet 
+
+14
+st
+31  March 2004. An effort will have to be made by the Executing agency to 
+st
+ensure that all bills approved till 31  March are taken into account. This may 
+be ensured by checking prior dated bills till May 04.
+13.3. Borrowing cost for CWIP will also be capitalized.
+13.4. The assets, which have been commissioned and put to use, shall be taken out 
+from the Register of Capital work in progress and booked under the 
+respective heads of fixed assets.
+13.5. The certificate that the asset has been put to use, shall be obtained from the 
+Engineering department of the ULB.
+13.6. The executing agency shall ensure that no maintenance expenses have been 
+included in the Capital work in-progress.
+14.
+LONG TERM INVESTMENTS
+14.1. Long term investments are the investments which are held by the ULBs for 
+more than one year. 
+14.2. At present, the ULB maintains the details of its investments in Form 88, 
+Memorandum of Investments. 
+14.3. The Executing agency will do a 100% physical verification of the original 
+certificates and documents.
+14.4. Cost of investments will include acquisition charges such as fees, brokerage 
+and duties.
+14.5. Long term investments will be valued at cost.
+15.
+CURRENT ASSETS
+15.1. Current assets in the case of ULBs consist of the following
+·
+Cash in hand
+·
+Cash at bank 
+·
+Stores and spares  
+·
+Prepaid expenses
+·
+Arrears of property tax
+·
+Arrears of all other taxes, licenses and fees
+·
+Interest on investments
+·
+Interest on bank deposits
+·
+Interest on loans and advances
+·
+Recoverable deposits
+·
+Receivables against Deposit works
+ Guidelines for Opening Balance Sheet 
+
+15
+15.2. Cash in hand 
+·
+Generally there is no balance of cash as all are deposited into the bank. 
+st
+But if there is any balance as on 31  March 2004, the same would be 
+reflected from the Cash Book.
+15.3. Cash at bank 
+·
+Cash at bank consists of balance (a) with all banks and (b) at treasury. 
+These two will be shown separately in the balance sheet.
+·
+The balance as per cashbook will appear in the balance sheet.  
+·
+The difference between the cashbook and the bank statements will be 
+reconciled by ULBs.
+·
+A disclosure shall be made in the Notes on Accounts with regard to the 
+following: 
+The duration for which the bank reconciliation statements are pending; 
+Items in bank reconciliation which are either pending for a long period 
+of time i.e. exceeding six months or with high value i.e. above 
+Rs. 50,000/- (Rupees Fifty Thousand Only).
+15.4. Stores and spares  
+·
+Details with regard to stores and spares are maintained in Register of 
+Stores and Spares which is in accordance with Form no. 59 of the Rules.
+·
+The Executing agency will prepare an updated list of items alongwith 
+their quantity, value and date of purchase. In some cases, the Executing 
+agency will need to segregate items, which are although a part of stores, 
+but should not have been a part thereof e.g. vehicles. These will be 
+classified in the appropriate account.
+·
+A list containing items, which have expired or are not in a condition to 
+be used will be taken out from the list. The confirmation of the 
+condemned or expired items is to be taken in the form of a certificate 
+from the management.
+·
+Items which are in good condition will be then divided into two 
+categories i.e. A and B 
+o
+Category A Items which have 80% of value and are 20% in number.
+o
+Category B Items which have 20% of value and are 80% in number.
+The analysis will be done based on unit cost of the item. 
+·
+Items in category A will be physically verified to the extent of 100%. 
+·
+Stores and spares will be valued at cost. In determination of cost, FIFO 
+method of costing will be used.
+ Guidelines for Opening Balance Sheet 
+
+16
+·
+The cost of inventories should comprise all cost of purchase and cost of 
+conversion incurred to bring the asset to its present location and 
+condition. 
+15.5. Prepaid expenses
+·
+Under the present set of Rules, no records have been prescribed for the 
+prepaid expenses. Some ULBs make informal records such as hand 
+registers and lists for the prepaid expenses. 
+st
+·
+Expenses that have been paid in advance and relates to a period after 31  
+March 2004 should be recognised as  prepaid expenses. 
+15.6. Arrears of property tax  
+·
+Assessment department determines the total amount of property tax 
+expected to be collected during the year. It then hands over the 
+responsibility of collection to the Tax Collection department. The total 
+amount of property tax in arrears is ascertainable from Form no. 12 
+"Demand and Collection Register", Form no. 13 "Abstract of Demand 
+and Collection Register" and Form no. 14 "Consolidated Abstract" of 
+the Rules.
+·
+Ageing will be done for the arrears of property tax and will be shown in 
+the Balance Sheet as Notes to Accounts. Ageing in the following slabs 
+will be done i.e. below 3 years, 3-5 years, 5-10 years, 10-15 years and 
+above 15 years 
+·
+Arrears of sick and closed industries will be provided for 100% as 
+Provision
+15.7. Arrears of all other taxes, licenses and fees 
+·
+This will include all other receivable other than property tax. This 
+includes rent from municipal shops and markets, water charges and tax, 
+advertisement tax, other fees, licenses, etc.  Water tax and rent from 
+municipal properties will be accounted for on accrual basis. All other 
+forms of income will be accounted on cash basis.
+·
+The water tax in the ULBs is imposed on a slab basis of property tax. 
+The total amount of water tax in arrears can be ascertained from the 
+Form no 12, 13 and 14 which are maintained separately for every tax 
+source of revenue.
+·
+The amount of the "arrears of rent" is ascertainable from the Form 37 
+"Demand and Collection Register of Rents", which is maintained 
+according to the Rules. 
+·
+Provision will be made similar to that followed for property tax in case 
+of water charge and rental income.
+ Guidelines for Opening Balance Sheet 

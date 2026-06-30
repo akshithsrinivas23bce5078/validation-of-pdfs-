@@ -1,0 +1,576 @@
+ 
+ 
+1 
+ 
+For internal use of IA&AD  
+ CHAPTER 1 – INTRODUCTION TO RAILWAY AUDIT MANUAL  
+1. BACKGROUND  
+The purpose of the Railway Audit  Manual  is to facilitate  an Auditor  to carry out 
+Audit of various activities  of Railway organization . The 5th edition  of the Railway 
+Audit Manual, (RAM ) presently in use, was issued in May 2001.  A need was felt 
+to revise/update it due to large scale computerization  that has taken place in the 
+Indian Railways over the years1; extensive changes in the Railways’ Codes  and 
+Manuals and issuance of several instructions over the last two decades.  With the 
+merger  of Railway budget with General  budget from 2017 -18 onwards, the audit 
+of Railway Accounts  is under the process of being revamp ed.  Moreover, 
+organizational restructuring of the Railways and paradigm shift in its working 
+environment further necessitated the revision  of RAM.  
+In the above background, Railway Audit  wing of the Hea dquarters  decided in 
+February 20192 to revise the existing RAM .  
+1.1 MAKING OF RAM  
+Process followed  while preparing sixth edition of RAM is detailed in Annexure 
+A.  
+1.2   STRUCTURE OF RAM  
+This edition  of the RAM  (6th edition) contains  Departmental Regulations3, 21 
+chapters  on different departments /organizations  of Indian Railways  and three 
+Appendices . The previous edition of the RAM focused on audit of railways’ 
+earnings (including audit of Local Traffic, Through Traffic, Catering Audit ) and 
+audit of railway expenditure (including expenditure on Establishment matters, 
+Railway Works , Workshops , Stores), Accounts  of their earnings and expenditure 
+(viz. General  Books  and Accounts, Appropriation  Accounts).  
+                                                           
+1A number of IT applications covering functionalities of different  departments  of Indian Rail ways like Freight 
+Operations Information  Systems  (FOIS), Control Office Application (CoA), Coaching Operations Information 
+Systems, Integrated Coaching Management System (ICMS), Passenger Reservation System (PRS), Unrese rved 
+Ticketing System (UTS), e -Procurement System, Integrated Pay Roll Accounting System, Integrated, Indian 
+Railways Projects Sanctions and Management, Track Management System, Human Resources Management 
+System, Hospital Management Information System etc.  covering functionalities pertaining to Commercial , 
+Operating , Stores, Establishment, Personnel, Accounts , Construction medical departments etc..  
+2 Hqrs. letter No. 23 -Rly/RAM -Revision/7 -1/2018 dated 07.02.2019  
+3 Includes constitution of the  Railway Audit Branch, its functions, Organizational Structure of Ministry of 
+Railway s, distribution of work among Railway Board Members etc.  
+Chapter 1 – Introduction to Railway Audit Manual  
+ 
+2 
+For internal use of IA&AD  
+ The chapters  in this edition  of the RAM  have been  organized department wise 
+and old chapters of the old Manual have been completely revised.  These chapters 
+provide an insight into the various aspects of functioning of Railway departments  
+as well as their audit.  This manual  facilitate s an Auditor  to carry out audit of 
+railway departments such as  General  Administration & Vigilance, Accounts , 
+Personne l, Commercial , Operating , S&T , Civil  Engineering , Railway Works , 
+Electrical Engineering, Mechanical  Engineer ing, Stores, Production  Units, 
+Medical , Security , Safety  etc. 
+1.3    FEATURES OF RAM  
+Details about Railway Organizations/PSUs /Bodies  have been included for the 
+first time in this editio n of the RAM  which facilitate  audit of activities of Centre  
+for Railway Information  Systems , Rail Land  Development  Authority,  Railway 
+Sports  Promotion  Board , Railway PSUs, Research Designs and Standards 
+Organization.  
+New features  like brief of the railway departments , organizational hierarchy , rules  
+& responsibilities of the departments at various level (Ministry/Zonal/Field 
+level),  criteria for identifications of Apex , Auditable  and Implementing  units at 
+Ministry/field level, list  of activities done by the railway departments,  important 
+risk parameters,  details about the computerized  applications being used by 
+railway departments have been included which provide  deep understanding and 
+knowledge about th e work ing of railway departments for facilitating an Auditor  
+to conduct Audit.  
+Department wise comprehensive audit check  list to be applied by the Auditor  
+while undertaking audit at Apex , Audit able and Implementing  unit level s 
+including general check list and activity specific check list have also been 
+included.  
+The check lists have been developed after considering guidelines issued by the 
+office of the Comptroller  & Auditor  General  of India  on Performance  Audit , 
+Compliance  Audit, Financial  Attest  Audit, Information  Technology Audit, PPP 
+Audit etc., which will guide Auditor in conducting various types of audit of 
+Railway departments  including Certification of Railway Accounts , Audit of 
+Railway PSUs , Audit of Autonomous  Bodies  etc.  
+This manual  also includes links to various orders/guidelines/circulars issued by 
+the Ministry of Railways/other Govt. organizations  as well as various 
+guidelines/guidance notes issued by the office of the Comptroller  & Auditor  
+General  of India . 
+Railway Audit Manual  
+ 
+3 
+For internal use of IA&AD  
+  In October 2018, the Ministry  of Railways  decided to implement e -Office , a work  
+flow based file  system  developed by National  Informatics  Center (NIC ).  This is 
+a digital  workplace solution with a vi sion to achieve transparent  paperless  working, 
+details of which have been included under the chapter on e -office which will 
+facilitate  Audit  in e-office environment.  
+This manual  also enables Auditor  to fulfill the transverse reporting 
+responsibilities to DAI /ADIs seeking specialized input  as envisaged vide SMU  
+wing4 of the Headquarters  office.  
+1.4   NEW INITIATIVES  
+1.4.1  ‘SAMPRATI ’, is an endeavor of Audit  to highlight issues of concern even during 
+the execution phase, especially in project and outcome -oriented activities of the 
+Railways, that can be addressed promptly, de tails of which ha ve been included 
+under Appendix -I. 
+1.4.2  In response to pro -active approach of the Railway Wing of the Headquarters  
+office, the Ministry of Railways (Railway Board ) has decided5 to constitute an 
+Audit  Review Committee  to look into the issues related to response, data access 
+and other bottlenecks in information flow to Audit and vice -versa. Additional 
+Member  (Budget ), Ad ditional Member (Works ), Director  General  of 
+Audit/Principal  Director  of Audit (Railway Board  Audit) are members of the 
+committee.  The commi ttee may co -opt other Additional Members of the Railway 
+Board, depending upon the issues to be deliberated upon and will meet once in a 
+month (Appendix -II) 
+1.4.3  One IA AD One System (OIOS ) is an end -to-end enterprise -wide, i ntegrated IT 
+system for all audit activities in IA&AD , covering all Field Audit  Offices and the 
+Headquarters  Office  details of which ha ve been included under Appendix -III. 
+2. DEPARTMENTAL REGU LATIONS  
+2.1   Constitution o f the Railway Audit Branch  
+2.1.1 History of Railway Audit  
+The Government of India ’s resources include all revenues received by the Union  
+Government, all loans raised by issue of treasury bills, in ternal and external loans 
+and all moneys received by the Government in repayment of loans. Railways 
+Audit  was separated from Accounts  in 1929.  The audit of Railways was entrusted  
+to the Comptroller  and Auditor  General  of India (C&AG ), prior to the enactment 
+                                                           
+4 Refer Headquarters  letter No. 59/31 -SMU /2018 dated 9th March 2020.  
+5 Ministry of Railways (Railway Board ) letter No. ERB -1/2022/23/26 dated 24th March 2022  
+Chapter 1 – Introduction to Railway Audit Manual  
+ 
+4 
+For internal use of IA&AD  
+ of the Comptroller and Auditor General’s (Duties, Powers and Conditions of 
+Service) Act , 1971 {C&AG’s (DPC ) Act, 19 71}. 
+2.1.2 Organizational set up  
+Organization al set up of the Railway Audit  Branch:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1.3 Authority of the Comptroller  and Auditor  General  of India  
+The Compt roller  and Auditor  General  of India  (C&AG ) derives his authority and 
+functions  mainly from the provisions of Articles 149 to 151 of the Constitution  
+of India. Article  149 provides that the C&AG shall exercise such powers and 
+perform such duties in relation to the accounts of the Union  and of the States and 
+of any other authority or body as may be prescribed by o r under any law made by 
+the Parliament . The Parliament passed the C&AG’s DPC  Act in 1971, which 
+came into force with effect from 15 December 1971 . Section 16 of the C&AG’s 
+DPC Act authorises C&AG to audit all rec eipts (both revenue and capital) of the 
+Government of India and of Governments of each State and of each Union 
+Territory having a legislative assembly and to satisfy himself that the rules  and 
+procedures are designed to secure an effective ch eck on the assessment, collection 
+and proper allocation  of revenue and are being duly observed. The C &AG is the Comptroller and Auditor General of India  
+Deputy Comptroller and Auditor General (Railway)  
+Director G eneral of 
+Audit/ Principal 
+Director of Audit 
+(Field Offices)  
+Director/ Deputy Director of Audit  
+Senior Administrative Officer/ Assistant Administrative 
+Officer (Headquar ters) and Senior Audit Officer/ Assistant 
+Audit officer (Field Offices)  Director General 
+(Railways)/ Principal 
+Director (Railways) 
+– (Headquarters)  Director General of 
+Audit/ Principal 
+Director of Audit 
+(Railway Board Audit)  
+Railway Audit Manual  
+ 
+5 
+For internal use of IA&AD  
+  final audit authority.  His responsibility for the audit of Railway Accounts  is 
+discharged through the Deput y Comptroller and Auditor General (Railways) 
+(DAI /Rlys). The DAI (Rlys) is assisted by  a Director  General  
+(Railways)/ Principal  Director  (Railw ays) at Headquarters  and at Railway Board  
+Audit  Office.  There are also eighteen Zonal Rail way Director s General  of 
+Audit/ Principal Directors of Aud it {including Director General/ Principal 
+Director ( Rail Commercial )} under the DAI (Rlys) having their offices at the 
+Headquarters of the Railways to which they are attached.  
+2.1.4 Administrative control and jurisdiction of Director s General  of Audi t/ 
+Principal  Directors of Audit    
+Director s General  of Audit /Principal  Director s of Audit work under the 
+supervision and direction of the DAI  (Rlys) subject to any general or special 
+orders which the DAI (Rlys) may issue, the Director s General/ Principal Directors 
+of Audit may prescribe detailed instructions regarding the division of work and 
+responsibility among his/ her subordinate  staff and other matters relating to the 
+organisation of his/ her office.  
+Directors/ Deputy  Directors in the offices of the Director  General  of A udit/ 
+Principal  Director  of Audit  under whom they are working should be entrusted  
+with the direct -charge of some important audit sections and inspections .  It should  
+be ensured that the Directors/ Deputy D irectors hold direct charge of important 
+sections apart from dealing with sensitive matters, performing essential 
+administrative duties like functioning as appointing authority, under the 
+discipline rules , functioning as controlling office et c.  It would also be desirable 
+to rotate their charges, at least once in a year, so that they hold direct charge of 
+all important sections over a period of time.  The Director s General  of Audit/ 
+Principal Director s of Audit may decide how f ar they can themselves take over 
+the administrative duties and the extent to which they should utilise the services 
+of the Group Officer s for the purpose.   
+The Director s General  of Audit / Principal  Director s of Audit are responsible for 
+the efficient administration of the offices at their Headquarters  and also for the 
+efficiency  of the subordinate  offices under their control.  For keeping a proper 
+control over the subordinate units whether situated at Headquarters or outstations 
+under their jurisdiction and in the interest of effectiveness  of the audit work done 
+by the Railway Audit Organisation, the Director s General of Audit/ Principal 
+Directors of Audit should visit their subordinate formations as well as important 
+units of the Railway Administration like major stations , workshops and the sites 
+of important works to be taken up for review from time to time.  Th e Director s 
+General of Audit/ Principal Directors of Audit should have a minimum touring of 
+about seven working days every month.  The important points noticed during 
+Chapter 1 – Introduction to Railway Audit Manual  
+ 
+6 
+For internal use of IA&AD  
+ their visits/ tours/ inspections  should be reported to Headquarters of fice in the 
+form of narrative reports for information of DAI  (Rlys).  
+3. ORGANIZATIONAL STRUCTURE OF MINISTRY OF 
+RAILWAYS  
+3.1  Composition of Railway Board  
+Subsequent to decision of the cabinet  dated 24 Decembe r 2019 and ACC’s 
+approval on reorganization of Railway on functional lines, Ministry of Railways 
+(Railway Board ) vide their Office Order No.64 of 2020 has revised the 
+composition of Board  as under:  
+I) Chairman , Railway Board  and Chief Executive Officer (CEO )-CRB,  
+II) Member  (Infrastructure ), Railway Board  – M/Infra,  
+III) Member  [Traction & Rolling Stock (T&RS) ], Railway Board  – M/TRS  
+IV) Member  [Operations & Business Development  (O&BD )], Railway Board  
+– M/O&BD, and  
+V) Member  (Finance ), Railway Board  - MF 
+The Organisation Structure of Ministry of Railways (Railway Board ) is as 
+follows:  
+
+Railway Audit Manual  
+ 
+7 
+For internal use of IA&AD  
+  3.2   List of Indian Railway Zones , their Headquarters and Divisions   
+S.I. 
+No. Railway Zone  Zone 
+Headquarters  Railway Divisions  
+1 Northern  Railway  Delhi  Delhi , Ambala, Firozpur, Lucknow 
+NR, Moradabad  
+2 Northeast  
+Frontier Railway  Guwahati  Alipurduar, Katihar, Rangiya, 
+Lumding, Tinsukia  
+3 Eastern  Railway  Kolkata  Howrah, Sealdah, Asansol, Malda  
+4 South  Eastern  
+Railway  Kolkata  Adra, Chakradharpur, Kharagpur, 
+Ranchi  
+5 South  Central  
+Railway  Secunderaba d Secunderabad , Hyderabad Vijayawada, 
+GuntakalGuntur, Nanded  
+6 Southern  Railway  Chennai  Chennai , Tiruchirappalli, Madurai, 
+Palakkad, Salem, Thiruvananthapuram  
+7 Central Railway  Mumbai  Mumbai , Bhusawal, Pune, Solapur, 
+Nagpur  
+8 Western  Railway  Mumbai  Mumbai  WR, Ratlam, Ahmedabad, 
+Rajkot, Bhavnagar, Vadodara  
+9 South  Western  
+Railway  Hubballi  Hubballi , Bengaluru, Mysuru  
+10 North  Western  
+Railway  Jaipur  Jaipur , Ajmer, Bikaner, Jodhpur  
+11 West Central  
+Railway  Jabalpur  Jabalpur , Bhopal   Kota  
+12 North  Central  
+Railway  Allahabad  Allahabad , Agra, Jhansi  
+13 South  East 
+Central  Railway  Bilaspur  
+ Bilaspur , Raipur, Nagpur SEC  
+14 East Coast  
+Railway  Bhubaneswar  Khurda Road, Sambalpur, Waltair  
+15 East Central  
+Railway  Hajipur   Dhanbad, Mughalsarai, Samastipur, 
+Sonpur  
+16 Konkan  Railway  Navi  Mumbai   
+17 Kolkata  Metro 
+Railway  Kolkata  Kolkata  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter 1 – Introduction to Railway Audit Manual  
+ 
+8 
+For internal use of IA&AD  
+ 3.3 All India  Railway Map wi th Jurisdiction6 & Headquarters  only 
+ 
+ 
+ 
+                                                           
+6 Representation purpose only - not to scale  
+
+Railway Audit Manual  
+ 
+9 
+For internal use of IA&AD  
+  3.4  Broad Distribution of Work among Board  Members  
+The broad distribution  of work to be handled by the Board  Members will be as follows:  
+Chairma n Railway Board  & Chief 
+Executive Officer (CEO )- CRB  
+ HR 
+ Safety  
+ Security  
+ Health  
+ Planning  
+ Infrastructure  
+ Vigilance  
+ Efficiency & Research  
+ Public Relation s 
+ Heritage  
+ Secretary’s Branches  
+ Transformation Cell &  
+ Corporate Co -ordination.  
+Member  (Infrastructure ), Railway 
+Board  – M/Infra  
+ Works  
+ Civil  Engineering  
+ Bridges  
+ Signal & Telecom  
+ Land  & Amenities  
+ Station Development  & 
+ Railway Electrification  
+Member  {Traction & Rolling Stock 
+(TRS )}, Railway Board  – M/TRS  
+ Production  Units  
+ Mechanical  Workshops  
+ Coaches  
+ Locomotives  
+ Train sets  
+ Environment and House Keeping  
+ Electrical Maintenance of Coaching 
+Stock  
+ Traction Distribution  
+ Power Supply  
+ Renewable Energy &  
+ Materials Management  
+Member  {Operations & Business 
+Development  (O&BD )}, Railway 
+Board  – M/O&BD  
+ Traffic Transportation  
+ Coaching  
+ Tourism & Catering  
+ Commercial  
+ Non-Fare Revenue  
+ Market ing & Business Development  & 
+ IT 
+Member  (Finance ), Railway Board  
+– MF 
+ Accounts  
+ Finance  
+ Budget  
+ Revenue  
+ Stat & Econ &  
+ Economic U nit 
+ 
+Chapter 1 – Introduction to Railway Audit Manual  
+ 
+10 
+For internal use of IA&AD  
+ 4.  GENERAL DUT IES OF THE RAILWAY AUDIT BRANCH  
+4.1.  Functions of CAG   
+The functions  of the CAG  have been incorporated in CAG's (Duties, Powers and 
+Conditions of Service) Act , 1971.  The extent o f his responsibility for audit of 
+various types of railway transactions is as follows:  
+I) He is responsible for audit of all expenditure both in and outside India  on 
+Railways from the revenues of India; but no responsibility is imposed on 
+him fo r keeping the accounts.  
+II) He is required to audit all transactions of railways relating to debt, 
+deposits, sinking  funds, advance, suspense  account and remittance  
+transactions.  
+III) He is required to audit all t rading, manufacturing, profit and loss account 
+and balance sheet of railways.  
+IV) He is required to audit receipts and accounts of stores and stock relating 
+to railways.  
+V) He is responsible for audit and certification  of the accounts of 
+Government companies  and corporations relating to Railway established 
+by or under any law by Parliament / Legislative  Assembly  in accordance 
+with the provisions of the respective enactme nts. 
+VI) He is required to audit and certify the accounts of any body or authority 
+relating to Railway whose audit has not been entrusted  to him, if so 
+required by the President  upon such terms and conditions as may be 
+agree d upon between the Comptroller  and Auditor  General  of India  and 
+the Government of India.  
+VII) The contracts of certain lines not financed by Government provide for 
+some measure of Government Audi t in certain matters and this duty also 
+devolves upon him.  
+Various functions  of Railway Audit  involves:  
+ Auditing sanctions  involving finance.  
+ Auditing Rules and General  orders involving finance.  
+ Auditing Tender documents involving finance.  
+ Auditing Accounts  maintained by Account Department.  
+ Inspection  of Record and Vouchers.  
+ Auditing estimates prepare for projects.  
+ Checking internal audit mech anism and to ensure the accounting system 
+adopted is suitable and adequate for its purpose.  
+ 
+Railway Audit Manual  
+ 
+11 
+For internal use of IA&AD  
+  Audit  Methodology involves:  
+ Test check of vouchers  
+ Inspection  of offices  
+ Check of financial sanctions  
+ Check of a ll orders/sanctions  issued by GM & other officers  
+ Check of all receipts and payments & accounts  
+ Check of tenders & Contracts  
+ Check of procedures and systems  
+4.2  Functions of Railway Audit  Wing – 
+ The Railway Audit  Wing under the  DAI (Rlys) conducts audit on behalf of and 
+under the direction of the CAG  and is responsible for:  
+I) Scrutinising  the adequacy and suitability of all instructions relating to the 
+compilation of railway accounts and internal check procedure, whether 
+these instructions be in the form of codes or otherwise, to satisfy himself 
+that such instructions are consistent with the relevant statutory rules  and 
+the requirements of audit and accou nts [Cf. Para 2.2.14 of CAG 's M.S.O . 
+(Audit )] and  
+II) Audit  of 
+a) sanctions  having financial effect accorded by the Government of India  
+other than those pertaining solely to an individual railway or railway 
+accounts office;  
+b) sanctions  regarding financial rules  and general orders issued by the 
+President  which are not of a general nature but are applicable 
+exclusively to the Railway Department;  
+c) tenders invited by the Railway Board  for the purchase of cast iron and 
+steel sleepers, rolling stock and other materials;  
+d) accounts maintained in the office of the Railway Board  (Accounts  
+Branch);  
+e) all sanctions  and orders issued by the President  or Government of 
+India  relating to through traffic ; 
+f) rules  and modifications issued by the IRCA  and al l correction slips to 
+tariffs and publications issued by the Association.  
+Note -1 Sanctions referred to above are not only sanctions  to expenditure but also 
+sanctions relating to local  traffic  and applicable t o more than one railway.  
+Note -2-The sanctions  referred to in item (a), (b), (e) and (f ) above would be scrutinised 
+in the Headquarters  office with reference to Railway Board 's files, codal 
+Chapter 1 – Introduction to Railway Audit Manual  
+ 
+12 
+For internal use of IA&AD  
+ provis ions, etc. and any specific guidance of instructions considered necessary 
+issued to the field offices.  Formal acceptance in audit of the sanctions issued by 
+the Ministry of Railways (Railway Board ) need not, however, be communicated 
+to the P rincipal  Directors of Audit  of the Zonal Railways.  The Principal Directors 
+of Audit should not refrain from conducting scrutiny of such sanctions just merely 
+because the primary responsibility for audit of these sanctions r ests with the 
+Headquarters office.  The Principal Directors of Audit should communicate 
+objectionable features  noticed, if any, in course of their scrutiny of the sanctions, 
+in addition to their remarks on the points as may be referred to by the 
+Headquarters office, so that the same can be taken up with the Minis try of 
+Railways (Railway Board).  
+g) budget orders issued at the commencement of the financial year;  
+h) subsequent orders of re -appropriation  against the vote of the 
+Parliament ; 
+i) orders of appropriation  and re -appropriation issued by the President , 
+and 
+j) orders of regularisation of excess issued after a consideration of the 
+Appropriation  Acco unts and the Audit  Report;  
+NOTE - In respect of items (g), (h) and (i ) the check will be applied to verify that 
+the aggregate allotments to individual railways or departments  under each 
+grant and appropriat ion do not exceed the amount voted by the Parliament  
+or appropriation sanctioned by the President . 
+k) monthly and annual accounts of railways and of the railway section of 
+the Finance  Accounts  of the Union  Government including the Annual 
+Review of Balances as compiled by the Railway Board , (after check, 
+the material is forwarded to the Director  General  of Audit , Central  
+Revenues);  
+l) the Appropriation  Accounts  prepared by the Railway Board , 
+certifying to their accuracy and submitting the Audit  Report thereon 
+to the CAG  vide para 3.14.2 M.S.O . (Audit).  
+4.3  Duties of Director s General  of Audit /Principal  Director s of Audit  
+The Director s General  of Audit /Principal  Directors of Audit attached to the 
+individual railways are responsible for the scrutiny and audit of:  
+I) financial sanctions  pertaining to their railway s and offices under their 
+audit control, accorded by the Government of India , Ministry of Railways 
+(Railway Board ) or the General  Manager ; 
+II) the allocation  of estimates sa nctioned by the same authorities;  
+Railway Audit Manual  
+ 
+13 
+For internal use of IA&AD  
+  III) general orders issued by the General  Manager  under the powers delegated 
+to him;  
+IV) sanctions  pertaining to local  traffic ; 
+V) sanctions  issued by the Railway Administration relating to inter change 
+traffic  between railways;  
+VI) the detailed accounts of the railways to see that these have been correctly 
+prepared and are in proper form, no alteration in the form of the accou nts 
+or in classification  is made without the approval of the competent 
+authority, the system of internal check is efficient and that all 
+appropriations or re -appropriations sanctioned by the General  Manager  or 
+subordinate  authorities are in order;  
+VII) allocation  of expenditure divisible between two or more sections of a 
+railway to see that the division between the main and worked lines and 
+between commercial  and strategic  sections of a railway has been made 
+correctly;  
+VIII) expenditure from the Secret Fund  placed at the disposal of Railway 
+Administration, only to the extent of seeing that the prescribed certificate 
+is received from the General  Manager  in respect of each financial year;  
+IX) the annual Review of Balances and the Appropriation  Accounts  of the 
+Railway and certifying to their correctness;  
+X) and also for conducting periodical  inspections  of the stations  and accounts 
+of the executive  offices.  
+The Director  General  of Audit / Principal  Director  of Audit, Northern  Railway is 
+also responsible for the scrutiny and audit of (1) all sanctions  and orders issued 
+by the President  or Gov ernment of India  relating to foreign traffic  transactions 
+with Pakistan  (2) sanctions of Railway Administrations relating to interchanged  
+traffic between two or more railways, besides arra nging a monthly check of such 
+sanctions with reference to the prescribed minima and maxima of rates relating 
+to all Government railways, and (3) the accounts of receipts and expenditure 
+relating to establishment of the Railway Board  and its attached offices.  
+The Audit  of sanctions  relating to foreign traffic  transactions with Bangladesh 
+will be done by Director  General  of Audit/ Principal  Director  of Audit, Eastern  
+Railway.  
+5. TYPES OF AUDIT  
+The audit done by C&AG  is broadly classified into  
+5.1  Financial  Audit  
+Financial  Attest  Audit  (FAA ) is concerned with expression of audit opinion on a 
+set of financial statements. FAA is required to be carried out to reduce the 
+Chapter 1 – Introduction to Railway Audit Manual  
+ 
+14 
+For internal use of IA&AD  
+ possibility of the material misstatement in a financial statement and thereb y, 
+provide credibility to such a statement. FAA Guidelines.pdf (cag.gov.in)  
+5.2  Compliance  Audit   
+Complia nce audit is an assessment as to whether the provisions of the applicable 
+laws, rules  and regulations  made there under and various orders and instructions 
+issued by the competent authority a re being complied with. This audit by its very 
+nature promotes accountability, good governance and transparency as it is 
+concerned with reporting deviations, identifying weaknesses and assessing 
+propriety .Compliance -Guidelines -approved -final-preface -05de4efef9159d0 -
+85033036.pdf (cag.gov.in)  
+5.3 Performance  Audit  
+Performance  auditing  carried out by the Department is an independent , objective  
+and reliable examination of whether government undertakings, programs , 
+systems, activities or organisa tions are performing in accordance with the 
+principles of economy , efficiency  & effectiveness  and whether there is room for 
+improvement. Performance Auditing Guidelines 2014 (cag.gov.in)  
+6. COMMUNICATION FROM AUDIT  
+6.1  Specific Reports  - related to more important and serious irregularities noticed.  
+6.2   Audit Notes  - on irregularities rela ted to Account Branch in Part -I. 
+6.3   Inspection  Reports  - on irregularities related to E xecutives  and Stations in 
+Part-I and II.  
+7. DISPOSAL OF AUDIT/ INSPECTION REPORTS  
+Audit  reports should be promptly attended to and reply sent. Audit Note Part -II, 
+Inspection  Report Part -II are closed at Account level. Audit Note Part -I and 
+Inspection report Part -I are to be replied to Audit th rough the Accounts  office.  
+7.1  Special letters and Notes or Objections or Factual Statement  
+These relate to important cases noticed during regular audit and inspections  
+meriting inclusion in the Audit  Report to the CAG . Prompt action at higher levels 
+is called for in these cases.. Draft Para  is a serious report of Audit and reply to be 
+sent within four weeks (as per Audit Regulations , 2020)/ six weeks (as per 
+Railway Board ) by the Executive and Accounts  (as decided during the meeting 
+of Stake Holders on 23 February 2020)  covering the following aspects:  
+ History of the case with copies of relevant records.  
+ Sentence -wise remarks.  
+ Chronological summary of the case where there is an unusual delay.  
+Railway Audit Manual  
+ 
+15 
+For internal use of IA&AD  
+   Remedial action taken and  
+ Disciplinary action taken or proposed on the individual lapses referred.  
+ 
